@@ -1,4 +1,11 @@
-### Hi there 👋
+[<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?hl=en&user=67aQviYAAAAJ)
+[<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Vatsal-Sanjay-2)
+[<img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/VatsalSanjay)
+[<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/vatsalsanjay/)
+[<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4293-6099)
+
+
+Hello, I'm Vatsal Sanjay. I'm a [fluid dynamicist](https://www.vatsalsanjay.com) with an interest in direct numerical simulations of drops, bubbles, jets, and all multifluid systems. I am currently a postdoctoral researcher at the [Physics of Fluids group](https://pof.tnw.utwente.nl), working with [Detlef Lohse](https://en.wikipedia.org/wiki/Detlef_Lohse). 
 
 <!--
 **VatsalSy/VatsalSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
