@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
-
 <center>
 
 [<img alt="Vatsal" width="200px" src="https://www.dropbox.com/s/dxyybgtblo8er6h/Logo_Vatsal_Vector.png?raw=1">](https://www.vatsalsanjay.com)
@@ -23,3 +21,5 @@ I am curious about all fluid flow phenomena with interfaces. Especially those in
 - Direct Numerical Simulations (low Reynolds numbers)
 
 Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
