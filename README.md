@@ -26,6 +26,7 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 ---
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
