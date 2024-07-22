@@ -36,7 +36,12 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 <!--END_SECTION:activity-->
 ---
 
+### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
+
 ---
+### :zap: More statistics
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -113,5 +118,3 @@ Python                   6 repos             █░░░░░░░░░░�
  Last Updated on 22/07/2024 21:16:25 UTC
 <!--END_SECTION:waka-->
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
