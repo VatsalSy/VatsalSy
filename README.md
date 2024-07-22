@@ -25,6 +25,8 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ![Vatsal's GitHub stats](https://github-readme-stats-vatsal-sanjays-projects.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
 
 ---
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/3) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 2. 💪 Opened PR [#3](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/3) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
@@ -32,6 +34,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 4. 💪 Opened PR [#2](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/2) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 5. 🎉 Merged PR [#1](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/1) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 <!--END_SECTION:activity-->
+---
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VatsalSy&label=Profile%20views&color=orange&style=for-the-badge" alt="VatsalSy" /> </p>
