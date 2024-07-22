@@ -38,6 +38,79 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 217 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 67 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                698 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌆 Daytime                586 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌃 Evening                663 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌙 Night                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Tuesday                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Wednesday                452 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Thursday                 231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Friday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Sunday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TeX** 
+
+```text
+TeX                      30 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Jupyter Notebook         26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+C                        24 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+MATLAB                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/07/2024 21:16:25 UTC
 <!--END_SECTION:waka-->
 ---
 
