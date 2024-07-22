@@ -22,7 +22,7 @@ I am curious about all fluid flow phenomena with interfaces. Especially those in
 
 Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
 
-![Vatsal's GitHub stats](https://github-readme-stats-vatsal-sanjays-projects.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
+![Vatsal's GitHub stats](https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
 
 ---
 ### :zap: Recent Activity
