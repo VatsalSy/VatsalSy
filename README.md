@@ -26,6 +26,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 ---
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/3) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+2. 💪 Opened PR [#3](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/3) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+3. 🎉 Merged PR [#2](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/2) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+4. 💪 Opened PR [#2](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/2) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+5. 🎉 Merged PR [#1](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/1) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 <!--END_SECTION:activity-->
 ---
 
