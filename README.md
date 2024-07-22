@@ -43,15 +43,13 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: More statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2024
+> 🏆 223 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,21 +60,21 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                698 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
-🌆 Daytime                586 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                663 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌙 Night                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+🌞 Morning                698 commits         ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌆 Daytime                586 commits         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌃 Evening                667 commits         ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Tuesday                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                452 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Thursday                 231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Sunday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Monday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Tuesday                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Wednesday                452 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Thursday                 231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Friday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Sunday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 ```
 
 
@@ -84,15 +82,6 @@ Sunday                   453 commits         █████░░░░░░�
 
 ```text
 🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -115,6 +104,6 @@ Python                   6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 21:16:25 UTC
+ Last Updated on 22/07/2024 21:41:11 UTC
 <!--END_SECTION:waka-->
 ---
