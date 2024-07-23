@@ -34,7 +34,6 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 ---
 
----
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
