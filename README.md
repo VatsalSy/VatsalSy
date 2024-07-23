@@ -22,7 +22,17 @@ I am curious about all fluid flow phenomena with interfaces. Especially those in
 
 Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
 
-![Vatsal's GitHub stats](https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
+<!-- ![Vatsal's GitHub stats](https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats-xi-wine-74.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark) -->
+
+---
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" alt="Vatsal's GitHub stats" style="width: 55%;">
+    <img src="https://github-readme-stats-xi-wine-74.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 42%;">
+</div>
+
+---
 
 ---
 ### :zap: Recent Activity
