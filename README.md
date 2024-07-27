@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/9) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-2. 💪 Opened PR [#9](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/9) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-3. 🗣 Commented on [#1](https://github.com/nbeb/extracting_self-similarity_from_data/issues/1#issuecomment-2252093691) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
-4. 💪 Opened PR [#2](https://github.com/nbeb/extracting_self-similarity_from_data/pull/2) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
-5. 🎉 Merged PR [#1](https://github.com/VatsalSy/extracting_self-similarity_from_data/pull/1) in [VatsalSy/extracting_self-similarity_from_data](https://github.com/VatsalSy/extracting_self-similarity_from_data)
+1. 🎉 Merged PR [#10](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/10) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+2. 💪 Opened PR [#10](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/10) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+3. 🎉 Merged PR [#9](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/9) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+4. 💪 Opened PR [#9](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/9) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+5. 🗣 Commented on [#1](https://github.com/nbeb/extracting_self-similarity_from_data/issues/1#issuecomment-2252093691) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
 <!--END_SECTION:activity-->
 ---
 
