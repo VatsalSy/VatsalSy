@@ -52,7 +52,7 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: More statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.2%20million%20lines%20of%20code-blue)
 
@@ -95,9 +95,9 @@ Sunday                   515 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C                        7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Shell                    6 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Other                    5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+C                        7 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Shell                    6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Other                    4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 Python                   4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Git                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
@@ -136,6 +136,6 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 12:28:07 UTC
+ Last Updated on 28/07/2024 16:20:40 UTC
 <!--END_SECTION:waka-->
 ---
