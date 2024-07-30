@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/11) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-2. 💪 Opened PR [#11](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/11) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-3. 🎉 Merged PR [#1](https://github.com/VatsalSy/ohmyzsh/pull/1) in [VatsalSy/ohmyzsh](https://github.com/VatsalSy/ohmyzsh)
-4. 🎉 Merged PR [#10](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/10) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-5. 💪 Opened PR [#10](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/10) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+1. ❗ Opened issue [#13](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/13) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+2. ❗ Opened issue [#12](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/12) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+3. 🔒 Closed issue [#1](https://github.com/VatsalSy/VatsalSy.github.io/issues/1) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+4. ❗ Opened issue [#1](https://github.com/VatsalSy/VatsalSy.github.io/issues/1) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+5. 🎉 Merged PR [#11](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/11) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 <!--END_SECTION:activity-->
 ---
 
