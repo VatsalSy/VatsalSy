@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/VatsalSy/extracting_self-similarity_from_data/pull/2) in [VatsalSy/extracting_self-similarity_from_data](https://github.com/VatsalSy/extracting_self-similarity_from_data)
-2. 💪 Opened PR [#2](https://github.com/VatsalSy/extracting_self-similarity_from_data/pull/2) in [VatsalSy/extracting_self-similarity_from_data](https://github.com/VatsalSy/extracting_self-similarity_from_data)
-3. 🗣 Commented on [#14](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/14#issuecomment-2261554103) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-4. ❗ Opened issue [#14](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/14) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-5. ❗ Opened issue [#2](https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2) in [VatsalSy/non-spherical-drop-Impact](https://github.com/VatsalSy/non-spherical-drop-Impact)
+1. 💪 Opened PR [#17](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/17) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+2. 🎉 Merged PR [#16](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/16) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+3. 💪 Opened PR [#16](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/16) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+4. ❗ Opened issue [#15](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/15) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+5. 🎉 Merged PR [#2](https://github.com/VatsalSy/extracting_self-similarity_from_data/pull/2) in [VatsalSy/extracting_self-similarity_from_data](https://github.com/VatsalSy/extracting_self-similarity_from_data)
 <!--END_SECTION:activity-->
 ---
 
