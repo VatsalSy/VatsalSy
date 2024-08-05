@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/VatsalSy/ohmyzsh/pull/4) in [VatsalSy/ohmyzsh](https://github.com/VatsalSy/ohmyzsh)
-2. ❗ Opened issue [#18](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/18) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-3. 🔒 Closed issue [#14](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/14) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-4. 🎉 Merged PR [#17](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/17) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-5. 🗣 Commented on [#17](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/17#issuecomment-2267532284) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+1. 💪 Opened PR [#6](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/6) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+2. ❌ Closed PR [#4](https://github.com/VatsalSy/ohmyzsh/pull/4) in [VatsalSy/ohmyzsh](https://github.com/VatsalSy/ohmyzsh)
+3. ❗ Opened issue [#18](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/18) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+4. 🔒 Closed issue [#14](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/14) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+5. 🎉 Merged PR [#17](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/17) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
 <!--END_SECTION:activity-->
 ---
 
