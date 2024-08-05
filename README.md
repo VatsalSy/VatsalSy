@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/6) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
-2. ❌ Closed PR [#4](https://github.com/VatsalSy/ohmyzsh/pull/4) in [VatsalSy/ohmyzsh](https://github.com/VatsalSy/ohmyzsh)
-3. ❗ Opened issue [#18](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/18) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-4. 🔒 Closed issue [#14](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/14) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-5. 🎉 Merged PR [#17](https://github.com/VatsalSy/BurstingBubble_VE_coated/pull/17) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+1. ❗ Opened issue [#7](https://github.com/Computational-Multiphase-Physics/SoftSliding/issues/7) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+2. 🗣 Commented on [#6](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/6#issuecomment-2269025105) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+3. 🗣 Commented on [#1](https://github.com/Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase/issues/1#issuecomment-2269023682) in [Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase](https://github.com/Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase)
+4. ❗ Opened issue [#1](https://github.com/Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase/issues/1) in [Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase](https://github.com/Computational-Multiphase-Physics/acceleration_incompatibleWiththree-phase)
+5. 💪 Opened PR [#6](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/6) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
 <!--END_SECTION:activity-->
 ---
 
