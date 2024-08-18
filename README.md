@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VatsalSy/Vatsal_CV/pull/1) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-2. 💪 Opened PR [#1](https://github.com/VatsalSy/Vatsal_CV/pull/1) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-3. 🎉 Merged PR [#3](https://github.com/VatsalSy/hyphal-flow/pull/3) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
-4. 💪 Opened PR [#3](https://github.com/VatsalSy/hyphal-flow/pull/3) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
-5. ❗ Opened issue [#10](https://github.com/Computational-Multiphase-Physics/SoftSliding/issues/10) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+1. 🎉 Merged PR [#1](https://github.com/VatsalSy/github-readme-stats/pull/1) in [VatsalSy/github-readme-stats](https://github.com/VatsalSy/github-readme-stats)
+2. 🎉 Merged PR [#1](https://github.com/VatsalSy/Vatsal_CV/pull/1) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+3. 💪 Opened PR [#1](https://github.com/VatsalSy/Vatsal_CV/pull/1) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. 🎉 Merged PR [#3](https://github.com/VatsalSy/hyphal-flow/pull/3) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
+5. 💪 Opened PR [#3](https://github.com/VatsalSy/hyphal-flow/pull/3) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
 <!--END_SECTION:activity-->
 ---
 
