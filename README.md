@@ -28,7 +28,7 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" alt="Vatsal's GitHub stats" style="width: 55%;">
+    <img src="https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&orgs=Computational-Multiphase-Physics&show_icons=true&theme=vision-friendly-dark" alt="Vatsal's GitHub stats" style="width: 55%;">
     <img src="https://github-readme-stats-xi-wine-74.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 42%;">
 </div>
 
