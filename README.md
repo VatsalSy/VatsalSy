@@ -52,15 +52,13 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: More statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 561 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,11 +120,11 @@ Mac                      61 hrs 51 mins      ███████████�
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      34 repos            ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-Jupyter Notebook         30 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-C                        28 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TeX                      34 repos            ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Jupyter Notebook         30 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+C                        29 repos            ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
@@ -136,6 +134,6 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 12:29:14 UTC
+ Last Updated on 25/08/2024 16:19:37 UTC
 <!--END_SECTION:waka-->
 ---
