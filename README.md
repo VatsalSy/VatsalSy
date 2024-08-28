@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/VatsalSy/github-readme-stats/pull/2) in [VatsalSy/github-readme-stats](https://github.com/VatsalSy/github-readme-stats)
-2. 🎉 Merged PR [#1](https://github.com/VatsalSy/testWebsite/pull/1) in [VatsalSy/testWebsite](https://github.com/VatsalSy/testWebsite)
-3. 💪 Opened PR [#1](https://github.com/VatsalSy/testWebsite/pull/1) in [VatsalSy/testWebsite](https://github.com/VatsalSy/testWebsite)
-4. 💪 Opened PR [#11](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/11) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
-5. 🎉 Merged PR [#2](https://github.com/VatsalSy/Vatsal_CV/pull/2) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+1. 🚀 Published release [version August 2024](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/releases/tag/v1.0) in [VatsalSy/The-role-of-viscosity-on-drop-impact-forces](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces)
+2. 🎉 Merged PR [#1](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/pull/1) in [VatsalSy/The-role-of-viscosity-on-drop-impact-forces](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces)
+3. 💪 Opened PR [#1](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/pull/1) in [VatsalSy/The-role-of-viscosity-on-drop-impact-forces](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces)
+4. ❌ Closed PR [#2](https://github.com/VatsalSy/github-readme-stats/pull/2) in [VatsalSy/github-readme-stats](https://github.com/VatsalSy/github-readme-stats)
+5. 🎉 Merged PR [#1](https://github.com/VatsalSy/testWebsite/pull/1) in [VatsalSy/testWebsite](https://github.com/VatsalSy/testWebsite)
 <!--END_SECTION:activity-->
 ---
 
