@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [vFinal](https://github.com/VatsalSy/ViscousDropImpactForces.R2/releases/tag/vFinal) in [VatsalSy/ViscousDropImpactForces.R2](https://github.com/VatsalSy/ViscousDropImpactForces.R2)
-2. 💪 Opened PR [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
-3. 🗣 Commented on [#14490](https://github.com/raycast/extensions/issues/14490#issuecomment-2355483960) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#14490](https://github.com/raycast/extensions/issues/14490#issuecomment-2355477967) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#14490](https://github.com/raycast/extensions/issues/14490#issuecomment-2355476324) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🔒 Closed issue [#8](https://github.com/Computational-Multiphase-Physics/SoftSliding/issues/8) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+2. 🎉 Merged PR [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+3. 🗣 Commented on [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12#issuecomment-2376998791) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+4. 🗣 Commented on [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12#issuecomment-2376799364) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+5. 🚀 Published release [vFinal](https://github.com/VatsalSy/ViscousDropImpactForces.R2/releases/tag/vFinal) in [VatsalSy/ViscousDropImpactForces.R2](https://github.com/VatsalSy/ViscousDropImpactForces.R2)
 <!--END_SECTION:activity-->
 ---
 
