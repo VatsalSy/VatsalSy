@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Lohittitas/concentricWave/pull/3) in [Lohittitas/concentricWave](https://github.com/Lohittitas/concentricWave)
-2. 💪 Opened PR [#3](https://github.com/Lohittitas/concentricWave/pull/3) in [Lohittitas/concentricWave](https://github.com/Lohittitas/concentricWave)
-3. 🔒 Closed issue [#8](https://github.com/Computational-Multiphase-Physics/SoftSliding/issues/8) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
-4. 🎉 Merged PR [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
-5. 🗣 Commented on [#12](https://github.com/Computational-Multiphase-Physics/SoftSliding/pull/12#issuecomment-2376998791) in [Computational-Multiphase-Physics/SoftSliding](https://github.com/Computational-Multiphase-Physics/SoftSliding)
+1. ❗ Opened issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+2. ❗ Opened issue [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+3. 🎉 Merged PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+4. 💪 Opened PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+5. 🎉 Merged PR [#3](https://github.com/Lohittitas/concentricWave/pull/3) in [Lohittitas/concentricWave](https://github.com/Lohittitas/concentricWave)
 <!--END_SECTION:activity-->
 ---
 
