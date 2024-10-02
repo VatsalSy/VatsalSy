@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-2. ❗ Opened issue [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-3. 🎉 Merged PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-4. 💪 Opened PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-5. 🎉 Merged PR [#3](https://github.com/Lohittitas/concentricWave/pull/3) in [Lohittitas/concentricWave](https://github.com/Lohittitas/concentricWave)
+1. ❗ Opened issue [#14760](https://github.com/raycast/extensions/issues/14760) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❗ Opened issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+3. ❗ Opened issue [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+4. 🎉 Merged PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+5. 💪 Opened PR [#1](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/pull/1) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
 <!--END_SECTION:activity-->
 ---
 
