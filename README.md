@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3#issuecomment-2388434835) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-2. 🔒 Closed issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-3. ❗ Opened issue [#14760](https://github.com/raycast/extensions/issues/14760) in [raycast/extensions](https://github.com/raycast/extensions)
-4. ❗ Opened issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
-5. ❗ Opened issue [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+1. ❗ Opened issue [#60](https://github.com/lucky-bai/projecteuler-solutions/issues/60) in [lucky-bai/projecteuler-solutions](https://github.com/lucky-bai/projecteuler-solutions)
+2. 🗣 Commented on [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3#issuecomment-2388434835) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+3. 🔒 Closed issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+4. ❗ Opened issue [#14760](https://github.com/raycast/extensions/issues/14760) in [raycast/extensions](https://github.com/raycast/extensions)
+5. ❗ Opened issue [#3](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/3) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
 <!--END_SECTION:activity-->
 ---
 
