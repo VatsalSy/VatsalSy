@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
-2. ❗ Opened issue [#2](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/2) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
-3. 🎉 Merged PR [#1](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/pull/1) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
-4. 💪 Opened PR [#1](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/pull/1) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
-5. 💪 Opened PR [#14865](https://github.com/raycast/extensions/pull/14865) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗ Opened issue [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+2. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic3D/pull/1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+3. 💪 Opened PR [#1](https://github.com/comphy-lab/Viscoelastic3D/pull/1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. ❗ Opened issue [#3](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
+5. ❗ Opened issue [#2](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/2) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
 <!--END_SECTION:activity-->
 ---
 
