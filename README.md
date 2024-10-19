@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/comphy-lab/Viscoelastic3D/issues/3) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. ❗ Opened issue [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic3D/pull/1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/Viscoelastic3D/pull/1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. ❗ Opened issue [#3](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
+1. ❗ Opened issue [#6](https://github.com/comphy-lab/Viscoelastic3D/issues/6) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+2. ❗ Opened issue [#5](https://github.com/comphy-lab/Viscoelastic3D/issues/5) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+3. 🔒 Closed issue [#3](https://github.com/comphy-lab/Viscoelastic3D/issues/3) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 🗣 Commented on [#3](https://github.com/comphy-lab/Viscoelastic3D/issues/3#issuecomment-2423614089) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 🎉 Merged PR [#4](https://github.com/comphy-lab/Viscoelastic3D/pull/4) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
