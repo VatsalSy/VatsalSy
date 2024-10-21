@@ -37,11 +37,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2#issuecomment-2425132480) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. 🔒 Closed issue [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-3. 🗣 Commented on [#7](https://github.com/comphy-lab/Viscoelastic3D/pull/7#issuecomment-2425132176) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-4. 🎉 Merged PR [#7](https://github.com/comphy-lab/Viscoelastic3D/pull/7) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. 💪 Opened PR [#7](https://github.com/comphy-lab/Viscoelastic3D/pull/7) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🔓 Reopened issue [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
+2. 🔒 Closed issue [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
+3. 🗣 Commented on [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3#issuecomment-2426772472) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
+4. 🗣 Commented on [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2#issuecomment-2425132480) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 🔒 Closed issue [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
