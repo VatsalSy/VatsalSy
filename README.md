@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
-2. 🔒 Closed issue [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
-3. 🗣 Commented on [#3](https://github.com/comphy-lab/basilisk-C_v2024_Jul23/issues/3#issuecomment-2426772472) in [comphy-lab/basilisk-C_v2024_Jul23](https://github.com/comphy-lab/basilisk-C_v2024_Jul23)
-4. 🗣 Commented on [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2#issuecomment-2425132480) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. 🔒 Closed issue [#2](https://github.com/comphy-lab/Viscoelastic3D/issues/2) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🎉 Merged PR [#4](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/pull/4) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
+2. 💪 Opened PR [#4](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/pull/4) in [VatsalSy/DropImpact_viscoplastic_epsilonformulation](https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation)
+3. 🎉 Merged PR [#9](https://github.com/comphy-lab/Viscoelastic3D/pull/9) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 💪 Opened PR [#9](https://github.com/comphy-lab/Viscoelastic3D/pull/9) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 🎉 Merged PR [#8](https://github.com/comphy-lab/Viscoelastic3D/pull/8) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
