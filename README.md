@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/comphy-lab/Viscoelastic3D/issues/12) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. ❗ Opened issue [#11](https://github.com/comphy-lab/Viscoelastic3D/issues/11) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-3. 🎉 Merged PR [#6](https://github.com/VatsalSy/filamentsVE/pull/6) in [VatsalSy/filamentsVE](https://github.com/VatsalSy/filamentsVE)
-4. 💪 Opened PR [#6](https://github.com/VatsalSy/filamentsVE/pull/6) in [VatsalSy/filamentsVE](https://github.com/VatsalSy/filamentsVE)
-5. 🎉 Merged PR [#10](https://github.com/comphy-lab/Viscoelastic3D/pull/10) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🚀 Published release [🌊 v10: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v1.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+2. 🚀 Published release [💧 Viscoelastic Filament Breakup Solver v2.1](https://github.com/VatsalSy/filamentsVE/releases/tag/v2.1) in [VatsalSy/filamentsVE](https://github.com/VatsalSy/filamentsVE)
+3. 🚀 Published release [ElastoFlow: Unified 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v1.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. ❗ Opened issue [#12](https://github.com/comphy-lab/Viscoelastic3D/issues/12) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. ❗ Opened issue [#11](https://github.com/comphy-lab/Viscoelastic3D/issues/11) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
