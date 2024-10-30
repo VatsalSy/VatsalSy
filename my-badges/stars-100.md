@@ -63,6 +63,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/awesome-time-series-resources">VatsalSy/awesome-time-series-resources: ★1</a>
 * <a href="https://github.com/VatsalSy/awesome-Python-data-science-books">VatsalSy/awesome-Python-data-science-books: ★1</a>
 * <a href="https://github.com/VatsalSy/Asymmetries-in-coalescence">VatsalSy/Asymmetries-in-coalescence: ★1</a>
+* <a href="https://github.com/SaumiliJana/WrinklingBubbles">SaumiliJana/WrinklingBubbles: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
