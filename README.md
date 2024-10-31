@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [🌊 v10: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v1.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. 🚀 Published release [💧 Viscoelastic Filament Breakup Solver v2.1](https://github.com/VatsalSy/filamentsVE/releases/tag/v2.1) in [VatsalSy/filamentsVE](https://github.com/VatsalSy/filamentsVE)
-3. 🚀 Published release [ElastoFlow: Unified 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v1.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-4. ❗ Opened issue [#12](https://github.com/comphy-lab/Viscoelastic3D/issues/12) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. ❗ Opened issue [#11](https://github.com/comphy-lab/Viscoelastic3D/issues/11) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🔒 Closed issue [#1](https://github.com/SaumiliJana/WrinklingBubbles/issues/1) in [SaumiliJana/WrinklingBubbles](https://github.com/SaumiliJana/WrinklingBubbles)
+2. 🗣 Commented on [#1](https://github.com/SaumiliJana/WrinklingBubbles/issues/1#issuecomment-2447787631) in [SaumiliJana/WrinklingBubbles](https://github.com/SaumiliJana/WrinklingBubbles)
+3. 🎉 Merged PR [#3](https://github.com/SaumiliJana/WrinklingBubbles/pull/3) in [SaumiliJana/WrinklingBubbles](https://github.com/SaumiliJana/WrinklingBubbles)
+4. 🗣 Commented on [#3](https://github.com/SaumiliJana/WrinklingBubbles/pull/3#issuecomment-2447785166) in [SaumiliJana/WrinklingBubbles](https://github.com/SaumiliJana/WrinklingBubbles)
+5. 💪 Opened PR [#3](https://github.com/SaumiliJana/WrinklingBubbles/pull/3) in [SaumiliJana/WrinklingBubbles](https://github.com/SaumiliJana/WrinklingBubbles)
 <!--END_SECTION:activity-->
 ---
 
