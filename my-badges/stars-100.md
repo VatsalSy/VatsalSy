@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/FluidChains">VatsalSy/FluidChains: ★6</a>
 * <a href="https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium">VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium: ★6</a>
 * <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV: ★5</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
+* <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★3</a>
 * <a href="https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films">VatsalSy/Drop-impact-on-viscous-liquid-films: ★3</a>
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★3</a>
 * <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★3</a>
@@ -23,7 +23,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/nvisco">VatsalSy/nvisco: ★2</a>
 * <a href="https://github.com/VatsalSy/kinematic-match-sphere">VatsalSy/kinematic-match-sphere: ★2</a>
 * <a href="https://github.com/VatsalSy/jumping-bubbles">VatsalSy/jumping-bubbles: ★2</a>
-* <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★2</a>
 * <a href="https://github.com/VatsalSy/ExperimentMatplotlibFont">VatsalSy/ExperimentMatplotlibFont: ★2</a>
 * <a href="https://github.com/VatsalSy/DropSpreadingOnSolid">VatsalSy/DropSpreadingOnSolid: ★2</a>
 * <a href="https://github.com/VatsalSy/computational-mechanics">VatsalSy/computational-mechanics: ★2</a>
