@@ -80,5 +80,7 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ---
 ### :zap: More statistics
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
