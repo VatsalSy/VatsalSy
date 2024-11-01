@@ -152,11 +152,6 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
-
-
  Last Updated on 01/11/2024 20:11:51 UTC
 <!--END_SECTION:waka-->
 ---
