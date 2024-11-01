@@ -32,6 +32,12 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
     <img src="https://github-readme-stats-xi-wine-74.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 42%;">
 </div>
 
+<div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=VatsalSy&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+</div>
+
 ---
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -149,12 +155,6 @@ Jupyter Notebook         32 repos            ██████░░░░░�
 MATLAB                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/VatsalSy/VatsalSy/main/assets/bar_graph.png)
 
 
  Last Updated on 01/11/2024 20:20:11 UTC
