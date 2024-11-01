@@ -144,6 +144,16 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 [![Vatsal's github activity graph](https://github-readme-activity-graph-sable.vercel.app/graph?username=VatsalSy&theme=github-compact&hide_title=true&days=42)](https://github.com/VatsalSy)
 
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=17101345&period=all_times" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=17101345&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+      <img alt="Contribution Time Distribution of @VatsalSy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=17101345&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+    </picture>
+  </a>
+</div>
+
+
 ---
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
