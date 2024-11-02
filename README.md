@@ -34,7 +34,7 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
 <div align="center">
     
-[![GitHub Streak](https://tinyurl.com/24582dum?user=VatsalSy&theme=vision-friendly-dark)](https://github.com/VatsalSy)
+[![GitHub Streak](https://https://tinyurl.com/222e7pqw?user=VatsalSy&theme=vision-friendly-dark)](https://github.com/VatsalSy)
 
 </div>
 
