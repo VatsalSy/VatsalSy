@@ -33,8 +33,8 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 </div>
 
 <div align="center">
-    
-[![GitHub Streak](https://https://tinyurl.com/222e7pqw?user=VatsalSy&theme=vision-friendly-dark)](https://github.com/VatsalSy)
+
+[![GitHub Streak](https://github-readme-streak-stats-vatsal-sanjays-projects.vercel.app?user=VatsalSy&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 </div>
 
