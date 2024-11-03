@@ -31,27 +31,27 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
   <a href="https://github.com/VatsalSy" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" width="55%" height="auto">
-      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=solarized-light" width="55%" height="auto">
+      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=solarized-light&hide_border=true" width="55%" height="auto">
     </picture>
   </a>
   <a href="https://github.com/VatsalSy" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" width="42%" height="auto">
-      <img alt="Top Langs" src="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=solarized-light" width="42%" height="auto">
+      <img alt="Top Langs" src="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=solarized-light&hide_border=true" width="42%" height="auto">
     </picture>
   </a>
 
   <a href="https://github.com/VatsalSy" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=vision-friendly-dark" width="53%" height="auto">
-      <img alt="Vatsal's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=solarized-light" width="53%" height="auto">
+      <img alt="Vatsal's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=solarized-light&hide_border=true" width="53%" height="auto">
     </picture>
   </a>
 
   <a href="https://www.youtube.com/@VatsalSanjay" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=vision_friendly_dark&cache_seconds=0" width="44%" height="auto">
-      <img alt="Vatsal's GitHub streak" src="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=solarized_light&cache_seconds=0" width="44%" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=vision_friendly_dark" width="44%" height="auto">
+      <img alt="Vatsal's GitHub streak" src="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=solarized_light&hide_border=true" width="44%" height="auto">
     </picture>
  </a>
 
