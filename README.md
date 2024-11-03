@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [🌊 v2.0.1: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.0.1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. 🎉 Merged PR [#15](https://github.com/comphy-lab/Viscoelastic3D/pull/15) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-3. 💪 Opened PR [#15](https://github.com/comphy-lab/Viscoelastic3D/pull/15) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-4. 🚀 Published release [🌊 v2.0: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. 🎉 Merged PR [#14](https://github.com/comphy-lab/Viscoelastic3D/pull/14) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic-pizza/pull/1) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+2. 💪 Opened PR [#1](https://github.com/comphy-lab/Viscoelastic-pizza/pull/1) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+3. 🚀 Published release [🌊 v2.0.1: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.0.1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 🎉 Merged PR [#15](https://github.com/comphy-lab/Viscoelastic3D/pull/15) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 💪 Opened PR [#15](https://github.com/comphy-lab/Viscoelastic3D/pull/15) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
