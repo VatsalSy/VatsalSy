@@ -48,12 +48,12 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
     </picture>
   </a>
 
-  <a href="https://github.com/VatsalSy" target="_blank">
+  <a href="https://www.youtube.com/@VatsalSanjay" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=vision_friendly_dark" width="44%" height="auto">
-      <img alt="Vatsal's GitHub streak" src="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=solarized_light" width="44%" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=vision_friendly_dark&cache_seconds=0" width="44%" height="auto">
+      <img alt="Vatsal's GitHub streak" src="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=solarized_light&cache_seconds=0" width="44%" height="auto">
     </picture>
-  </a>
+ </a>
 
 ---
 
