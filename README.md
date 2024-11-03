@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/dhyeythumar/youtube-stats-card/pull/6#issuecomment-2453303857) in [dhyeythumar/youtube-stats-card](https://github.com/dhyeythumar/youtube-stats-card)
-2. 🎉 Merged PR [#3](https://github.com/VatsalSy/github-readme-stats/pull/3) in [VatsalSy/github-readme-stats](https://github.com/VatsalSy/github-readme-stats)
-3. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2451641483) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
-4. 🎉 Merged PR [#3](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/pull/3) in [VatsalSy/The-role-of-viscosity-on-drop-impact-forces](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces)
-5. 💪 Opened PR [#3](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/pull/3) in [VatsalSy/The-role-of-viscosity-on-drop-impact-forces](https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces)
+1. 🚀 Published release [🌊 v2.0: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.0) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+2. 🎉 Merged PR [#14](https://github.com/comphy-lab/Viscoelastic3D/pull/14) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+3. 💪 Opened PR [#14](https://github.com/comphy-lab/Viscoelastic3D/pull/14) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 🗣 Commented on [#6](https://github.com/dhyeythumar/youtube-stats-card/pull/6#issuecomment-2453303857) in [dhyeythumar/youtube-stats-card](https://github.com/dhyeythumar/youtube-stats-card)
+5. 🎉 Merged PR [#3](https://github.com/VatsalSy/github-readme-stats/pull/3) in [VatsalSy/github-readme-stats](https://github.com/VatsalSy/github-readme-stats)
 <!--END_SECTION:activity-->
 ---
 
