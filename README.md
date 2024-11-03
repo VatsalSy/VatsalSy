@@ -27,16 +27,33 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ![Top Langs](https://github-readme-stats-xi-wine-74.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark) -->
 
 ---
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" alt="Vatsal's GitHub stats" style="width: 55%;">
-    <img src="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 42%;">
-</div>
 
-<div align="center">
+  <a href="https://github.com/VatsalSy" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" width="55%" height="auto">
+      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=solarized-light" width="55%" height="auto">
+    </picture>
+  </a>
+  <a href="https://github.com/VatsalSy" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=vision-friendly-dark" width="42%" height="auto">
+      <img alt="Top Langs" src="https://cust-github-readme-stats.vercel.app/api/top-langs/?username=VatsalSy&layout=compact&theme=solarized-light" width="42%" height="auto">
+    </picture>
+  </a>
 
-[![GitHub Streak](https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=vision-friendly-dark)](https://github.com/VatsalSy)
+  <a href="https://github.com/VatsalSy" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=vision-friendly-dark" width="52%" height="auto">
+      <img alt="Vatsal's GitHub streak" src="https://github-readme-streak-stats-delta-lovat.vercel.app/?user=VatsalSy&theme=solarized-light" width="52%" height="auto">
+    </picture>
+  </a>
 
-</div>
+  <a href="https://github.com/VatsalSy" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=vision_friendly_dark" width="43%" height="auto">
+      <img alt="Vatsal's GitHub streak" src="https://cust-youtube-stats-card.vercel.app/api?channelid=UC-eTdHrAM_eQrWOtNLoT19w&theme=solarized_light" width="43%" height="auto">
+    </picture>
+  </a>
 
 ---
 
