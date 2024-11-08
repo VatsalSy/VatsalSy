@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/comphy-lab/Viscoelastic-pizza/pull/2) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-2. 💪 Opened PR [#2](https://github.com/comphy-lab/Viscoelastic-pizza/pull/2) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic-pizza/pull/1) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/Viscoelastic-pizza/pull/1) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-5. 🚀 Published release [🌊 v2.0.1: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.0.1) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🚀 Published release [v1.0.2](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.2) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 🎉 Merged PR [#15](https://github.com/VatsalSy/commits-readme-stats/pull/15) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🎉 Merged PR [#14](https://github.com/VatsalSy/commits-readme-stats/pull/14) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🎉 Merged PR [#13](https://github.com/VatsalSy/commits-readme-stats/pull/13) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 ---
 
