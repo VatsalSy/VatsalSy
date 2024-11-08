@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.2) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 🎉 Merged PR [#15](https://github.com/VatsalSy/commits-readme-stats/pull/15) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 🎉 Merged PR [#14](https://github.com/VatsalSy/commits-readme-stats/pull/14) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🎉 Merged PR [#13](https://github.com/VatsalSy/commits-readme-stats/pull/13) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🚀 Published release [v1.0.3](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.3) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. 🚀 Published release [v1.0.2](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.2) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v1.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🎉 Merged PR [#15](https://github.com/VatsalSy/commits-readme-stats/pull/15) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🎉 Merged PR [#14](https://github.com/VatsalSy/commits-readme-stats/pull/14) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 ---
 
