@@ -99,7 +99,7 @@ Sunday                   250 commits         ████░░░░░░░�
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.9%20million%20lines%20of%20code-blue)
 
@@ -107,7 +107,7 @@ Sunday                   250 commits         ████░░░░░░░�
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,131 Contributions in the Year 2024
+> 🏆 1,149 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,17 +148,17 @@ Mac                      47 hrs 55 mins      ███████████�
 **I Mostly Code in C** 
 
 ```text
-C                        39 repos            ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+MATLAB                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
 
 
- Last Updated on 08/11/2024 16:25:37 UTC
+ Last Updated on 09/11/2024 01:19:47 UTC
 <!--END_SECTION:waka-->
 ---
 
