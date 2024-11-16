@@ -99,21 +99,21 @@ Sunday                   258 commits         ████░░░░░░░�
 <!--END_SECTION:github-stats-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,209 Contributions in the Year 2024
+> 🏆 1,212 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 78 Public Repositories 
  > 
-> 🔑 48 Private Repositories 
+> 🔑 49 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -148,17 +148,17 @@ Mac                      32 hrs 18 mins      ███████████�
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      40 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-MATLAB                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TeX                      40 repos            ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+MATLAB                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 15/11/2024 12:40:33 UTC
+ Last Updated on 16/11/2024 01:26:28 UTC
 <!--END_SECTION:waka-->
 ---
 
