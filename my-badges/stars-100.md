@@ -4,6 +4,7 @@
 
 Repos:
 
+* <a href="https://github.com/VatsalSy/FluidChains">VatsalSy/FluidChains: ★6</a>
 * <a href="https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium">VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium: ★6</a>
 * <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV: ★5</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
@@ -38,7 +39,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/python-fluidprop">VatsalSy/python-fluidprop: ★1</a>
 * <a href="https://github.com/VatsalSy/pyoomph_examples">VatsalSy/pyoomph_examples: ★1</a>
 * <a href="https://github.com/VatsalSy/pyoomph.github.io">VatsalSy/pyoomph.github.io: ★1</a>
-* <a href="https://github.com/VatsalSy/ohmyzsh">VatsalSy/ohmyzsh: ★1</a>
 * <a href="https://github.com/VatsalSy/NumerAnal-Gradbook">VatsalSy/NumerAnal-Gradbook: ★1</a>
 * <a href="https://github.com/VatsalSy/Newtonian-Drop-in-VP-medium">VatsalSy/Newtonian-Drop-in-VP-medium: ★1</a>
 * <a href="https://github.com/VatsalSy/LidDrivenFlowVP">VatsalSy/LidDrivenFlowVP: ★1</a>
