@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15409](https://github.com/raycast/extensions/pull/15409) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-3. 💪 Opened PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-4. 🚀 Published release [GitHub Commit Stats v2.1 🎉](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v2.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🚀 Published release [v2.1](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v2.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🗣 Commented on [#15409](https://github.com/raycast/extensions/pull/15409#issuecomment-2481004709) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#15409](https://github.com/raycast/extensions/pull/15409) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🎉 Merged PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. 💪 Opened PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+5. 🚀 Published release [GitHub Commit Stats v2.1 🎉](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v2.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 ---
 
