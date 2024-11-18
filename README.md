@@ -4,7 +4,7 @@
 
 [<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?hl=en&user=67aQviYAAAAJ)
 [<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Vatsal-Sanjay-2)
-[<img src="https://img.shields.io/badge/BlueSky-Status-blue?&style=for-the-badge&logo=twitter&logoColor=white">](https://bsky.app/profile/vatsalsanjay.bsky.social)
+[<img src="https://img.shields.io/badge/BlueSky-Profile-blue?&style=for-the-badge">](https://bsky.app/profile/vatsalsanjay.bsky.social)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/VatsalSanjay?style=for-the-badge&link=https%3A%2F%2Ftwitter.com%2FVatsalSanjay)](https://twitter.com/VatsalSanjay)
 [<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/vatsalsanjay/)
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4293-6099)
