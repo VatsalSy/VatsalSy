@@ -201,3 +201,10 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <!-- my-badges end -->
 
 ---
+
+
+## 😂 Lighten Up Your Day with a Joke!
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="50%" />
+</p>
