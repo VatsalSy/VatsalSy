@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV: ★5</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
+* <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors: ★3</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
 * <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★3</a>
@@ -16,13 +16,13 @@ Repos:
 * <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact: ★2</a>
 * <a href="https://github.com/VatsalSy/Vatsal-Thesis">VatsalSy/Vatsal-Thesis: ★2</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★2</a>
-* <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors: ★2</a>
 * <a href="https://github.com/VatsalSy/RotatingCouette">VatsalSy/RotatingCouette: ★2</a>
 * <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students">VatsalSy/Project-ideas-for-prospective-students: ★2</a>
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLawV2">VatsalSy/PlanarCouetteFlow_PowerLawV2: ★2</a>
 * <a href="https://github.com/VatsalSy/nvisco">VatsalSy/nvisco: ★2</a>
 * <a href="https://github.com/VatsalSy/kinematic-match-sphere">VatsalSy/kinematic-match-sphere: ★2</a>
 * <a href="https://github.com/VatsalSy/jumping-bubbles">VatsalSy/jumping-bubbles: ★2</a>
+* <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow: ★2</a>
 * <a href="https://github.com/VatsalSy/ExperimentMatplotlibFont">VatsalSy/ExperimentMatplotlibFont: ★2</a>
 * <a href="https://github.com/VatsalSy/DropSpreadingOnSolid">VatsalSy/DropSpreadingOnSolid: ★2</a>
 * <a href="https://github.com/VatsalSy/computational-mechanics">VatsalSy/computational-mechanics: ★2</a>
@@ -45,7 +45,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/macos-defaults">VatsalSy/macos-defaults: ★1</a>
 * <a href="https://github.com/VatsalSy/LidDrivenFlowVP">VatsalSy/LidDrivenFlowVP: ★1</a>
 * <a href="https://github.com/VatsalSy/IFM_repo_forked">VatsalSy/IFM_repo_forked: ★1</a>
-* <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow: ★1</a>
 * <a href="https://github.com/VatsalSy/GromacsPostProcessing">VatsalSy/GromacsPostProcessing: ★1</a>
 * <a href="https://github.com/VatsalSy/gdocs2md">VatsalSy/gdocs2md: ★1</a>
 * <a href="https://github.com/VatsalSy/Flow-Condensation">VatsalSy/Flow-Condensation: ★1</a>
