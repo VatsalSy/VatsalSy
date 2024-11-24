@@ -4,10 +4,10 @@
 
 My favorite commit message words are:
 
-1. the (used 1808 times)
-2. to (used 691 times)
+1. the (used 1810 times)
+2. to (used 698 times)
 3. and (used 507 times)
-4. of (used 424 times)
+4. of (used 426 times)
 5. for (used 342 times)
 
 
