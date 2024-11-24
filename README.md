@@ -61,10 +61,10 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GitHub Commit Stats v2.5 🎉](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v2.5) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. 🗣 Commented on [#15409](https://github.com/raycast/extensions/pull/15409#issuecomment-2481004709) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 💪 Opened PR [#15409](https://github.com/raycast/extensions/pull/15409) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🎉 Merged PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+1. 🚀 Published release [v0.1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/releases/tag/v0.1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+2. 🚀 Published release [🌊 v2.5: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.5) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+3. ❗ Opened issue [#16](https://github.com/comphy-lab/Viscoelastic3D/issues/16) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 🚀 Published release [GitHub Commit Stats v2.5 🎉](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v2.5) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 5. 💪 Opened PR [#3](https://github.com/VatsalSy/Vatsal_CV/pull/3) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 <!--END_SECTION:activity-->
 ---
