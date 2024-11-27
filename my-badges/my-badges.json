@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1810 times)\n2. to (used 698 times)\n3. and (used 507 times)\n4. of (used 426 times)\n5. for (used 342 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1812 times)\n2. to (used 698 times)\n3. and (used 507 times)\n4. of (used 426 times)\n5. for (used 342 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nbeb/extracting_self-similarity_from_data/issues/1\">#1</a>: Getting nan on running collapsing_cavity.ipynb\n- <a href=\"https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3\">#3</a>: Instability for Large Dimensionless Yield Stress (J/We >> 1)\n- <a href=\"https://github.com/comphy-lab/BurstingBubble_VE_paper/issues/31\">#31</a>: Update on overleaf",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nbeb/extracting_self-similarity_from_data/issues/1\">#1</a>: Getting nan on running collapsing_cavity.ipynb\n- <a href=\"https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3\">#3</a>: Instability for Large Dimensionless Yield Stress (J/We >> 1)",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/53ed2297368f2752533823d97a6796b76329647d\">53ed229</a>\n- <a href=\"https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/commit/f313aa059805411c8c48a85050cb9d210cdac0cd\">f313aa0</a>\n- <a href=\"https://github.com/VatsalSy/Asymmetries-in-coalescence/commit/927779214eb6b3411b8b481f9d2b4c11cf6d69bd\">9277792</a>\n- <a href=\"https://github.com/VatsalSy/Asymmetries-in-coalescence/commit/295b55014cb6cde942d1bafa2a30b929cdf10ca8\">295b550</a>\n- <a href=\"https://github.com/VatsalSy/Asymmetries-in-coalescence/commit/14c8813bb05ef2a559cf966fa9a0c6c992d3840a\">14c8813</a>\n- <a href=\"https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces/commit/a4c0d559a8484176eb459aea385877cba5718edb\">a4c0d55</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/73\">#73</a>",
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   }
 ]

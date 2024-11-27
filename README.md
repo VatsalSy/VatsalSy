@@ -179,8 +179,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 ---
 <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
-
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
@@ -199,6 +197,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <!-- my-badges end -->
 
 ---
