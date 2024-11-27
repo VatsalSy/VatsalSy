@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
-3. 🚀 Published release [v0.1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/releases/tag/v0.1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
-4. 🚀 Published release [🌊 v2.5: ElastoFlow - Complete 2D/3D Viscoelastic Framework](https://github.com/comphy-lab/Viscoelastic3D/releases/tag/v2.5) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. ❗ Opened issue [#16](https://github.com/comphy-lab/Viscoelastic3D/issues/16) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501487398) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+2. 💪 Opened PR [#73](https://github.com/my-badges/my-badges/pull/73) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+3. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501425535) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+4. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501367994) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+5. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
 <!--END_SECTION:activity-->
 ---
 
