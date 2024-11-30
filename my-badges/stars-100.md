@@ -5,6 +5,7 @@
 Repos:
 
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
+* <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★3</a>
 * <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors: ★3</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
@@ -15,7 +16,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/When-does-a-drop-stop-bouncing">VatsalSy/When-does-a-drop-stop-bouncing: ★2</a>
 * <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact: ★2</a>
 * <a href="https://github.com/VatsalSy/Vatsal-Thesis">VatsalSy/Vatsal-Thesis: ★2</a>
-* <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★2</a>
 * <a href="https://github.com/VatsalSy/RotatingCouette">VatsalSy/RotatingCouette: ★2</a>
 * <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students">VatsalSy/Project-ideas-for-prospective-students: ★2</a>
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLawV2">VatsalSy/PlanarCouetteFlow_PowerLawV2: ★2</a>
