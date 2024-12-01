@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501487398) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
-2. 💪 Opened PR [#73](https://github.com/my-badges/my-badges/pull/73) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
-3. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501425535) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
-4. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501367994) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
-5. 🎉 Merged PR [#1](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/1) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+1. 🗣 Commented on [#15623](https://github.com/raycast/extensions/issues/15623#issuecomment-2509813213) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501487398) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+3. 💪 Opened PR [#73](https://github.com/my-badges/my-badges/pull/73) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+4. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501425535) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
+5. 🗣 Commented on [#71](https://github.com/my-badges/my-badges/issues/71#issuecomment-2501367994) in [my-badges/my-badges](https://github.com/my-badges/my-badges)
 <!--END_SECTION:activity-->
 ---
 
