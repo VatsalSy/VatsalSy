@@ -198,6 +198,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 70 my own repositories." title="I&apos;ve starred 70 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
 ---
