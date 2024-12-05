@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/comphy-lab/Viscoelastic-pizza/pull/5) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-2. 💪 Opened PR [#5](https://github.com/comphy-lab/Viscoelastic-pizza/pull/5) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-3. 🎉 Merged PR [#4](https://github.com/comphy-lab/Viscoelastic-pizza/pull/4) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-4. 💪 Opened PR [#4](https://github.com/comphy-lab/Viscoelastic-pizza/pull/4) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-5. ❌ Closed PR [#3](https://github.com/comphy-lab/Viscoelastic-pizza/pull/3) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+1. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517567479) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517470467) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#15626](https://github.com/raycast/extensions/issues/15626#issuecomment-2517454121) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🎉 Merged PR [#5](https://github.com/comphy-lab/Viscoelastic-pizza/pull/5) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+5. 💪 Opened PR [#5](https://github.com/comphy-lab/Viscoelastic-pizza/pull/5) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
 <!--END_SECTION:activity-->
 ---
 
