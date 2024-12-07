@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium/pull/1) in [KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium)
-2. 🗣 Commented on [#15693](https://github.com/raycast/extensions/issues/15693#issuecomment-2521231198) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#15699](https://github.com/raycast/extensions/pull/15699#issuecomment-2520178882) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#15703](https://github.com/raycast/extensions/pull/15703#issuecomment-2520009361) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#15699](https://github.com/raycast/extensions/pull/15699#issuecomment-2520003768) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🎉 Merged PR [#6](https://github.com/comphy-lab/Viscoelastic-pizza/pull/6) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+2. 💪 Opened PR [#6](https://github.com/comphy-lab/Viscoelastic-pizza/pull/6) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
+3. 💪 Opened PR [#1](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium/pull/1) in [KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium)
+4. 🗣 Commented on [#15693](https://github.com/raycast/extensions/issues/15693#issuecomment-2521231198) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#15699](https://github.com/raycast/extensions/pull/15699#issuecomment-2520178882) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 ---
 
