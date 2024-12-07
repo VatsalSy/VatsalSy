@@ -44,8 +44,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"-\".",
-    "body": "My favorite commit message words are:\n\n1. - (used 375 times)\n2. update (used 259 times)\n3. changes (used 230 times)\n4. commit (used 209 times)\n5. new (used 140 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 264 times)\n2. changes (used 234 times)\n3. commit (used 209 times)\n4. new (used 140 times)\n5. add (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
