@@ -51,6 +51,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/elastohydrodynamic-bouncing">VatsalSy/elastohydrodynamic-bouncing: ★1</a>
 * <a href="https://github.com/VatsalSy/cphy">VatsalSy/cphy: ★1</a>
 * <a href="https://github.com/VatsalSy/Asymmetries-in-coalescence">VatsalSy/Asymmetries-in-coalescence: ★1</a>
+* <a href="https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium">KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium: ★1</a>
 * <a href="https://github.com/VatsalSy/warpThemes">VatsalSy/warpThemes: ★1</a>
 * <a href="https://github.com/VatsalSy/CylindricalStefan">VatsalSy/CylindricalStefan: ★1</a>
 * <a href="https://github.com/VatsalSy/Flow-Condensation">VatsalSy/Flow-Condensation: ★1</a>
