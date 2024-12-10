@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15761](https://github.com/raycast/extensions/issues/15761#issuecomment-2529409549) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#6](https://github.com/comphy-lab/Viscoelastic-pizza/pull/6) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-3. 💪 Opened PR [#6](https://github.com/comphy-lab/Viscoelastic-pizza/pull/6) in [comphy-lab/Viscoelastic-pizza](https://github.com/comphy-lab/Viscoelastic-pizza)
-4. 💪 Opened PR [#1](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium/pull/1) in [KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium](https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium)
-5. 🗣 Commented on [#15693](https://github.com/raycast/extensions/issues/15693#issuecomment-2521231198) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🚀 Published release [💨 WorthingtonVE](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/releases/tag/v1.0) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+2. 🎉 Merged PR [#2](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/2) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+3. 💪 Opened PR [#2](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/2) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+4. 🗣 Commented on [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2#issuecomment-2530185286) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+5. 🔒 Closed issue [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
 <!--END_SECTION:activity-->
 ---
 
