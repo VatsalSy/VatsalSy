@@ -168,7 +168,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <a href="https://github.com/VatsalSy" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-activity-graph-lup52w9gb.vercel.app/graph?username=VatsalSy&theme=github-compact&&area=true&hide_border=true&hide_title=true&days=42" width="100%" height="auto">
-      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-activity-graph-lup52w9gb.vercel.app/graph?username=VatsalSy&theme=github-light&&area=true&hide_border=true&hide_title=true&days=42" width="100%" height="auto">
+      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-activity-graph-lup52w9gb.vercel.app/graph?username=VatsalSy&theme=green&&area=true&hide_border=true&hide_title=true&days=42" width="100%" height="auto">
     </picture>
 </a>
 
