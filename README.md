@@ -8,7 +8,6 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/VatsalSanjay?style=for-the-badge&link=https%3A%2F%2Ftwitter.com%2FVatsalSanjay)](https://twitter.com/VatsalSanjay)
 [<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/vatsalsanjay/)
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4293-6099)
-[![streak](https://codeium.com/badges/v2/user/vatsalsy/streak)](https://codeium.com/profile/vatsalsy)
 </center>
 
 Hello, I'm Vatsal Sanjay. I'm a fluid dynamicist with an interest in direct numerical simulations of drops, bubbles, jets, and all multifluid systems. I am currently a postdoctoral researcher at the [Physics of Fluids group](https://pof.tnw.utwente.nl), working with [Detlef Lohse](https://en.wikipedia.org/wiki/Detlef_Lohse). 
