@@ -165,7 +165,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ---
 
-[![Vatsal's github activity graph](https://cust-github-readme-activity-graph-yfn1.vercel.app/graph?username=VatsalSy&theme=github-compact&&area=true&hide_border=true&hide_title=true&days=42)](https://github.com/VatsalSy)
+[![Vatsal's github activity graph](https://cust-github-readme-activity-graph-qedscj5rx.vercel.app/graph?username=VatsalSy&theme=github-compact&&area=true&hide_border=true&hide_title=true&days=42)](https://github.com/VatsalSy)
 
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=17101345&period=all_times" target="_blank">
