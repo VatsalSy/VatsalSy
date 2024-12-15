@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 266 times)\n2. changes (used 234 times)\n3. commit (used 209 times)\n4. new (used 140 times)\n5. add (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 274 times)\n2. changes (used 234 times)\n3. commit (used 209 times)\n4. new (used 140 times)\n5. add (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,14 +101,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/872d08014d3ec3210f69acf1c6c5b25bec953bc8\">872d080</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/d90ebb797e6bacc2877f02dcc1da1249fa98bcdf\">d90ebb7</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/d23291d4469c27219000aed6aa3d8c009dbec344\">d23291d</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/9bbb3e541ea8a84b3f2c0b76e5a3323a260b8fb5\">9bbb3e5</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/c6a7db22df141a7d175607c744a1cf98f9f54c47\">c6a7db2</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/d0012f242407afcf1d7d0bb8f064fc6f084a5808\">d0012f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/7d1b32742636de777e56ca670107026cb477bfec\">7d1b327</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/af664d6d040f0d309a082f923db5fcba94e923e1\">af664d6</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/5389186b9cdbf01ed474f013120de55c06efa843\">5389186</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/7e1b2abaaf496351af8270084dc188955d93d250\">7e1b2ab</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/d63211880051e28d4869ad9b6ded76c23cf3c2ae\">d632118</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/c520d2df149ca364b284746edbfac7a15a73e64b\">c520d2d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/6d6f4232d61625b7588a662b0713116d97b275e7\">6d6f423</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/5b412a2808dabadff9d69b0ed5f2257705d0ce7f\">5b412a2</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/87cb93bee14370fc7826d67bef5edc675e9a9bb1\">87cb93b</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/4351f78865958471a87902c98d03f3fc18fbb31a\">4351f78</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/5c3ed030e6fef08f498e0a2b415abbc283da5605\">5c3ed03</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/5db42658d71331357b8c9b4faee2b9497d8d9b37\">5db4265</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/6d6f4232d61625b7588a662b0713116d97b275e7\">6d6f423</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/5b412a2808dabadff9d69b0ed5f2257705d0ce7f\">5b412a2</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/87cb93bee14370fc7826d67bef5edc675e9a9bb1\">87cb93b</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/4351f78865958471a87902c98d03f3fc18fbb31a\">4351f78</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/5c3ed030e6fef08f498e0a2b415abbc283da5605\">5c3ed03</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
