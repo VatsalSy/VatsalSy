@@ -60,8 +60,8 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15623](https://github.com/raycast/extensions/issues/15623#issuecomment-2540794590) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🚀 Published release [💨 WorthingtonVE](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/releases/tag/v1.0) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+1. 🚀 Published release [🚀 RemindersSync v1.0: Your Swift Bridge Between Obsidian & Apple Reminders 🚀](https://github.com/VatsalSy/RemindersSync/releases/tag/v1.0) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+2. 🗣 Commented on [#15623](https://github.com/raycast/extensions/issues/15623#issuecomment-2540794590) in [raycast/extensions](https://github.com/raycast/extensions)
 3. 🎉 Merged PR [#2](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/2) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
 4. 💪 Opened PR [#2](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/2) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
 5. 🗣 Commented on [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2#issuecomment-2530185286) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
