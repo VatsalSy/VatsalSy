@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. 🚀 Published release [Gruvbox Crisp Color Theme (with TeX) – Release v1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-3. 🚀 Published release [Standing Non-Linear Waves – First Official Release](https://github.com/comphy-lab/standing-non-linear-waves/releases/tag/v1.0) in [comphy-lab/standing-non-linear-waves](https://github.com/comphy-lab/standing-non-linear-waves)
-4. 🚀 Published release [🚀 RemindersSync v1.0: Your Swift Bridge Between Obsidian & Apple Reminders 🚀](https://github.com/VatsalSy/RemindersSync/releases/tag/v1.0) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-5. 🗣 Commented on [#2](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium/issues/2#issuecomment-2530185286) in [VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium](https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+2. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+3. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🚀 Published release [Gruvbox Crisp Color Theme (with TeX) – Release v1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+5. 🚀 Published release [Standing Non-Linear Waves – First Official Release](https://github.com/comphy-lab/standing-non-linear-waves/releases/tag/v1.0) in [comphy-lab/standing-non-linear-waves](https://github.com/comphy-lab/standing-non-linear-waves)
 <!--END_SECTION:activity-->
 ---
 
