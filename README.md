@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
-3. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🚀 Published release [Gruvbox Crisp Color Theme (with TeX) – Release v1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-5. 🚀 Published release [Standing Non-Linear Waves – First Official Release](https://github.com/comphy-lab/standing-non-linear-waves/releases/tag/v1.0) in [comphy-lab/standing-non-linear-waves](https://github.com/comphy-lab/standing-non-linear-waves)
+1. 🚀 Published release [Release: Herschel–Bulkley Worthington Jets & Droplets (v1.0)](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/releases/tag/v1.0) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+2. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+3. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+4. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. 🚀 Published release [Gruvbox Crisp Color Theme (with TeX) – Release v1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
 <!--END_SECTION:activity-->
 ---
 
