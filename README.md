@@ -30,8 +30,8 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 
   <a href="https://github.com/VatsalSy" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark" width="55%" height="auto">
-      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=solarized-light&hide_border=true" width="55%" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark&rank_icon=github" width="55%" height="auto">
+      <img alt="Vatsal's GitHub stats" src="https://cust-github-readme-stats.vercel.app/api?username=VatsalSy&show_icons=true&theme=solarized-light&hide_border=true&rank_icon=github" width="55%" height="auto">
     </picture>
   </a>
   <a href="https://github.com/VatsalSy" target="_blank">
