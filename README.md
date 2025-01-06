@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release: Herschel–Bulkley Worthington Jets & Droplets (v1.0)](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/releases/tag/v1.0) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-2. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
-3. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
-4. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-5. 🚀 Published release [Gruvbox Crisp Color Theme (with TeX) – Release v1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+1. 🚀 Published release [Jumping bubbles v1.0](https://github.com/VatsalSy/jumping-bubbles/releases/tag/v1.0) in [VatsalSy/jumping-bubbles](https://github.com/VatsalSy/jumping-bubbles)
+2. 🚀 Published release [Release: Herschel–Bulkley Worthington Jets & Droplets (v1.0)](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/releases/tag/v1.0) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
+5. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 ---
 
