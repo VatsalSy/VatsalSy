@@ -94,14 +94,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/5cc2c20490b5c46df502cd62f8bc7a7b432fe55e\">5cc2c20</a>\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/fa59225e163b2ced2fee6e12a5dd80770cef2773\">fa59225</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/28d2422c4a4b604784cd482effd6cad4be1f84ce\">28d2422</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/60b6daa3d570afb382335bb4a4b7134b92892383\">60b6daa</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/1f0d918af08c47079803b7c3ed1f147c1fa51f3b\">1f0d918</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/2644015c2b4390cdfbed6f7fcbabb0c659c0f85c\">2644015</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/4c5eb3c63bc74ae0e6653a4acbe08f3c27d05550\">4c5eb3c</a>\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/064fbe8b4c45f5e0f2d6f0a29d39313b96e96042\">064fbe8</a>\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/5cc2c20490b5c46df502cd62f8bc7a7b432fe55e\">5cc2c20</a>\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/fa59225e163b2ced2fee6e12a5dd80770cef2773\">fa59225</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/28d2422c4a4b604784cd482effd6cad4be1f84ce\">28d2422</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/60b6daa3d570afb382335bb4a4b7134b92892383\">60b6daa</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/d7e1ca6d3ab7cf474aa1aef3448511b276042c3d\">d7e1ca6</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/39370149ef739e611bf6610a5dbde3ed8991f0c2\">3937014</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/e87d920f071b739a1d1035f6684cf7b240be9321\">e87d920</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/c585bc5bc1da9ea066e1fa54085f48651369877c\">c585bc5</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/e5076b5387a885b0e55231657b10b83823cd72a7\">e5076b5</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/be317a698c80d4d4910707a650254325401c59f5\">be317a6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/0666fa7b900a05336b6b0c7954110d5af8e6425c\">0666fa7</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/d7e1ca6d3ab7cf474aa1aef3448511b276042c3d\">d7e1ca6</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/39370149ef739e611bf6610a5dbde3ed8991f0c2\">3937014</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/e87d920f071b739a1d1035f6684cf7b240be9321\">e87d920</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/c585bc5bc1da9ea066e1fa54085f48651369877c\">c585bc5</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/e5076b5387a885b0e55231657b10b83823cd72a7\">e5076b5</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -121,7 +121,7 @@
   {
     "id": "my-badges-contributor",
     "tier": 0,
-    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "desc": "I contributed to My Badges!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/73\">#73</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
@@ -138,5 +138,12 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/064fbe8b4c45f5e0f2d6f0a29d39313b96e96042\">064fbe8</a>: fixed a bug\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/27d3d06e35ed4c3fd56b08630dd8b120ac09b415\">27d3d06</a>: fixed postProcess",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
