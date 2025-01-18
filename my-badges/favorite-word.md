@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. update (used 297 times)
+1. update (used 298 times)
 2. changes (used 260 times)
 3. commit (used 221 times)
 4. new (used 164 times)
