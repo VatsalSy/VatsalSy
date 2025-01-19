@@ -60,9 +60,9 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Computational Fungal Dynamics (v1.0)](https://github.com/VatsalSy/hyphal-flow/releases/tag/v1.0) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
-2. 🎉 Merged PR [#3](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/3) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
-3. 💪 Opened PR [#3](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/3) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+1. 🗣 Commented on [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1#issuecomment-2600737925) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🔒 Closed issue [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🚀 Published release [Computational Fungal Dynamics (v1.0)](https://github.com/VatsalSy/hyphal-flow/releases/tag/v1.0) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
 4. 💪 Opened PR [#1](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation/pull/1) in [comphy-lab/DropImpact_viscoplastic_epsilonformulation](https://github.com/comphy-lab/DropImpact_viscoplastic_epsilonformulation)
 5. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
