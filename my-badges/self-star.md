@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 70 my own repositories." title="I&apos;ve starred 70 my own repositories." width="128">
-<strong>I&apos;ve starred 70 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 71 my own repositories." title="I&apos;ve starred 71 my own repositories." width="128">
+<strong>I&apos;ve starred 71 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV</a>
@@ -72,6 +72,7 @@
 - <a href="https://github.com/VatsalSy/Coalescence-bubble-symmetric">VatsalSy/Coalescence-bubble-symmetric</a>
 - <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors</a>
 - <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow</a>
+- <a href="https://github.com/VatsalSy/RemindersSync">VatsalSy/RemindersSync</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

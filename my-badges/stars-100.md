@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
@@ -70,6 +69,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/EVP-pendant-drop">VatsalSy/EVP-pendant-drop: ★1</a>
 * <a href="https://github.com/VatsalSy/filamentsVE">VatsalSy/filamentsVE: ★1</a>
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
+* <a href="https://github.com/VatsalSy/RemindersSync">VatsalSy/RemindersSync: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
