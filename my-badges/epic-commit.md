@@ -5,6 +5,7 @@
 Commits:
 
 - <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/d85d3e484e650ec56c60bebb406f4aa397d06853">d85d3e4</a>
+- <a href="https://github.com/VatsalSy/RemindersSync/commit/8a4673f83dca1d9cffba6fc53237d0da01a381bc">8a4673f</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/2644015c2b4390cdfbed6f7fcbabb0c659c0f85c">2644015</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/0a208ea7d1c3dc3823baecfa358dfde9e20a1af9">0a208ea</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/7ee3ae84f8b3394f44be20bffe29ccda014419d6">7ee3ae8</a>
