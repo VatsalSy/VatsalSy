@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Asymmetries in Coalescence v0.1](https://github.com/VatsalSy/Asymmetries-in-coalescence/releases/tag/v0.1) in [VatsalSy/Asymmetries-in-coalescence](https://github.com/VatsalSy/Asymmetries-in-coalescence)
-2. 🗣 Commented on [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1#issuecomment-2600737925) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🔒 Closed issue [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🚀 Published release [Computational Fungal Dynamics (v1.0)](https://github.com/VatsalSy/hyphal-flow/releases/tag/v1.0) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
-5. ❗ Opened issue [#3247](https://github.com/EclipseFdn/open-vsx.org/issues/3247) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🚀 Published release [Drop impact on viscous liquid film v2.0](https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films/releases/tag/v2.0) in [VatsalSy/Drop-impact-on-viscous-liquid-films](https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films)
+2. 🚀 Published release [Asymmetries in Coalescence v0.1](https://github.com/VatsalSy/Asymmetries-in-coalescence/releases/tag/v0.1) in [VatsalSy/Asymmetries-in-coalescence](https://github.com/VatsalSy/Asymmetries-in-coalescence)
+3. 🗣 Commented on [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1#issuecomment-2600737925) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🔒 Closed issue [#1](https://github.com/comphy-lab/comphy-lab.github.io/issues/1) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🚀 Published release [Computational Fungal Dynamics (v1.0)](https://github.com/VatsalSy/hyphal-flow/releases/tag/v1.0) in [VatsalSy/hyphal-flow](https://github.com/VatsalSy/hyphal-flow)
 <!--END_SECTION:activity-->
 ---
 
