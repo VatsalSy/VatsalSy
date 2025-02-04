@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 307 times)\n2. changes (used 261 times)\n3. commit (used 224 times)\n4. new (used 171 times)\n5. add (used 169 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 308 times)\n2. changes (used 261 times)\n3. commit (used 224 times)\n4. new (used 171 times)\n5. add (used 169 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films/commit/25a538ff1e6d2ffb39e8865481d493b79d70bbf3\">25a538f</a>\n- <a href=\"https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films/commit/d164e6a59e5ccb721260ea6a5ceac3acc23f5370\">d164e6a</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/2692696286cd2c1157407458b93e2422a61657df\">2692696</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/776b268e85f482e0fec08bba89b255c0ca820308\">776b268</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/1b3fb3ee5a36475fc8183b8b077d25c8aba3389b\">1b3fb3e</a>\n- <a href=\"https://github.com/VatsalSy/EVP-pendant-drop/commit/0666fa7b900a05336b6b0c7954110d5af8e6425c\">0666fa7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/9d03eaa8f738fc26c58fc597ca5e7d56e3863624\">9d03eaa</a>\n- <a href=\"https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films/commit/25a538ff1e6d2ffb39e8865481d493b79d70bbf3\">25a538f</a>\n- <a href=\"https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films/commit/d164e6a59e5ccb721260ea6a5ceac3acc23f5370\">d164e6a</a>\n- <a href=\"https://github.com/VatsalSy/RemindersSync/commit/2692696286cd2c1157407458b93e2422a61657df\">2692696</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/776b268e85f482e0fec08bba89b255c0ca820308\">776b268</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy.github.io/commit/1b3fb3ee5a36475fc8183b8b077d25c8aba3389b\">1b3fb3e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/comphy-lab/comphy-lab.github.io/pull/3\">#3</a>: Search feature",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/comphy-lab/comphy-lab.github.io/pull/3\">#3</a>: Search feature\n- <a href=\"https://github.com/comphy-lab/comphy-lab.github.io/pull/4\">#4</a>: vs-branch-1\n- <a href=\"https://github.com/comphy-lab/comphy-lab.github.io/pull/5\">#5</a>: vs-branch-1\n- <a href=\"https://github.com/comphy-lab/comphy-lab.github.io/pull/6\">#6</a>: feat(team): add Milan Sent alumni profile",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
