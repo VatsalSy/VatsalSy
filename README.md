@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/comphy-lab/comphy-lab.github.io/pull/8) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#8](https://github.com/comphy-lab/comphy-lab.github.io/pull/8) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#7](https://github.com/comphy-lab/comphy-lab.github.io/pull/7) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#7](https://github.com/comphy-lab/comphy-lab.github.io/pull/7) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🚀 Published release [Google & Apple Task Sync v1.0](https://github.com/VatsalSy/gTasks-RemindersSync/releases/tag/v1.0) in [VatsalSy/gTasks-RemindersSync](https://github.com/VatsalSy/gTasks-RemindersSync)
+1. 🎉 Merged PR [#11](https://github.com/comphy-lab/comphy-lab.github.io/pull/11) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#11](https://github.com/comphy-lab/comphy-lab.github.io/pull/11) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#10](https://github.com/comphy-lab/comphy-lab.github.io/pull/10) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#10](https://github.com/comphy-lab/comphy-lab.github.io/pull/10) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#9](https://github.com/comphy-lab/comphy-lab.github.io/pull/9) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
