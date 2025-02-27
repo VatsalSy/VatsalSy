@@ -4,7 +4,13 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/DropImpact_force_spreading_theory_arXiv/commit/8bee96784c0a0ec1df08e5fece713c40bad651cf">8bee967</a>: chore: Remove unused bibliography file and update figure captions
+- <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/e05306f2bd153b1c12267e9f8cfba4ff8b59d7c6">e05306f</a>: chore: Update version to 1.1.5
+
+- Updated package.json version to 1.1.5
+- Packaged new VSIX with v1.1.5
+
+🤖 Generated with Claude Code
+Co-Authored-By: Claude <noreply@anthropic.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
