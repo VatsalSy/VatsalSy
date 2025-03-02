@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/raycast/ray-so/pull/186) in [raycast/ray-so](https://github.com/raycast/ray-so)
-2. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-3. ❗ Opened issue [#19](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/19) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-4. 🗣 Commented on [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1#issuecomment-2677167935) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-5. ❗ Opened issue [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+1. 🗣 Commented on [#17473](https://github.com/raycast/extensions/pull/17473#issuecomment-2692428621) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#186](https://github.com/raycast/ray-so/pull/186) in [raycast/ray-so](https://github.com/raycast/ray-so)
+3. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+4. ❗ Opened issue [#19](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/19) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
+5. 🗣 Commented on [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1#issuecomment-2677167935) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
 <!--END_SECTION:activity-->
 ---
 
