@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17473](https://github.com/raycast/extensions/pull/17473#issuecomment-2692428621) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#186](https://github.com/raycast/ray-so/pull/186) in [raycast/ray-so](https://github.com/raycast/ray-so)
-3. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/gruvbox_custom_themes/releases/tag/v1.1.0) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-4. ❗ Opened issue [#19](https://github.com/VatsalSy/BurstingBubble_VE_coated/issues/19) in [VatsalSy/BurstingBubble_VE_coated](https://github.com/VatsalSy/BurstingBubble_VE_coated)
-5. 🗣 Commented on [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1#issuecomment-2677167935) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+1. 🎉 Merged PR [#13](https://github.com/comphy-lab/comphy-lab.github.io/pull/13) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#13](https://github.com/comphy-lab/comphy-lab.github.io/pull/13) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#12](https://github.com/comphy-lab/comphy-lab.github.io/pull/12) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#12](https://github.com/comphy-lab/comphy-lab.github.io/pull/12) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🗣 Commented on [#17473](https://github.com/raycast/extensions/pull/17473#issuecomment-2692428621) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 ---
 
