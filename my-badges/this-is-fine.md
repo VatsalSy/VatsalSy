@@ -13,6 +13,9 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/9">#9</a>: vs-branch-4
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/10">#10</a>: ✨ feat(github-actions): improve search index update workflow
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/11">#11</a>: ✨ feat(search): improve search workflow and dependencies
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/12">#12</a>: searchNspeed
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/13">#13</a>: SpeedOptim
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/14">#14</a>: vs-branch-7
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
