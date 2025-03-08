@@ -17,6 +17,8 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/13">#13</a>: SpeedOptim
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/14">#14</a>: vs-branch-7
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/16">#16</a>: vs-branch-9
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/17">#17</a>: vs-branch-8
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/18">#18</a>: feat: Resize JFM cover images to 256px max width
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
