@@ -20,6 +20,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/17">#17</a>: vs-branch-8
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/18">#18</a>: feat: Resize JFM cover images to 256px max width
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/21">#21</a>: Vs branch 11
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/22">#22</a>: feat: Enhance Basilisk101 course content and structure
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
