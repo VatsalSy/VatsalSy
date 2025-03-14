@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19#issuecomment-2711800027) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🔒 Closed issue [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🗣 Commented on [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20#issuecomment-2711799398) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🔒 Closed issue [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🎉 Merged PR [#22](https://github.com/comphy-lab/comphy-lab.github.io/pull/22) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/Basilisk-101/pull/1) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+2. 🗣 Commented on [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19#issuecomment-2711800027) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🔒 Closed issue [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🗣 Commented on [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20#issuecomment-2711799398) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🔒 Closed issue [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
