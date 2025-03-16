@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/Basilisk-101/pull/1) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
-2. 🗣 Commented on [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19#issuecomment-2711800027) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🔒 Closed issue [#19](https://github.com/comphy-lab/comphy-lab.github.io/issues/19) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🗣 Commented on [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20#issuecomment-2711799398) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🔒 Closed issue [#20](https://github.com/comphy-lab/comphy-lab.github.io/issues/20) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ❌ Closed PR [#27](https://github.com/VatsalSy/commits-readme-stats/pull/27) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. ❌ Closed PR [#29](https://github.com/VatsalSy/commits-readme-stats/pull/29) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. ❌ Closed PR [#30](https://github.com/VatsalSy/commits-readme-stats/pull/30) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🗣 Commented on [#17280](https://github.com/raycast/extensions/issues/17280#issuecomment-2727301911) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#17280](https://github.com/raycast/extensions/issues/17280#issuecomment-2727301797) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 ---
 
