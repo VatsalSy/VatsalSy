@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/VatsalSy/commits-readme-stats/pull/27) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. ❌ Closed PR [#29](https://github.com/VatsalSy/commits-readme-stats/pull/29) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Closed PR [#30](https://github.com/VatsalSy/commits-readme-stats/pull/30) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 🗣 Commented on [#17280](https://github.com/raycast/extensions/issues/17280#issuecomment-2727301911) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#17280](https://github.com/raycast/extensions/issues/17280#issuecomment-2727301797) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#3](https://github.com/comphy-lab/WrinklingBubbles/issues/3#issuecomment-2727480973) in [comphy-lab/WrinklingBubbles](https://github.com/comphy-lab/WrinklingBubbles)
+2. 🔒 Closed issue [#3](https://github.com/comphy-lab/WrinklingBubbles/issues/3) in [comphy-lab/WrinklingBubbles](https://github.com/comphy-lab/WrinklingBubbles)
+3. 🔒 Closed issue [#1](https://github.com/comphy-lab/WrinklingBubbles/issues/1) in [comphy-lab/WrinklingBubbles](https://github.com/comphy-lab/WrinklingBubbles)
+4. 🎉 Merged PR [#2](https://github.com/comphy-lab/WrinklingBubbles/pull/2) in [comphy-lab/WrinklingBubbles](https://github.com/comphy-lab/WrinklingBubbles)
+5. 🎉 Merged PR [#18](https://github.com/comphy-lab/Viscoelastic3D/pull/18) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 ---
 
