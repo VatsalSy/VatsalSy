@@ -64,7 +64,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/Coalescence-bubble-symmetric">VatsalSy/Coalescence-bubble-symmetric: ★1</a>
 * <a href="https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation">VatsalSy/DropImpact_viscoplastic_epsilonformulation: ★1</a>
 * <a href="https://github.com/VatsalSy/macos-defaults">VatsalSy/macos-defaults: ★1</a>
-* <a href="https://github.com/SaumiliJana/WrinklingBubbles">SaumiliJana/WrinklingBubbles: ★1</a>
+* <a href="https://github.com/SaumiliJana/WrinklingBubbles_old">SaumiliJana/WrinklingBubbles_old: ★1</a>
 * <a href="https://github.com/VatsalSy/Multi-marker-VOF-method">VatsalSy/Multi-marker-VOF-method: ★1</a>
 * <a href="https://github.com/VatsalSy/EVP-pendant-drop">VatsalSy/EVP-pendant-drop: ★1</a>
 * <a href="https://github.com/VatsalSy/filamentsVE">VatsalSy/filamentsVE: ★1</a>
