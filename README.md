@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/VatsalSy/commits-readme-stats/pull/32) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. ❌ Closed PR [#31](https://github.com/VatsalSy/commits-readme-stats/pull/31) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Closed PR [#24](https://github.com/VatsalSy/commits-readme-stats/pull/24) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. ❌ Closed PR [#25](https://github.com/VatsalSy/commits-readme-stats/pull/25) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. ❌ Closed PR [#20](https://github.com/VatsalSy/commits-readme-stats/pull/20) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🎉 Merged PR [#4](https://github.com/comphy-lab/Basilisk-101/pull/4) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+2. 🎉 Merged PR [#5](https://github.com/comphy-lab/Basilisk-101/pull/5) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/DropMigration/pull/1) in [comphy-lab/DropMigration](https://github.com/comphy-lab/DropMigration)
+4. 🗣 Commented on [#1](https://github.com/comphy-lab/DropMigration/pull/1#issuecomment-2749820267) in [comphy-lab/DropMigration](https://github.com/comphy-lab/DropMigration)
+5. 💪 Opened PR [#4](https://github.com/comphy-lab/Basilisk-101/pull/4) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
 <!--END_SECTION:activity-->
 ---
 
