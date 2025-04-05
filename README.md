@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/comphy-lab/comphy-lab.github.io/pull/28) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#28](https://github.com/comphy-lab/comphy-lab.github.io/pull/28) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#27](https://github.com/comphy-lab/comphy-lab.github.io/pull/27) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#27](https://github.com/comphy-lab/comphy-lab.github.io/pull/27) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🗣 Commented on [#26](https://github.com/comphy-lab/comphy-lab.github.io/pull/26#issuecomment-2758491229) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#16806](https://github.com/raycast/extensions/issues/16806#issuecomment-2778454821) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#16806](https://github.com/raycast/extensions/issues/16806#issuecomment-2778450232) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🎉 Merged PR [#28](https://github.com/comphy-lab/comphy-lab.github.io/pull/28) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#28](https://github.com/comphy-lab/comphy-lab.github.io/pull/28) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#27](https://github.com/comphy-lab/comphy-lab.github.io/pull/27) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
