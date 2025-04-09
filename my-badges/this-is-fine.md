@@ -26,6 +26,9 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/27">#27</a>: fixed typo
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/28">#28</a>: feat: Update search database
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/29">#29</a>: vs-branch-1
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/30">#30</a>: vs-branch-2
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/31">#31</a>: ✨ feat(search): Implement priority-based search result sorting
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/32">#32</a>: vs-branch-4
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
