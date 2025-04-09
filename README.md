@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/documentationWeb/pull/1) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-2. 🗣 Commented on [#1](https://github.com/comphy-lab/documentationWeb/pull/1#issuecomment-2784826918) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 🗣 Commented on [#1](https://github.com/comphy-lab/documentationWeb/pull/1#issuecomment-2784825428) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-4. 🎉 Merged PR [#2](https://github.com/comphy-lab/DropMigration/pull/2) in [comphy-lab/DropMigration](https://github.com/comphy-lab/DropMigration)
-5. 🎉 Merged PR [#6](https://github.com/comphy-lab/Basilisk-101/pull/6) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+1. 🎉 Merged PR [#31](https://github.com/comphy-lab/comphy-lab.github.io/pull/31) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#2](https://github.com/comphy-lab/comphy-search/pull/2) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+3. 🎉 Merged PR [#3](https://github.com/comphy-lab/comphy-search/pull/3) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+4. 💪 Opened PR [#2](https://github.com/comphy-lab/comphy-search/pull/2) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+5. 💪 Opened PR [#31](https://github.com/comphy-lab/comphy-lab.github.io/pull/31) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
