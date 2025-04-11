@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/comphy-lab/comphy-search/pull/5) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
-2. 🗣 Commented on [#5](https://github.com/comphy-lab/comphy-search/pull/5#issuecomment-2787039743) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
-3. 💪 Opened PR [#5](https://github.com/comphy-lab/comphy-search/pull/5) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
-4. 🎉 Merged PR [#32](https://github.com/comphy-lab/comphy-lab.github.io/pull/32) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#32](https://github.com/comphy-lab/comphy-lab.github.io/pull/32) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#1](https://github.com/VatsalSy/battery-batt-control/pull/1) in [VatsalSy/battery-batt-control](https://github.com/VatsalSy/battery-batt-control)
+2. 💪 Opened PR [#1](https://github.com/VatsalSy/battery-batt-control/pull/1) in [VatsalSy/battery-batt-control](https://github.com/VatsalSy/battery-batt-control)
+3. 🎉 Merged PR [#5](https://github.com/comphy-lab/comphy-search/pull/5) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+4. 🗣 Commented on [#5](https://github.com/comphy-lab/comphy-search/pull/5#issuecomment-2787039743) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+5. 💪 Opened PR [#5](https://github.com/comphy-lab/comphy-search/pull/5) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
 <!--END_SECTION:activity-->
 ---
 
