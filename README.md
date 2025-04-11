@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/comphy-lab/basilisk-C/pull/4) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2795117671) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 💪 Opened PR [#18498](https://github.com/raycast/extensions/pull/18498) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🎉 Merged PR [#1](https://github.com/VatsalSy/battery-batt-control/pull/1) in [VatsalSy/battery-batt-control](https://github.com/VatsalSy/battery-batt-control)
-5. 💪 Opened PR [#1](https://github.com/VatsalSy/battery-batt-control/pull/1) in [VatsalSy/battery-batt-control](https://github.com/VatsalSy/battery-batt-control)
+1. 💪 Opened PR [#5](https://github.com/comphy-lab/basilisk-C/pull/5) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🗣 Commented on [#3](https://github.com/comphy-lab/basilisk-C/issues/3#issuecomment-2796341512) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+3. 🎉 Merged PR [#4](https://github.com/comphy-lab/basilisk-C/pull/4) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+4. 💪 Opened PR [#4](https://github.com/comphy-lab/basilisk-C/pull/4) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+5. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2795117671) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 ---
 
