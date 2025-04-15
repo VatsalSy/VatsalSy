@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-2. 🎉 Merged PR [#33](https://github.com/comphy-lab/comphy-lab.github.io/pull/33) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#34](https://github.com/comphy-lab/comphy-lab.github.io/pull/34) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#33](https://github.com/comphy-lab/comphy-lab.github.io/pull/33) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🎉 Merged PR [#6](https://github.com/comphy-lab/documentationWeb/pull/6) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. 💪 Opened PR [#7](https://github.com/comphy-lab/documentationWeb/pull/7) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 🔒 Closed issue [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+3. 🎉 Merged PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+4. 💪 Opened PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+5. 🎉 Merged PR [#33](https://github.com/comphy-lab/comphy-lab.github.io/pull/33) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
