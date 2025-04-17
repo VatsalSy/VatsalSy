@@ -30,6 +30,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/31">#31</a>: ✨ feat(search): Implement priority-based search result sorting
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/32">#32</a>: vs-branch-4
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/33">#33</a>: vs-branch-6
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/35">#35</a>: vs-branch-7
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
