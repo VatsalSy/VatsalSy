@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/comphy-lab/documentationWeb/pull/7) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-2. 🔒 Closed issue [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-3. 🎉 Merged PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-4. 💪 Opened PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-5. 🎉 Merged PR [#33](https://github.com/comphy-lab/comphy-lab.github.io/pull/33) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2811749209) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#7](https://github.com/comphy-lab/documentationWeb/pull/7) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+3. 🔒 Closed issue [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+4. 🎉 Merged PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+5. 💪 Opened PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
 <!--END_SECTION:activity-->
 ---
 
