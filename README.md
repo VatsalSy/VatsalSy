@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2811749209) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#7](https://github.com/comphy-lab/documentationWeb/pull/7) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 🔒 Closed issue [#1](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/issues/1) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-4. 🎉 Merged PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-5. 💪 Opened PR [#2](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/2) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
+1. 💪 Opened PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
+2. 🎉 Merged PR [#1](https://github.com/comphy-lab/rude/pull/1) in [comphy-lab/rude](https://github.com/comphy-lab/rude)
+3. 💪 Opened PR [#1](https://github.com/comphy-lab/rude/pull/1) in [comphy-lab/rude](https://github.com/comphy-lab/rude)
+4. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2811749209) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 💪 Opened PR [#7](https://github.com/comphy-lab/documentationWeb/pull/7) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 ---
 
