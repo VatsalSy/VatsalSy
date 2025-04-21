@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/krlennon/rude/pull/3#issuecomment-2817077478) in [krlennon/rude](https://github.com/krlennon/rude)
-2. 💪 Opened PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/rude/pull/1) in [comphy-lab/rude](https://github.com/comphy-lab/rude)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/rude/pull/1) in [comphy-lab/rude](https://github.com/comphy-lab/rude)
-5. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2811749209) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 💪 Opened PR [#9](https://github.com/comphy-lab/documentationWeb/pull/9) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 🎉 Merged PR [#8](https://github.com/comphy-lab/documentationWeb/pull/8) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+3. 🗣 Commented on [#8](https://github.com/comphy-lab/documentationWeb/pull/8#issuecomment-2818640380) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+4. 💪 Opened PR [#8](https://github.com/comphy-lab/documentationWeb/pull/8) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+5. 🎉 Merged PR [#36](https://github.com/comphy-lab/comphy-lab.github.io/pull/36) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
