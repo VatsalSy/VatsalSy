@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/VatsalSy/commits-readme-stats/pull/37) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. 💪 Opened PR [#37](https://github.com/VatsalSy/commits-readme-stats/pull/37) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Closed PR [#36](https://github.com/VatsalSy/commits-readme-stats/pull/36) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. ❌ Closed PR [#35](https://github.com/VatsalSy/commits-readme-stats/pull/35) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. ❌ Closed PR [#34](https://github.com/VatsalSy/commits-readme-stats/pull/34) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🎉 Merged PR [#38](https://github.com/comphy-lab/comphy-lab.github.io/pull/38) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#37](https://github.com/VatsalSy/commits-readme-stats/pull/37) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 💪 Opened PR [#37](https://github.com/VatsalSy/commits-readme-stats/pull/37) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. ❌ Closed PR [#36](https://github.com/VatsalSy/commits-readme-stats/pull/36) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. ❌ Closed PR [#35](https://github.com/VatsalSy/commits-readme-stats/pull/35) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 ---
 
