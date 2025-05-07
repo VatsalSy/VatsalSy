@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/comphy-lab/Viscoelastic3D/pull/21) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-2. 🎉 Merged PR [#17](https://github.com/comphy-lab/documentationWeb/pull/17) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 💪 Opened PR [#17](https://github.com/comphy-lab/documentationWeb/pull/17) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-4. 🎉 Merged PR [#20](https://github.com/comphy-lab/Viscoelastic3D/pull/20) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. 💪 Opened PR [#20](https://github.com/comphy-lab/Viscoelastic3D/pull/20) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+1. 🎉 Merged PR [#8](https://github.com/comphy-lab/comphy-search/pull/8) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+2. 💪 Opened PR [#8](https://github.com/comphy-lab/comphy-search/pull/8) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+3. 🎉 Merged PR [#21](https://github.com/comphy-lab/Viscoelastic3D/pull/21) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 💪 Opened PR [#21](https://github.com/comphy-lab/Viscoelastic3D/pull/21) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 🎉 Merged PR [#17](https://github.com/comphy-lab/documentationWeb/pull/17) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 ---
 
