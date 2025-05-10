@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/SaumiliJana/WrinklingBubbles_old/issues/4) in [SaumiliJana/WrinklingBubbles_old](https://github.com/SaumiliJana/WrinklingBubbles_old)
-2. 🎉 Merged PR [#22](https://github.com/comphy-lab/Viscoelastic3D/pull/22) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-3. 🎉 Merged PR [#6](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/6) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
-4. 🎉 Merged PR [#7](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/7) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
-5. 🎉 Merged PR [#24](https://github.com/comphy-lab/documentationWeb/pull/24) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. 💪 Opened PR [#1](https://github.com/comphy-lab/fiber/pull/1) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+2. 🔒 Closed issue [#4](https://github.com/SaumiliJana/WrinklingBubbles_old/issues/4) in [SaumiliJana/WrinklingBubbles_old](https://github.com/SaumiliJana/WrinklingBubbles_old)
+3. 🎉 Merged PR [#22](https://github.com/comphy-lab/Viscoelastic3D/pull/22) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. 🎉 Merged PR [#6](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/6) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+5. 🎉 Merged PR [#7](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley/pull/7) in [comphy-lab/BurstingBubble_Herschel-Bulkley](https://github.com/comphy-lab/BurstingBubble_Herschel-Bulkley)
 <!--END_SECTION:activity-->
 ---
 
