@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/comphy-lab/fiber/pull/6) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-2. 💪 Opened PR [#5](https://github.com/comphy-lab/fiber/pull/5) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-3. 🎉 Merged PR [#4](https://github.com/comphy-lab/fiber/pull/4) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-4. 💪 Opened PR [#4](https://github.com/comphy-lab/fiber/pull/4) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-5. 🎉 Merged PR [#2](https://github.com/comphy-lab/fiber/pull/2) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+1. 💪 Opened PR [#39](https://github.com/comphy-lab/comphy-lab.github.io/pull/39) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+3. 💪 Opened PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+4. 🎉 Merged PR [#1](https://github.com/VatsalSy/pdf-ocr-mistral/pull/1) in [VatsalSy/pdf-ocr-mistral](https://github.com/VatsalSy/pdf-ocr-mistral)
+5. 💪 Opened PR [#1](https://github.com/VatsalSy/pdf-ocr-mistral/pull/1) in [VatsalSy/pdf-ocr-mistral](https://github.com/VatsalSy/pdf-ocr-mistral)
 <!--END_SECTION:activity-->
 ---
 
