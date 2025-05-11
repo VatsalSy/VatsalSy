@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/fiber/pull/1) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/fiber/pull/1) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
-3. 🔒 Closed issue [#4](https://github.com/SaumiliJana/WrinklingBubbles_old/issues/4) in [SaumiliJana/WrinklingBubbles_old](https://github.com/SaumiliJana/WrinklingBubbles_old)
-4. 🎉 Merged PR [#22](https://github.com/comphy-lab/Viscoelastic3D/pull/22) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
-5. 🎉 Merged PR [#6](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles/pull/6) in [comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+1. 🎉 Merged PR [#6](https://github.com/comphy-lab/fiber/pull/6) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+2. 💪 Opened PR [#5](https://github.com/comphy-lab/fiber/pull/5) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+3. 🎉 Merged PR [#4](https://github.com/comphy-lab/fiber/pull/4) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+4. 💪 Opened PR [#4](https://github.com/comphy-lab/fiber/pull/4) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+5. 🎉 Merged PR [#2](https://github.com/comphy-lab/fiber/pull/2) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
 <!--END_SECTION:activity-->
 ---
 
