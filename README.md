@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/comphy-lab/comphy-lab.github.io/pull/39) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🎉 Merged PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 💪 Opened PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-4. 🎉 Merged PR [#1](https://github.com/VatsalSy/pdf-ocr-mistral/pull/1) in [VatsalSy/pdf-ocr-mistral](https://github.com/VatsalSy/pdf-ocr-mistral)
-5. 💪 Opened PR [#1](https://github.com/VatsalSy/pdf-ocr-mistral/pull/1) in [VatsalSy/pdf-ocr-mistral](https://github.com/VatsalSy/pdf-ocr-mistral)
+1. 🎉 Merged PR [#39](https://github.com/comphy-lab/comphy-lab.github.io/pull/39) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#2](https://github.com/comphy-lab/HoleySheet/pull/2) in [comphy-lab/HoleySheet](https://github.com/comphy-lab/HoleySheet)
+3. 💪 Opened PR [#39](https://github.com/comphy-lab/comphy-lab.github.io/pull/39) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🎉 Merged PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+5. 💪 Opened PR [#25](https://github.com/comphy-lab/documentationWeb/pull/25) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 ---
 
