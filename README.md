@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/MultiRheoFlow/pull/1) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-2. 🎉 Merged PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 💪 Opened PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-4. 🎉 Merged PR [#27](https://github.com/comphy-lab/documentationWeb/pull/27) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-5. 💪 Opened PR [#27](https://github.com/comphy-lab/documentationWeb/pull/27) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. ❗ Opened issue [#41](https://github.com/comphy-lab/comphy-lab.github.io/issues/41) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ❗ Opened issue [#40](https://github.com/comphy-lab/comphy-lab.github.io/issues/40) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/MultiRheoFlow/pull/1) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+4. 🎉 Merged PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+5. 💪 Opened PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 ---
 
