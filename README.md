@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/comphy-lab/comphy-lab.github.io/issues/41) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ❗ Opened issue [#40](https://github.com/comphy-lab/comphy-lab.github.io/issues/40) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/MultiRheoFlow/pull/1) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-4. 🎉 Merged PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-5. 💪 Opened PR [#28](https://github.com/comphy-lab/documentationWeb/pull/28) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. 🗣 Commented on [#18498](https://github.com/raycast/extensions/pull/18498#issuecomment-2882712004) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❌ Closed PR [#18498](https://github.com/raycast/extensions/pull/18498) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#19190](https://github.com/raycast/extensions/pull/19190) in [raycast/extensions](https://github.com/raycast/extensions)
+4. ❗ Opened issue [#41](https://github.com/comphy-lab/comphy-lab.github.io/issues/41) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ❗ Opened issue [#40](https://github.com/comphy-lab/comphy-lab.github.io/issues/40) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
