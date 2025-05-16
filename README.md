@@ -1,7 +1,7 @@
 <center>
 
 [<img alt="Vatsal" width="200px" src="https://www.dropbox.com/s/dxyybgtblo8er6h/Logo_Vatsal_Vector.png?raw=1">](https://www.vatsalsanjay.com)
-[<img alt="Vatsal" width="200px" src="https://github.com/user-attachments/assets/561c5022-034b-4556-bc99-4251d1aa0245">](https://www.vatsalsanjay.com)
+[<img alt="Vatsal" width="200px" src="https://github.com/user-attachments/assets/561c5022-034b-4556-bc99-4251d1aa0245">](https://www.comphy-lab.org)
 
 [<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?hl=en&user=67aQviYAAAAJ)
 [<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Vatsal-Sanjay-2)
