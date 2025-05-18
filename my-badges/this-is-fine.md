@@ -34,6 +34,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/36">#36</a>: vs-branch-8
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/37">#37</a>: vs-branch-9
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/39">#39</a>: vs-branch-10
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/42">#42</a>: Fix html markup bugs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
