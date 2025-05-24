@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/releases/tag/0.1.1) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
-2. 🎉 Merged PR [#1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/pull/1) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
-3. 💪 Opened PR [#1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/pull/1) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
-4. 🎉 Merged PR [#51](https://github.com/comphy-lab/comphy-lab.github.io/pull/51) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#51](https://github.com/comphy-lab/comphy-lab.github.io/pull/51) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 💪 Opened PR [#1](https://github.com/VatsalSy/omni-buffer/pull/1) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
+2. 🗣 Commented on [#2739](https://github.com/zed-industries/extensions/pull/2739#issuecomment-2906480973) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+3. 💪 Opened PR [#2739](https://github.com/zed-industries/extensions/pull/2739) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+4. 🚀 Published release [Release Notes - Gruvbox Crisp Themes v0.1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/releases/tag/v0.1.2) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
+5. 🚀 Published release [Release Notes - Gruvbox Crisp Themes v0.1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/releases/tag/v0.1.2) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
 <!--END_SECTION:activity-->
 ---
 
