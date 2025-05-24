@@ -61,10 +61,10 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/VatsalSy/omni-buffer/pull/1) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
-2. 🗣 Commented on [#2739](https://github.com/zed-industries/extensions/pull/2739#issuecomment-2906480973) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-3. 💪 Opened PR [#2739](https://github.com/zed-industries/extensions/pull/2739) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-4. 🚀 Published release [Release Notes - Gruvbox Crisp Themes v0.1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/releases/tag/v0.1.2) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
+1. ❗ Opened issue [#2](https://github.com/VatsalSy/omni-buffer/issues/2) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
+2. 💪 Opened PR [#1](https://github.com/VatsalSy/omni-buffer/pull/1) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
+3. 🗣 Commented on [#2739](https://github.com/zed-industries/extensions/pull/2739#issuecomment-2906480973) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+4. 💪 Opened PR [#2739](https://github.com/zed-industries/extensions/pull/2739) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 5. 🚀 Published release [Release Notes - Gruvbox Crisp Themes v0.1](https://github.com/VatsalSy/zed-gruvbox_custom_themes/releases/tag/v0.1.2) in [VatsalSy/zed-gruvbox_custom_themes](https://github.com/VatsalSy/zed-gruvbox_custom_themes)
 <!--END_SECTION:activity-->
 ---
