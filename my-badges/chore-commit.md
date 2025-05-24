@@ -4,13 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/e05306f2bd153b1c12267e9f8cfba4ff8b59d7c6">e05306f</a>: chore: Update version to 1.1.5
-
-- Updated package.json version to 1.1.5
-- Packaged new VSIX with v1.1.5
-
-🤖 Generated with Claude Code
-Co-Authored-By: Claude <noreply@anthropic.com>
+- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/22a4c31a7774277b072ce534ae7d20b0cde445d0">22a4c31</a>: chore: prepare extension for zed.dev
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

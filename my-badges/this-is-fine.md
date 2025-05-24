@@ -38,6 +38,9 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/43">#43</a>: fix-build-script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/47">#47</a>: vs-branch-11
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/48">#48</a>: feat: Migrate ESLint configuration to a module
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/49">#49</a>: Lane
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/50">#50</a>: feat(deps): upgrade jest to 29.7.0
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/51">#51</a>: feat: remove .ruby-version restoration from setup script
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
