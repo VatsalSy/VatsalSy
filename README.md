@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/soapy/pull/1) in [comphy-lab/soapy](https://github.com/comphy-lab/soapy)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/soapy/pull/1) in [comphy-lab/soapy](https://github.com/comphy-lab/soapy)
-3. ❗ Opened issue [#2](https://github.com/VatsalSy/omni-buffer/issues/2) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
-4. 💪 Opened PR [#1](https://github.com/VatsalSy/omni-buffer/pull/1) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
-5. 🗣 Commented on [#2739](https://github.com/zed-industries/extensions/pull/2739#issuecomment-2906480973) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+1. 🎉 Merged PR [#52](https://github.com/comphy-lab/comphy-lab.github.io/pull/52) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#52](https://github.com/comphy-lab/comphy-lab.github.io/pull/52) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/soapy/pull/1) in [comphy-lab/soapy](https://github.com/comphy-lab/soapy)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/soapy/pull/1) in [comphy-lab/soapy](https://github.com/comphy-lab/soapy)
+5. ❗ Opened issue [#2](https://github.com/VatsalSy/omni-buffer/issues/2) in [VatsalSy/omni-buffer](https://github.com/VatsalSy/omni-buffer)
 <!--END_SECTION:activity-->
 ---
 
