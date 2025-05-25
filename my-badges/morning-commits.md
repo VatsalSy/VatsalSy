@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/f7191979698384e1071e788fc51f0ab4e2c77501">f719197</a>
+- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/136e029dc1ef697461f6aa0e712c906e3d8388cf">136e029</a>
+- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/e7e70cb84f861a81dd9ca441a979e5ecd304af04">e7e70cb</a>
+- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/37f9fd836b0218b3fe06a6f54df4973bd40a3131">37f9fd8</a>
 - <a href="https://github.com/VatsalSy/VatsalSy/commit/f1e180b7e205795eede72e106a4d974f034d20ad">f1e180b</a>
 - <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/4c5eb3c63bc74ae0e6653a4acbe08f3c27d05550">4c5eb3c</a>
-- <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/064fbe8b4c45f5e0f2d6f0a29d39313b96e96042">064fbe8</a>
-- <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/5cc2c20490b5c46df502cd62f8bc7a7b432fe55e">5cc2c20</a>
-- <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/fa59225e163b2ced2fee6e12a5dd80770cef2773">fa59225</a>
-- <a href="https://github.com/VatsalSy/RemindersSync/commit/28d2422c4a4b604784cd482effd6cad4be1f84ce">28d2422</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
