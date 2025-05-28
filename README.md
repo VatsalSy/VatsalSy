@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/comphy-lab/comphy-lab.github.io/pull/54) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#54](https://github.com/comphy-lab/comphy-lab.github.io/pull/54) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. ❗ Opened issue [#53](https://github.com/comphy-lab/comphy-lab.github.io/issues/53) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#52](https://github.com/comphy-lab/comphy-lab.github.io/pull/52) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#52](https://github.com/comphy-lab/comphy-lab.github.io/pull/52) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2915010095) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+2. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2915006552) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+3. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2914997593) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+4. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2914989179) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+5. 🎉 Merged PR [#54](https://github.com/comphy-lab/comphy-lab.github.io/pull/54) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
