@@ -42,6 +42,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/50">#50</a>: feat(deps): upgrade jest to 29.7.0
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/51">#51</a>: feat: remove .ruby-version restoration from setup script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/52">#52</a>: feat: Upgrade Node.js version to 20 in weekly tests
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/54">#54</a>: feat(team): Add new team member details
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
