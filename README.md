@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19190](https://github.com/raycast/extensions/pull/19190#issuecomment-2919271915) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#1](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/1) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2915010095) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
-4. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2915006552) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
-5. 🗣 Commented on [#2](https://github.com/VatsalSy/VatsalSy.github.io/pull/2#issuecomment-2914997593) in [VatsalSy/VatsalSy.github.io](https://github.com/VatsalSy/VatsalSy.github.io)
+1. ❗ Opened issue [#4](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/4) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+2. ❗ Opened issue [#3](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/3) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+3. ❗ Opened issue [#2](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/2) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+4. 🗣 Commented on [#19190](https://github.com/raycast/extensions/pull/19190#issuecomment-2919271915) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🎉 Merged PR [#1](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/1) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
 <!--END_SECTION:activity-->
 ---
 
