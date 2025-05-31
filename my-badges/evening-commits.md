@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/CloudPull/commit/33b2429dc184701a9df6cd86e80bdf5f88f46b0b">33b2429</a>
-- <a href="https://github.com/VatsalSy/CloudPull/commit/225ee2a6c41edceeb0073ba052635b4e2f029a78">225ee2a</a>
-- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/2babb53883fe3b044a92dba37c5438323f823733">2babb53</a>
-- <a href="https://github.com/VatsalSy/pdf-ocr-mistral/commit/593e92af77c5c29d75a14ffd0ca43b8662c57510">593e92a</a>
-- <a href="https://github.com/VatsalSy/battery-batt-control/commit/be720ca2cf07a89b651ec4ddcef4d56eed6222ad">be720ca</a>
-- <a href="https://github.com/VatsalSy/battery-batt-control/commit/0ba77a2bf728b3328040eefba7714520287d6101">0ba77a2</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/001cc786e1bbbe50c60eadb46b92354339da847d">001cc78</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/b684cfbdaa8e595d10997c91eef30c0d6e95219c">b684cfb</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/dda6be0da09e0fcc0ce2db712c39d3d2c9ffda37">dda6be0</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/8c0d87e2527e9738f8bd6173d19c61b565ec40c5">8c0d87e</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/54951eff5b8e34a4c679ea5f35cd89e8c47ae874">54951ef</a>
+- <a href="https://github.com/comphy-lab/VatsalSy/commit/e774b9f2cede08180cc97461b00356ef24695abf">e774b9f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
