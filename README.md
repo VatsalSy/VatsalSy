@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/6) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-2. ❗ Opened issue [#7](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/7) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 💪 Opened PR [#6](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/6) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-4. 🎉 Merged PR [#3](https://github.com/comphy-lab/VatsalSy/pull/3) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. 💪 Opened PR [#3](https://github.com/comphy-lab/VatsalSy/pull/3) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 💪 Opened PR [#10](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/10) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+2. 🗣 Commented on [#9](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/9#issuecomment-2925667547) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+3. 💪 Opened PR [#8](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/8) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+4. ❗ Opened issue [#2](https://github.com/VatsalSy/CloudPull/issues/2) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+5. 🎉 Merged PR [#6](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/6) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
 <!--END_SECTION:activity-->
 ---
 
