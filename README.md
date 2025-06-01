@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/10) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-2. 🗣 Commented on [#9](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/9#issuecomment-2925667547) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 💪 Opened PR [#8](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/8) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-4. ❗ Opened issue [#2](https://github.com/VatsalSy/CloudPull/issues/2) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-5. 🎉 Merged PR [#6](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/6) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. 🗣 Commented on [#19190](https://github.com/raycast/extensions/pull/19190#issuecomment-2927701539) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❌ Closed PR [#5](https://github.com/VatsalSy/CloudPull/pull/5) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+3. ❌ Closed PR [#4](https://github.com/VatsalSy/CloudPull/pull/4) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+4. ❌ Closed PR [#3](https://github.com/VatsalSy/CloudPull/pull/3) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+5. 🎉 Merged PR [#1](https://github.com/VatsalSy/CloudPull/pull/1) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
 <!--END_SECTION:activity-->
 ---
 
