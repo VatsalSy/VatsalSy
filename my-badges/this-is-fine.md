@@ -45,6 +45,8 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/54">#54</a>: feat(team): Add new team member details
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/55">#55</a>: vs-branch-19
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
+- <a href="https://github.com/VatsalSy/CloudPull/pull/6">#6</a>: chore: update dependencies - protobuf to v1.33.0 and crypto to v0.35.0
+- <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

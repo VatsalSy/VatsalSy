@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/064fbe8b4c45f5e0f2d6f0a29d39313b96e96042">064fbe8</a>: fixed a bug
-- <a href="https://github.com/VatsalSy/EVP-pendant-drop/commit/27d3d06e35ed4c3fd56b08630dd8b120ac09b415">27d3d06</a>: fixed postProcess
+- <a href="https://github.com/VatsalSy/CloudPull/commit/d0da5ea7416541b757e948d50bdac74b09ba2ae1">d0da5ea</a>: fix: skip signal handling test in short mode to prevent test interruption
+- <a href="https://github.com/VatsalSy/CloudPull/commit/baa227ff5972d11a2746eec55cd3053a1be4493a">baa227f</a>: fixed some reviews
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
