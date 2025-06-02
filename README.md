@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19190](https://github.com/raycast/extensions/pull/19190#issuecomment-2927701539) in [raycast/extensions](https://github.com/raycast/extensions)
-2. ❌ Closed PR [#5](https://github.com/VatsalSy/CloudPull/pull/5) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-3. ❌ Closed PR [#4](https://github.com/VatsalSy/CloudPull/pull/4) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-4. ❌ Closed PR [#3](https://github.com/VatsalSy/CloudPull/pull/3) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-5. 🎉 Merged PR [#1](https://github.com/VatsalSy/CloudPull/pull/1) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+1. 💪 Opened PR [#7](https://github.com/VatsalSy/CloudPull/pull/7) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+2. 🎉 Merged PR [#6](https://github.com/VatsalSy/CloudPull/pull/6) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+3. 💪 Opened PR [#6](https://github.com/VatsalSy/CloudPull/pull/6) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+4. 🚀 Published release [initial release](https://github.com/comphy-lab/ElasticPinchOff/releases/tag/v0.1) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+5. 🚀 Published release [v0.1](https://github.com/comphy-lab/MultiRheoFlow/releases/tag/v0.1) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 <!--END_SECTION:activity-->
 ---
 
