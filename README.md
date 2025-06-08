@@ -61,11 +61,11 @@ Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/13#issuecomment-2953983593) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-2. 💪 Opened PR [#13](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/13) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 🗣 Commented on [#19190](https://github.com/raycast/extensions/pull/19190#issuecomment-2936121574) in [raycast/extensions](https://github.com/raycast/extensions)
-4. ❗ Opened issue [#11](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/11) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-5. 🔒 Closed issue [#2](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/2) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. 🗣 Commented on [#15](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/15#issuecomment-2954160611) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+2. 🔒 Closed issue [#15](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/15) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+3. ❗ Opened issue [#15](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/15) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+4. ❗ Opened issue [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+5. 🗣 Commented on [#13](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/13#issuecomment-2953983593) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
 <!--END_SECTION:activity-->
 ---
 
