@@ -59,7 +59,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/concentricWave">VatsalSy/concentricWave: ★1</a>
 * <a href="https://github.com/VatsalSy/ViscousDropImpactForces.R2">VatsalSy/ViscousDropImpactForces.R2: ★1</a>
 * <a href="https://github.com/VatsalSy/pyoomph_examples">VatsalSy/pyoomph_examples: ★1</a>
-* <a href="https://github.com/VatsalSy/pyoomph.github.io">VatsalSy/pyoomph.github.io: ★1</a>
 * <a href="https://github.com/VatsalSy/findingPi">VatsalSy/findingPi: ★1</a>
 * <a href="https://github.com/VatsalSy/Coalescence-bubble-symmetric">VatsalSy/Coalescence-bubble-symmetric: ★1</a>
 * <a href="https://github.com/VatsalSy/macos-defaults">VatsalSy/macos-defaults: ★1</a>

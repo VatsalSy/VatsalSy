@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 71 my own repositories." title="I&apos;ve starred 71 my own repositories." width="128">
-<strong>I&apos;ve starred 71 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 70 my own repositories." title="I&apos;ve starred 70 my own repositories." width="128">
+<strong>I&apos;ve starred 70 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV</a>
@@ -50,7 +50,6 @@
 - <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact</a>
 - <a href="https://github.com/VatsalSy/ViscousDropImpactForces.R2">VatsalSy/ViscousDropImpactForces.R2</a>
 - <a href="https://github.com/VatsalSy/concentricWave">VatsalSy/concentricWave</a>
-- <a href="https://github.com/VatsalSy/pyoomph.github.io">VatsalSy/pyoomph.github.io</a>
 - <a href="https://github.com/VatsalSy/pyoomph_examples">VatsalSy/pyoomph_examples</a>
 - <a href="https://github.com/VatsalSy/python-fluidprop">VatsalSy/python-fluidprop</a>
 - <a href="https://github.com/VatsalSy/Flow-Condensation">VatsalSy/Flow-Condensation</a>
