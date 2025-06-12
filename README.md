@@ -11,8 +11,7 @@
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4293-6099)
 </center>
 
-Hello, I'm Vatsal Sanjay. I'm a fluid dynamicist with an interest in direct numerical simulations of drops, bubbles, jets, and all multifluid systems. I am currently a postdoctoral researcher at the [Physics of Fluids department](https://pof.tnw.utwente.nl), working with [Detlef Lohse](https://en.wikipedia.org/wiki/Detlef_Lohse). I lead the [Computational Multiphase Physics (CoMPhy) Lab](https://comphy-lab.org). 
-
+Hi, I am Vatsal Sanjay. I am a Fluid Dynamicist working in the field of multiphase flows. I am currently a postdoctoral researcher at the [Physics of Fluids department](https://pof.tnw.utwente.nl), working with [Detlef Lohse](https://en.wikipedia.org/wiki/Detlef_Lohse). I will join the [Durham University](https://durham.ac.uk) as Assistant Professor, where I will lead the [**Computational Multiphase Physics (CoMPhy) Lab**](https://comphy-lab.org). 
 I am curious about all fluid flow phenomena with interfaces. Especially those involving:
 
 - Drops
@@ -21,7 +20,7 @@ I am curious about all fluid flow phenomena with interfaces. Especially those in
 - Jets
 - Direct Numerical Simulations (low Reynolds numbers)
 
-Feel free to [contact me](mailto:contact@vatsalsanjay.com) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
+Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
 
 <!-- ![Vatsal's GitHub stats](https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
 
