@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#1](https://github.com/VatsalSy/gruvbox_custom_themes/pull/1) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-3. 💪 Opened PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#39](https://github.com/pyoomph/pyoomph/pull/39) in [pyoomph/pyoomph](https://github.com/pyoomph/pyoomph)
-5. ❗ Opened issue [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. 💪 Opened PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
+2. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 💪 Opened PR [#1](https://github.com/VatsalSy/gruvbox_custom_themes/pull/1) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+4. 💪 Opened PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 💪 Opened PR [#39](https://github.com/pyoomph/pyoomph/pull/39) in [pyoomph/pyoomph](https://github.com/pyoomph/pyoomph)
 <!--END_SECTION:activity-->
 ---
 
