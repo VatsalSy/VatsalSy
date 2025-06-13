@@ -47,6 +47,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/6">#6</a>: chore: update dependencies - protobuf to v1.33.0 and crypto to v0.35.0
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/56">#56</a>: Update documentation and add recent lab news
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/57">#57</a>: Update team page with titles, roles, and formatting improvements
 - <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 
 

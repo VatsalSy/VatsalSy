@@ -6,11 +6,11 @@ Repos:
 
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★4</a>
+* <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★4</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
 * <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★3</a>
 * <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students">VatsalSy/Project-ideas-for-prospective-students: ★3</a>
-* <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★3</a>
 * <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors: ★3</a>
 * <a href="https://github.com/VatsalSy/BasiliskVisualization">VatsalSy/BasiliskVisualization: ★2</a>
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLawV2">VatsalSy/PlanarCouetteFlow_PowerLawV2: ★2</a>
