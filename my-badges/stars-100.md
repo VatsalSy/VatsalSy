@@ -24,7 +24,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/nvisco">VatsalSy/nvisco: ★2</a>
 * <a href="https://github.com/VatsalSy/DropSpreadingOnSolid">VatsalSy/DropSpreadingOnSolid: ★2</a>
 * <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact: ★2</a>
-* <a href="https://github.com/VatsalSy/jumping-bubbles">VatsalSy/jumping-bubbles: ★2</a>
+* <a href="https://github.com/comphy-lab/JumpingBubbles">comphy-lab/JumpingBubbles: ★2</a>
 * <a href="https://github.com/ayushkumardixit/BurstingBubble_VE">ayushkumardixit/BurstingBubble_VE: ★2</a>
 * <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow: ★2</a>
 * <a href="https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces">VatsalSy/The-role-of-viscosity-on-drop-impact-forces: ★2</a>
