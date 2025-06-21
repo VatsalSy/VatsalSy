@@ -60,11 +60,11 @@ Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
-3. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#1](https://github.com/VatsalSy/gruvbox_custom_themes/pull/1) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-5. 💪 Opened PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 💪 Opened PR [#29](https://github.com/comphy-lab/documentationWeb/pull/29) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 🚀 Published release [Jumping Bubbles v2.0](https://github.com/comphy-lab/JumpingBubbles/releases/tag/v2.0) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
+5. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 ---
 
