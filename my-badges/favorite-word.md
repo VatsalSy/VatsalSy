@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. add (used 401 times)
 3. changes (used 283 times)
 4. commit (used 232 times)
-5. new (used 223 times)
+5. new (used 224 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
