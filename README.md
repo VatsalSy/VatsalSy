@@ -91,8 +91,8 @@ Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about 
 Monday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Tuesday                  555 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 Wednesday                412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Thursday                 429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Friday                   450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Thursday                 428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 Saturday                 622 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 Sunday                   673 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 ```
