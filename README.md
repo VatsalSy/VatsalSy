@@ -11,16 +11,15 @@
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4293-6099)
 </center>
 
-Hi, I am Vatsal Sanjay. I am a Fluid Dynamicist working in the field of multiphase flows. I am currently a postdoctoral researcher at the [Physics of Fluids department](https://pof.tnw.utwente.nl), working with [Detlef Lohse](https://en.wikipedia.org/wiki/Detlef_Lohse). I will join the [Durham University](https://durham.ac.uk) as Assistant Professor, where I will lead the [**Computational Multiphase Physics (CoMPhy) Lab**](https://comphy-lab.org). 
-I am curious about all fluid flow phenomena with interfaces. Especially those involving:
+Hi, I am Vatsal Sanjay. I am a soft matter physicist at [Durham University](https://durham.ac.uk), where I lead the [**Computational Multiphase Physics (CoMPhy) Lab**](https://comphy-lab.org). 
 
-- Drops
-- Plastocapillarity
-- Bubbles
-- Jets
-- Direct Numerical Simulations (low Reynolds numbers)
+Our [research](https://comphy-lab.org/research) focuses on non-Newtonian free-surface flows and soft matter singularities—fluid phenomena (like drops, bubbles, jets, and sheets) where interfaces undergo rapid, dramatic changes. Using high-fidelity simulations, theoretical modeling, and collaborative experiments, we investigate events such as droplet impacts, bubble bursting, and liquid sheet fragmentation to uncover their universal underlying mechanisms.
 
-Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about my work or anything else related to fluid physics. Nothing is more exhilarating than a healthy scientific discussion.
+In particular, we use complex (non-Newtonian) fluids as model systems to explore how microstructural stresses influence continuum-scale dynamics. We strive to connect fundamental insights from these studies to real-world applications across industry and nature.
+
+We are also committed to open science and welcome interdisciplinary collaborations with colleagues and students. Check out our work on [GitHub](https://github.com/comphy-lab).
+
+Feel free to [contact me](mailto:vatsalsy@comphy-lab.org) for discussions about our research or anything related to fluid physics!
 
 <!-- ![Vatsal's GitHub stats](https://github-readme-stats-xi-wine-74.vercel.app/api?username=VatsalSy&show_icons=true&theme=vision-friendly-dark)
 
