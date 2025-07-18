@@ -6,6 +6,11 @@
 #   git config core.hooksPath .githooks
 #
 
+# Skip hooks in CI environments
+if [ -n "$GITHUB_ACTIONS" ] || [ -n "$CI" ]; then
+    exit 0
+fi
+
 echo "🧪 Running pre-commit tests..."
 
 # Change to repository root
@@ -21,10 +26,20 @@ if [ -n "$SCRIPTS_CHANGED" ] || [ -n "$WORKFLOWS_CHANGED" ] || [ -n "$README_CHA
     echo "📋 Detected changes in scripts, workflows, or README"
     echo "─────────────────────────────────────────────"
     
+    # Check if Node.js is available
+    if ! command -v node >/dev/null 2>&1; then
+        echo "⚠️  Node.js not found - skipping tests"
+        echo "💡 Install Node.js to run pre-commit tests"
+        exit 0
+    fi
+    
     # Install dependencies if needed
     if [ ! -d ".github/test/node_modules" ]; then
         echo "📦 Installing test dependencies..."
-        (cd .github/test && npm install --silent)
+        (cd .github/test && npm install --silent) || {
+            echo "⚠️  Failed to install test dependencies - skipping tests"
+            exit 0
+        }
     fi
     
     # Run tests

@@ -2,6 +2,8 @@
 
 This directory contains automated tests for the VatsalSy GitHub profile repository.
 
+> **Note**: These tests and git hooks are for local development only. They do not affect GitHub Actions or automated workflows, which run in isolated environments without local git configurations.
+
 ## 🧪 Test Suites
 
 ### 1. Featured Repository Script Tests (`test-update-featured-repo.js`)
@@ -48,6 +50,12 @@ This repository includes a pre-commit hook that automatically runs tests when yo
 - `.github/workflows/*.yml` files  
 - `README.md`
 
+### Important Notes:
+- **Local only**: Git hooks are configured locally and do not affect GitHub Actions
+- **CI safe**: The hooks automatically skip execution in CI environments
+- **Graceful fallback**: If Node.js is not available, tests are skipped
+- **No interference**: Automated workflows in GitHub Actions run in clean environments
+
 ### Installing hooks:
 ```bash
 ./.githooks/install-hooks.sh
@@ -56,6 +64,11 @@ This repository includes a pre-commit hook that automatically runs tests when yo
 ### Bypassing hooks (use sparingly):
 ```bash
 git commit --no-verify
+```
+
+### Uninstalling hooks:
+```bash
+git config --unset core.hooksPath
 ```
 
 ## 📦 Dependencies
