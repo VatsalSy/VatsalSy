@@ -29,7 +29,7 @@ async function fetchWithRetry(url, retries = MAX_RETRIES) {
       return data;
     } catch (error) {
       if (error.statusCode === 403 && error.headers && error.headers['x-ratelimit-remaining'] === '0') {
-        const resetTime = parseInt(error.headers['x-ratelimit-reset']) * 1000;
+        const resetTime = Number.parseInt(error.headers['x-ratelimit-reset']) * 1000;
         const waitTime = Math.max(resetTime - Date.now(), 0) + 1000; // Add 1 second buffer
         console.log(`Rate limited. Waiting ${Math.ceil(waitTime / 1000)} seconds...`);
         await sleep(waitTime);
@@ -210,11 +210,11 @@ async function main() {
   
   const repo = await getLatestRepository();
   
-  if (repo && !repo.isFork) {
+  if (repo) {
     console.log(`Found repository: ${repo.name} (${repo.fullName})`);
     updateReadme(repo);
   } else {
-    console.log('No suitable repository found or repository is a fork');
+    console.log('No suitable repository found');
   }
 }
 
