@@ -1,0 +1,48 @@
+#!/bin/sh
+#
+# Pre-commit hook that runs tests before allowing commits
+#
+# To install this hook, run:
+#   git config core.hooksPath .githooks
+#
+
+echo "🧪 Running pre-commit tests..."
+
+# Change to repository root
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
+# Check if any JavaScript files in .github/scripts have been modified
+SCRIPTS_CHANGED=$(git diff --cached --name-only | grep -E "\.github/scripts/.*\.js$")
+WORKFLOWS_CHANGED=$(git diff --cached --name-only | grep -E "\.github/workflows/.*\.ya?ml$")
+README_CHANGED=$(git diff --cached --name-only | grep "README.md")
+
+# Run appropriate tests based on what changed
+if [ -n "$SCRIPTS_CHANGED" ] || [ -n "$WORKFLOWS_CHANGED" ] || [ -n "$README_CHANGED" ]; then
+    echo "📋 Detected changes in scripts, workflows, or README"
+    echo "─────────────────────────────────────────────"
+    
+    # Install dependencies if needed
+    if [ ! -d ".github/test/node_modules" ]; then
+        echo "📦 Installing test dependencies..."
+        (cd .github/test && npm install --silent)
+    fi
+    
+    # Run tests
+    node .github/test/run-all-tests.js
+    TEST_RESULT=$?
+    
+    if [ $TEST_RESULT -ne 0 ]; then
+        echo ""
+        echo "❌ Tests failed! Please fix the issues before committing."
+        echo "💡 Tip: Run 'node .github/test/run-all-tests.js' to see detailed results"
+        exit 1
+    fi
+    
+    echo ""
+    echo "✅ All tests passed!"
+else
+    echo "ℹ️  No changes to scripts, workflows, or README - skipping tests"
+fi
+
+echo "─────────────────────────────────────────────"
+echo "✨ Pre-commit checks completed successfully"
