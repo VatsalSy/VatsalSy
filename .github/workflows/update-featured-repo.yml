@@ -1,0 +1,48 @@
+name: Update Featured Repository
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"  # Every 6 hours at 30 minutes past
+  push:
+    branches: 
+      - main
+    paths:
+      - '.github/scripts/update-featured-repo.js'
+  workflow_dispatch:
+
+jobs:
+  update-featured-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Update featured repository
+        run: node .github/scripts/update-featured-repo.js
+      
+      - name: Check for changes
+        id: verify-changed
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.verify-changed.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "🔄 Update featured repository"
+          git push
