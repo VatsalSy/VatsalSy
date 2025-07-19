@@ -102,8 +102,8 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-2. 🎉 Merged PR [#29](https://github.com/comphy-lab/documentationWeb/pull/29) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. 🎉 Merged PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 💪 Opened PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 3. 🎉 Merged PR [#2](https://github.com/comphy-lab/MultiRheoFlow/pull/2) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 4. 💪 Opened PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
 5. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
