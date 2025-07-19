@@ -7,6 +7,7 @@ This directory contains automated tests for the VatsalSy GitHub profile reposito
 ## 🧪 Test Suites
 
 ### 1. Featured Repository Script Tests (`test-update-featured-repo.js`)
+
 - Validates ES2015 compliance (Number.parseInt usage)
 - Checks for redundant code removal
 - Tests repository exclusion logic
@@ -15,6 +16,7 @@ This directory contains automated tests for the VatsalSy GitHub profile reposito
 - Validates GitHub token handling
 
 ### 2. Workflow and README Tests (`test-workflows.js`)
+
 - Validates YAML syntax for all workflows
 - Checks workflow schedules are correct
 - Validates permissions configuration
@@ -23,13 +25,15 @@ This directory contains automated tests for the VatsalSy GitHub profile reposito
 
 ## 🚀 Running Tests
 
-### Run all tests:
+### Run all tests
+
 ```bash
 cd .github/test
 npm test
 ```
 
-### Run specific test suite:
+### Run specific test suite
+
 ```bash
 # Test featured repo script
 npm run test:featured-repo
@@ -38,7 +42,8 @@ npm run test:featured-repo
 npm run test:workflows
 ```
 
-### Direct execution:
+### Direct execution
+
 ```bash
 node .github/test/run-all-tests.js
 ```
@@ -50,23 +55,27 @@ This repository includes a pre-commit hook that automatically runs tests when yo
 - `.github/workflows/*.yml` files  
 - `README.md`
 
-### Important Notes:
+### Important Notes
+
 - **Local only**: Git hooks are configured locally and do not affect GitHub Actions
 - **CI safe**: The hooks automatically skip execution in CI environments
 - **Graceful fallback**: If Node.js is not available, tests are skipped
 - **No interference**: Automated workflows in GitHub Actions run in clean environments
 
-### Installing hooks:
+### Installing hooks
+
 ```bash
 ./.githooks/install-hooks.sh
 ```
 
-### Bypassing hooks (use sparingly):
+### Bypassing hooks (use sparingly)
+
 ```bash
 git commit --no-verify
 ```
 
-### Uninstalling hooks:
+### Uninstalling hooks
+
 ```bash
 git config --unset core.hooksPath
 ```
@@ -85,7 +94,8 @@ npm install
 
 ## 🔍 What Gets Tested
 
-### On Every Commit:
+### On Every Commit
+
 1. **Code Quality**
    - ES2015 compliance
    - No redundant code

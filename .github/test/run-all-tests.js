@@ -7,7 +7,6 @@
  */
 
 const path = require('node:path');
-const { execSync } = require('node:child_process');
 
 // Test suites
 const testSuites = [
@@ -54,9 +53,14 @@ async function main() {
   console.log('═'.repeat(50));
   console.log(`Running tests at: ${new Date().toISOString()}`);
   
-  // Check if we're in the test directory
-  if (!__dirname.includes('.github/test')) {
-    process.chdir(path.join(__dirname));
+  // Ensure we're in the test directory
+  const currentDir = path.basename(__dirname);
+  if (currentDir !== 'test') {
+    // If not in test directory, try to change to it
+    const testDir = path.join(__dirname, __dirname.endsWith('test') ? '' : 'test');
+    if (require('fs').existsSync(testDir)) {
+      process.chdir(testDir);
+    }
   }
   
   // Run all test suites

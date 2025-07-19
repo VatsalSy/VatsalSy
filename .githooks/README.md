@@ -14,6 +14,7 @@ This directory contains git hooks for local development quality assurance.
 ## 📋 Available Hooks
 
 ### pre-commit
+
 Runs automated tests before allowing commits when you modify:
 - JavaScript files in `.github/scripts/`
 - Workflow files in `.github/workflows/`
@@ -48,13 +49,16 @@ git config --unset core.hooksPath
 
 ## 🔧 Troubleshooting
 
-### Bypassing hooks temporarily:
+### Bypassing hooks temporarily
+
 ```bash
 git commit --no-verify -m "your message"
 ```
 
-### If automated commits fail:
+### If automated commits fail
+
 They won't! GitHub Actions don't use local git configs. But if you're testing locally:
+
 ```bash
 # Temporarily disable for automation testing
 CI=1 git commit -m "automated commit"

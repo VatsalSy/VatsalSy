@@ -57,8 +57,8 @@ const workflowTests = {
         const content = fs.readFileSync(filePath, 'utf8');
         const workflow = yaml.load(content);
         
-        if (workflow.on && workflow.on.schedule) {
-          const cron = workflow.on.schedule[0].cron;
+        if (workflow.on?.schedule) {
+          const cron = workflow.on.schedule?.[0]?.cron;
           assert(cron === expectedCron, 
                  `${file} should have cron "${expectedCron}" but has "${cron}"`);
           console.log(`  ✓ ${file} schedule is correct`);
@@ -81,8 +81,8 @@ const workflowTests = {
       if (file.includes('update') || file.includes('stats') || file.includes('badges')) {
         const jobs = Object.values(workflow.jobs || {});
         jobs.forEach(job => {
-          if (job.steps && job.steps.some(step => 
-            step.run && (step.run.includes('git commit') || step.run.includes('git push')))) {
+          if (job.steps?.some(step => 
+            step.run?.includes('git commit') || step.run?.includes('git push'))) {
             // Should have contents: write permission
             assert(workflow.permissions?.contents === 'write' || 
                    job.permissions?.contents === 'write',

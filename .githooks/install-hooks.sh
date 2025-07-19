@@ -16,9 +16,7 @@ fi
 cd "$REPO_ROOT" || exit 1
 
 # Set the hooks path
-git config core.hooksPath .githooks
-
-if [ $? -eq 0 ]; then
+if git config core.hooksPath .githooks; then
     echo "✅ Git hooks installed successfully!"
     echo ""
     echo "The following hooks are now active:"
