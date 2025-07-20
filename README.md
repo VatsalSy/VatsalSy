@@ -1,7 +1,7 @@
 <div align="center">
   
 # Vatsal Sanjay
-### Soft Matter Physicist | Computational Fluid Dynamics Expert | Assistant Professor
+### Soft Matter Physicist | Computational Fluid Dynamics | Assistant Professor
 
 <a href="https://www.vatsalsanjay.com">
   <img alt="Vatsal" width="200px" src="https://www.dropbox.com/s/dxyybgtblo8er6h/Logo_Vatsal_Vector.png?raw=1">
