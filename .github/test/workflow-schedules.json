@@ -1,0 +1,9 @@
+{
+  "expectedSchedules": {
+    "update-featured-repo.yml": "30 */6 * * *",
+    "ReadmeWaka.yml": "0 */4 * * *",
+    "github-stats.yml": "0 */4 * * *",
+    "my-badges.yml": "0 0 * * *",
+    "update-readme.yml": "10 */4 * * *"
+  }
+}

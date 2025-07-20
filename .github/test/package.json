@@ -1,0 +1,17 @@
+{
+  "name": "github-profile-tests",
+  "version": "1.0.0",
+  "description": "Test suite for VatsalSy GitHub profile",
+  "main": "run-all-tests.js",
+  "scripts": {
+    "test": "node run-all-tests.js",
+    "test:featured-repo": "node test-update-featured-repo.js",
+    "test:workflows": "node test-workflows.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
