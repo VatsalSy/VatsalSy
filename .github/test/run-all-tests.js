@@ -58,7 +58,7 @@ async function main() {
   if (currentDir !== 'test') {
     // If not in test directory, try to change to it
     const testDir = path.join(__dirname, __dirname.endsWith('test') ? '' : 'test');
-    if (require('fs').existsSync(testDir)) {
+    if (require('node:fs').existsSync(testDir)) {
       process.chdir(testDir);
     }
   }

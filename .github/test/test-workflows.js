@@ -43,13 +43,18 @@ const workflowTests = {
 
   'test_workflow_schedules': () => {
     console.log('Testing workflow schedules...');
-    const expectedSchedules = {
-      'update-featured-repo.yml': '30 */6 * * *',
-      'ReadmeWaka.yml': '0 */4 * * *',
-      'github-stats.yml': '0 */4 * * *',
-      'my-badges.yml': '0 0 * * *',
-      'update-readme.yml': '10 */4 * * *'
-    };
+    
+    // Load expected schedules from external configuration
+    const configPath = path.join(__dirname, 'workflow-schedules.json');
+    let expectedSchedules;
+    
+    try {
+      const configContent = fs.readFileSync(configPath, 'utf8');
+      const config = JSON.parse(configContent);
+      expectedSchedules = config.expectedSchedules;
+    } catch (error) {
+      throw new Error(`Failed to load workflow schedules config: ${error.message}`);
+    }
     
     Object.entries(expectedSchedules).forEach(([file, expectedCron]) => {
       const filePath = path.join(WORKFLOWS_DIR, file);
