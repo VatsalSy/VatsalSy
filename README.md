@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VatsalSy/VatsalSy/pull/6) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-2. 🎉 Merged PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-3. 💪 Opened PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/JumpingBubbles/pull/1) in [comphy-lab/JumpingBubbles](https://github.com/comphy-lab/JumpingBubbles)
-5. 🎉 Merged PR [#57](https://github.com/comphy-lab/comphy-lab.github.io/pull/57) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/.github/pull/1) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
+2. 💪 Opened PR [#1](https://github.com/comphy-lab/.github/pull/1) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
+3. 🎉 Merged PR [#6](https://github.com/VatsalSy/VatsalSy/pull/6) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. 🎉 Merged PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+5. 💪 Opened PR [#30](https://github.com/comphy-lab/documentationWeb/pull/30) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 
 ---
