@@ -18,6 +18,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission">VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission: ★2</a>
 * <a href="https://github.com/VatsalSy/When-does-a-drop-stop-bouncing">VatsalSy/When-does-a-drop-stop-bouncing: ★2</a>
 * <a href="https://github.com/VatsalSy/Vatsal-Thesis">VatsalSy/Vatsal-Thesis: ★2</a>
+* <a href="https://github.com/VatsalSy/awesome-time-series-resources">VatsalSy/awesome-time-series-resources: ★2</a>
 * <a href="https://github.com/VatsalSy/ExperimentMatplotlibFont">VatsalSy/ExperimentMatplotlibFont: ★2</a>
 * <a href="https://github.com/VatsalSy/computational-mechanics">VatsalSy/computational-mechanics: ★2</a>
 * <a href="https://github.com/VatsalSy/kinematic-match-sphere">VatsalSy/kinematic-match-sphere: ★2</a>
@@ -39,7 +40,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/BOSO-micro">VatsalSy/BOSO-micro: ★1</a>
 * <a href="https://github.com/VatsalSy/IFM_repo_forked">VatsalSy/IFM_repo_forked: ★1</a>
 * <a href="https://github.com/VatsalSy/awesome-Python-data-science-books">VatsalSy/awesome-Python-data-science-books: ★1</a>
-* <a href="https://github.com/VatsalSy/awesome-time-series-resources">VatsalSy/awesome-time-series-resources: ★1</a>
 * <a href="https://github.com/VatsalSy/PyTorchExamples">VatsalSy/PyTorchExamples: ★1</a>
 * <a href="https://github.com/VatsalSy/VatsalSy">VatsalSy/VatsalSy: ★1</a>
 * <a href="https://github.com/VatsalSy/NumerAnal-Gradbook">VatsalSy/NumerAnal-Gradbook: ★1</a>
