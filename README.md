@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+### [HoleySheet](https://github.com/comphy-lab/HoleySheet)
 
-Swift command-line interface for managing Apple Reminders on macOS • Swift
+Hole nucleation by bubbles inside sheet • C
 
 <!--END_SECTION:latest-repo-->
 
