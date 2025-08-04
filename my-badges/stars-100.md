@@ -36,7 +36,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/GromacsPostProcessing">VatsalSy/GromacsPostProcessing: ★1</a>
 * <a href="https://github.com/VatsalSy/LidDrivenFlowVP">VatsalSy/LidDrivenFlowVP: ★1</a>
 * <a href="https://github.com/VatsalSy/gdocs2md">VatsalSy/gdocs2md: ★1</a>
-* <a href="https://github.com/VatsalSy/Newtonian-Drop-in-VP-medium">VatsalSy/Newtonian-Drop-in-VP-medium: ★1</a>
 * <a href="https://github.com/VatsalSy/BOSO-micro">VatsalSy/BOSO-micro: ★1</a>
 * <a href="https://github.com/VatsalSy/IFM_repo_forked">VatsalSy/IFM_repo_forked: ★1</a>
 * <a href="https://github.com/VatsalSy/awesome-Python-data-science-books">VatsalSy/awesome-Python-data-science-books: ★1</a>

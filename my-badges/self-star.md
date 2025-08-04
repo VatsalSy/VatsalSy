@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 69 my own repositories." title="I&apos;ve starred 69 my own repositories." width="128">
-<strong>I&apos;ve starred 69 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 68 my own repositories." title="I&apos;ve starred 68 my own repositories." width="128">
+<strong>I&apos;ve starred 68 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV</a>
@@ -27,7 +27,6 @@
 - <a href="https://github.com/VatsalSy/awesome-Python-data-science-books">VatsalSy/awesome-Python-data-science-books</a>
 - <a href="https://github.com/VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission">VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission</a>
 - <a href="https://github.com/VatsalSy/BOSO-micro">VatsalSy/BOSO-micro</a>
-- <a href="https://github.com/VatsalSy/Newtonian-Drop-in-VP-medium">VatsalSy/Newtonian-Drop-in-VP-medium</a>
 - <a href="https://github.com/VatsalSy/GuideBasilisk">VatsalSy/GuideBasilisk</a>
 - <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation</a>
 - <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython</a>
