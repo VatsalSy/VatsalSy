@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [HoleySheet](https://github.com/comphy-lab/HoleySheet)
+### [droplet_under_shear_newtonian_2D](https://github.com/tappleford/droplet_under_shear_newtonian_2D)
 
-Hole nucleation by bubbles inside sheet • C
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
