@@ -4,8 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/CloudPull/commit/d0da5ea7416541b757e948d50bdac74b09ba2ae1">d0da5ea</a>: fix: skip signal handling test in short mode to prevent test interruption
-- <a href="https://github.com/VatsalSy/CloudPull/commit/baa227ff5972d11a2746eec55cd3053a1be4493a">baa227f</a>: fixed some reviews
+- <a href="https://github.com/VatsalSy/occusage/commit/ff3574bf8542914df8623ded77ddbfbee987b8dd">ff3574b</a>: fix: add blank line before ordered list in bug report template
+
+- Resolves markdownlint MD032 violation by inserting blank line between
+  preceding paragraph and ordered list in issue template
+- Improves markdown formatting consistency
+- <a href="https://github.com/VatsalSy/occusage/commit/39df63627597d9276932d569af09d0ea8b2b5a0e">39df636</a>: fix: update compact table headers and alignment in blocks command
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -68,6 +68,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
 * <a href="https://github.com/VatsalSy/RemindersSync">VatsalSy/RemindersSync: ★1</a>
 * <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes">VatsalSy/zed-gruvbox_custom_themes: ★1</a>
+* <a href="https://github.com/VatsalSy/awesome-claude-code">VatsalSy/awesome-claude-code: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

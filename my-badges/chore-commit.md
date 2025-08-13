@@ -4,11 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/CloudPull/commit/6926fafd6444385895b8c74ae8852c7c00889fd7">6926faf</a>: chore: update dependencies - protobuf to v1.33.0 and crypto to v0.35.0
+- <a href="https://github.com/VatsalSy/occusage/commit/261e7ace50a676ca3c3f9336529d608ab1a515a3">261e7ac</a>: chore: add install.sh for local CLI setup and document in README
 
-- Bump google.golang.org/protobuf from v1.31.0 to v1.33.0
-- Bump golang.org/x/crypto from v0.16.0 to v0.35.0
-- Update golang.org/x/net from v0.19.0 to v0.21.0 (dependency requirement)
+- install.sh installs deps, links globally, and configures PATH if needed
+- README: add one-command local install section
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
