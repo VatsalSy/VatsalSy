@@ -107,10 +107,10 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/VatsalSy/iReminderCLI/pull/1) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-2. 🗣 Commented on [#1](https://github.com/VatsalSy/iReminderCLI/pull/1#issuecomment-3140465771) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-3. 💪 Opened PR [#1](https://github.com/VatsalSy/iReminderCLI/pull/1) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-4. 🎉 Merged PR [#1](https://github.com/comphy-lab/.github/pull/1) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
+1. 🚀 Published release [occusage v1.0](https://github.com/VatsalSy/occusage/releases/tag/v1.0) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+2. 🎉 Merged PR [#1](https://github.com/VatsalSy/iReminderCLI/pull/1) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+3. 🗣 Commented on [#1](https://github.com/VatsalSy/iReminderCLI/pull/1#issuecomment-3140465771) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+4. 💪 Opened PR [#1](https://github.com/VatsalSy/iReminderCLI/pull/1) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
 5. 💪 Opened PR [#1](https://github.com/comphy-lab/.github/pull/1) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
 <!--END_SECTION:activity-->
 
