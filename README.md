@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [droplet_under_shear_newtonian_2D](https://github.com/tappleford/droplet_under_shear_newtonian_2D)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-No description available • C
+version, updated every day • C
 
 <!--END_SECTION:latest-repo-->
 
