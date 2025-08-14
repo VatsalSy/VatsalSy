@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★4</a>
 * <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★4</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
@@ -68,7 +67,9 @@ Repos:
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
 * <a href="https://github.com/VatsalSy/RemindersSync">VatsalSy/RemindersSync: ★1</a>
 * <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes">VatsalSy/zed-gruvbox_custom_themes: ★1</a>
+* <a href="https://github.com/VatsalSy/occusage">VatsalSy/occusage: ★1</a>
 * <a href="https://github.com/VatsalSy/awesome-claude-code">VatsalSy/awesome-claude-code: ★1</a>
+* <a href="https://github.com/VatsalSy/opencode">VatsalSy/opencode: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
