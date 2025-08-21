@@ -6,6 +6,7 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/nbeb/extracting_self-similarity_from_data/issues/1">#1</a>: Getting nan on running collapsing_cavity.ipynb
 - <a href="https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3">#3</a>: Instability for Large Dimensionless Yield Stress (J/We >> 1)
+- <a href="https://github.com/comphy-lab/master-slave-basilisk/issues/2">#2</a>: Vertical stacking master-slave coupling compilation fails
 - <a href="https://github.com/EclipseFdn/open-vsx.org/issues/3247">#3247</a>: Claiming namespace VatsalSy
 
 
