@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
-2. 💪 Opened PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
-3. 💪 Opened PR [#4](https://github.com/VatsalSy/occusage/pull/4) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-4. 🎉 Merged PR [#1](https://github.com/comphy-lab/project-ideas/pull/1) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
-5. 💪 Opened PR [#1](https://github.com/comphy-lab/project-ideas/pull/1) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+1. 💪 Opened PR [#5](https://github.com/VatsalSy/occusage/pull/5) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+2. 🎉 Merged PR [#4](https://github.com/VatsalSy/occusage/pull/4) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+3. 🎉 Merged PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+4. 💪 Opened PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+5. 💪 Opened PR [#4](https://github.com/VatsalSy/occusage/pull/4) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
 <!--END_SECTION:activity-->
 
 ---
