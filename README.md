@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/comphy-lab/project-ideas/pull/1) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
-2. 🎉 Merged PR [#17](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/17) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 💪 Opened PR [#17](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/17) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-4. 🎉 Merged PR [#4](https://github.com/VatsalSy/RemindersSync/pull/4) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-5. 💪 Opened PR [#4](https://github.com/VatsalSy/RemindersSync/pull/4) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/project-ideas/pull/2) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+3. 💪 Opened PR [#4](https://github.com/VatsalSy/occusage/pull/4) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+4. 🎉 Merged PR [#1](https://github.com/comphy-lab/project-ideas/pull/1) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
+5. 💪 Opened PR [#1](https://github.com/comphy-lab/project-ideas/pull/1) in [comphy-lab/project-ideas](https://github.com/comphy-lab/project-ideas)
 <!--END_SECTION:activity-->
 
 ---
