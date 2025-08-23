@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/my-badges/my-badges/pull/73">#73</a>
+- <a href="https://github.com/my-badges/my-badges/pull/73">#73</a>: (fix) getMonth is 0 based.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
