@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [project-ideas](https://github.com/comphy-lab/project-ideas)
+### [occusage](https://github.com/VatsalSy/occusage)
 
-Project ideas for prespective students • TeX
+A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
