@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+### [project-ideas](https://github.com/comphy-lab/project-ideas)
 
-No description available • Python
+Project ideas for prespective students • TeX
 
 <!--END_SECTION:latest-repo-->
 
