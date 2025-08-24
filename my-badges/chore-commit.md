@@ -4,10 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/occusage/commit/261e7ace50a676ca3c3f9336529d608ab1a515a3">261e7ac</a>: chore: add install.sh for local CLI setup and document in README
+- <a href="https://github.com/VatsalSy/occusage/commit/c69fa239cd80961aeee3446f72fce13abba9209e">c69fa23</a>: chore(settings): add hooks for PreToolUse, PostToolUse, and Stop
 
-- install.sh installs deps, links globally, and configures PATH if needed
-- README: add one-command local install section
+Configure hooks in .claude/settings.json to trigger commands before
+and after tool usage for Edit, MultiEdit, and Write actions. Add a
+Stop hook to run a command when stopping. This setup automates tool
+command execution and streamlines workflow.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
