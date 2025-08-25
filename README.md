@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+### [occusage](https://github.com/VatsalSy/occusage)
 
-This is the LaTeX source code of my CV • TeX ⭐ 11
+A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
