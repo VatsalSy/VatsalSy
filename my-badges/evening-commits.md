@@ -5,11 +5,11 @@
 Commits:
 
 - <a href="https://github.com/VatsalSy/occusage/commit/af8392cb6bc9e3c8c79d7861f7ed2d727f22a271">af8392c</a>
-- <a href="https://github.com/VatsalSy/Vatsal_CV/commit/d4b138a8e5e93eca79a607616cd3d263334aef9d">d4b138a</a>
+- <a href="https://github.com/VatsalSy/occusage/commit/3ea56f3bf5b787db6d2265aacfb223abf21019e5">3ea56f3</a>
+- <a href="https://github.com/VatsalSy/occusage/commit/3ce4025588d4710525db679573095a5df2b2807b">3ce4025</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/4f417ab92471ef82950ea228dd35bcfbf5469c20">4f417ab</a>
-- <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students/commit/3c28146fc91f5e7ca9df7ea4961b71681bff32a0">3c28146</a>
-- <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students/commit/5686c3d26635ffea6d8c9dc80eaadd8ddca8e452">5686c3d</a>
-- <a href="https://github.com/VatsalSy/occusage/commit/32b04fdc5ca1c43bbfd61d1d2005e00289502b32">32b04fd</a>
+- <a href="https://github.com/VatsalSy/occusage/commit/e4dc338a20f24ff26d14cc1a8c46d10ba4fd4f31">e4dc338</a>
+- <a href="https://github.com/VatsalSy/occusage/commit/1b3cbb263109cf9baa69d5a45bce70d10cb9071c">1b3cbb2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
