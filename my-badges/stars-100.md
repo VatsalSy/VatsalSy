@@ -29,6 +29,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow: ★2</a>
 * <a href="https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces">VatsalSy/The-role-of-viscosity-on-drop-impact-forces: ★2</a>
 * <a href="https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation">VatsalSy/DropImpact_viscoplastic_epsilonformulation: ★2</a>
+* <a href="https://github.com/VatsalSy/occusage">VatsalSy/occusage: ★2</a>
 * <a href="https://github.com/VatsalSy/CFD-basics">VatsalSy/CFD-basics: ★1</a>
 * <a href="https://github.com/VatsalSy/chainPaper">VatsalSy/chainPaper: ★1</a>
 * <a href="https://github.com/VatsalSy/CFD-PythonVatsal">VatsalSy/CFD-PythonVatsal: ★1</a>
@@ -67,7 +68,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
 * <a href="https://github.com/VatsalSy/RemindersSync">VatsalSy/RemindersSync: ★1</a>
 * <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes">VatsalSy/zed-gruvbox_custom_themes: ★1</a>
-* <a href="https://github.com/VatsalSy/occusage">VatsalSy/occusage: ★1</a>
 * <a href="https://github.com/VatsalSy/awesome-claude-code">VatsalSy/awesome-claude-code: ★1</a>
 * <a href="https://github.com/VatsalSy/opencode">VatsalSy/opencode: ★1</a>
 
