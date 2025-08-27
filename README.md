@@ -78,7 +78,7 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 ### [occusage](https://github.com/VatsalSy/occusage)
 
-A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 1
+A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 2
 
 <!--END_SECTION:latest-repo-->
 
