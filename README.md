@@ -293,7 +293,6 @@ Go                       1 repo              ░░░░░░░░░░░�
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 68 my own repositories." title="I&apos;ve starred 68 my own repositories." width="64"></a>
-<a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
@@ -303,6 +302,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <a href="my-badges/fix-6.md"><img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
+<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <!-- my-badges end -->
 
 </details>
