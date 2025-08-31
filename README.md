@@ -185,13 +185,13 @@ Sunday                   753 commits         █████░░░░░░�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C491%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 4,735 Contributions in the Year 2025
+> 🏆 4,830 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,17 +232,17 @@ Mac                      72 hrs 36 mins      ███████████�
 **I Mostly Code in C** 
 
 ```text
-TeX                      52 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Swift                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TeX                      52 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Swift                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
 
 
- Last Updated on 30/08/2025 04:28:25 UTC
+ Last Updated on 31/08/2025 01:47:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
