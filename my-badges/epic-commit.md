@@ -33,6 +33,8 @@ Commits:
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/3d297547ef25b6d23ff180db4e8b13cda3b2b514">3d29754</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/9c6c6b2a2f78be34755b60ff1022d1ce3971f843">9c6c6b2</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/5885b4f28a58c86554e4a94cf6a0df20b55dd407">5885b4f</a>
+- <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/2060e4f92b7b97a6e9473c7be3a113e341aa87b4">2060e4f</a>
+- <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/c8ce0335ca45860828032ae94ffa144677aa79c8">c8ce033</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/d85d3e484e650ec56c60bebb406f4aa397d06853">d85d3e4</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/a72ec0c64996e5a8adecb108a2085038b29e8b43">a72ec0c</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/944764eab17c3bcb39d48bd28e8832a451d5be34">944764e</a>

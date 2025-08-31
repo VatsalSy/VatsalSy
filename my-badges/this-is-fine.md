@@ -50,6 +50,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/57">#57</a>: Update team page with titles, roles, and formatting improvements
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/58">#58</a>: JavaScript optimization: eliminate redundancy and improve performance
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/59">#59</a>: maintenance-updates
+- <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 
 
