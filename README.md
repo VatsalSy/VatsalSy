@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VatsalSy/occusage/pull/6) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-2. 💪 Opened PR [#6](https://github.com/VatsalSy/occusage/pull/6) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-3. 🎉 Merged PR [#5](https://github.com/VatsalSy/occusage/pull/5) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-4. 🎉 Merged PR [#7](https://github.com/VatsalSy/Vatsal_CV/pull/7) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-5. 🎉 Merged PR [#58](https://github.com/comphy-lab/comphy-lab.github.io/pull/58) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ❌ Closed PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
+2. ❌ Closed PR [#15](https://github.com/e-alizadeh/Zotero2Readwise-Sync/pull/15) in [e-alizadeh/Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync)
+3. ❌ Closed PR [#2](https://github.com/nbeb/extracting_self-similarity_from_data/pull/2) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
+4. 🎉 Merged PR [#5](https://github.com/comphy-lab/VatsalSy/pull/5) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+5. ❌ Closed PR [#4](https://github.com/comphy-lab/VatsalSy/pull/4) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
