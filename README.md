@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
-2. ❌ Closed PR [#15](https://github.com/e-alizadeh/Zotero2Readwise-Sync/pull/15) in [e-alizadeh/Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync)
-3. ❌ Closed PR [#2](https://github.com/nbeb/extracting_self-similarity_from_data/pull/2) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
-4. 🎉 Merged PR [#5](https://github.com/comphy-lab/VatsalSy/pull/5) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. ❌ Closed PR [#4](https://github.com/comphy-lab/VatsalSy/pull/4) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 🗣 Commented on [#5](https://github.com/VatsalSy/RemindersSync/issues/5#issuecomment-3249609751) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+2. ❌ Closed PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
+3. ❌ Closed PR [#15](https://github.com/e-alizadeh/Zotero2Readwise-Sync/pull/15) in [e-alizadeh/Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync)
+4. ❌ Closed PR [#2](https://github.com/nbeb/extracting_self-similarity_from_data/pull/2) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
+5. 🎉 Merged PR [#5](https://github.com/comphy-lab/VatsalSy/pull/5) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
