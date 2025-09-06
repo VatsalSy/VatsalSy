@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-2. 🗣 Commented on [#3](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/3#issuecomment-3259708877) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-3. 🗣 Commented on [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2#issuecomment-3259707960) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-4. 💪 Opened PR [#3](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/3) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-5. 💪 Opened PR [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+1. 🎉 Merged PR [#3](https://github.com/VatsalSy/gruvbox_custom_themes/pull/3) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+2. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/releases/tag/v1.0.0) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+3. 🎉 Merged PR [#1](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/1) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+4. 💪 Opened PR [#3](https://github.com/VatsalSy/gruvbox_custom_themes/pull/3) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+5. 🎉 Merged PR [#3](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/3) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
 <!--END_SECTION:activity-->
 
 ---
