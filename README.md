@@ -76,7 +76,7 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [omni-buffer](https://github.com/VatsalSy/omni-buffer)
+### [gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
 
 No description available
 
