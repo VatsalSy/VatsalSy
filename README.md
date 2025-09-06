@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/1) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 🗣 Commented on [#5](https://github.com/VatsalSy/RemindersSync/issues/5#issuecomment-3249609751) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-3. ❌ Closed PR [#3](https://github.com/krlennon/rude/pull/3) in [krlennon/rude](https://github.com/krlennon/rude)
-4. ❌ Closed PR [#15](https://github.com/e-alizadeh/Zotero2Readwise-Sync/pull/15) in [e-alizadeh/Zotero2Readwise-Sync](https://github.com/e-alizadeh/Zotero2Readwise-Sync)
-5. ❌ Closed PR [#2](https://github.com/nbeb/extracting_self-similarity_from_data/pull/2) in [nbeb/extracting_self-similarity_from_data](https://github.com/nbeb/extracting_self-similarity_from_data)
+1. ❌ Closed PR [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+2. 🗣 Commented on [#3](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/3#issuecomment-3259708877) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+3. 🗣 Commented on [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2#issuecomment-3259707960) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+4. 💪 Opened PR [#3](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/3) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+5. 💪 Opened PR [#2](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/2) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
 <!--END_SECTION:activity-->
 
 ---
