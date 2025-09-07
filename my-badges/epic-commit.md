@@ -4,6 +4,10 @@
 
 Commits:
 
+- <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/226db2dc06a81805f0507f1651a0f786442a970a">226db2d</a>
+- <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/d56a3e7acc37a8f647b97c3584f1854d7fc1391b">d56a3e7</a>
+- <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/d5788a38b8919884174f85d7883d2a21dbdca3bd">d5788a3</a>
+- <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/773accb02471f19dfd4890c82ed5ee3f3f31344b">773accb</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/4f417ab92471ef82950ea228dd35bcfbf5469c20">4f417ab</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/04dafb28249f82d7cfc20be317168cc7b8bac5c3">04dafb2</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/c0b78af797d7ac28736a30ba5c74d995886d3168">c0b78af</a>
