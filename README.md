@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/VatsalSy/ics2cal/pull/1) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
-2. 🎉 Merged PR [#3](https://github.com/VatsalSy/gruvbox_custom_themes/pull/3) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
-3. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/releases/tag/v1.0.0) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-4. 🎉 Merged PR [#1](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/1) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
-5. 💪 Opened PR [#3](https://github.com/VatsalSy/gruvbox_custom_themes/pull/3) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+1. 💪 Opened PR [#7](https://github.com/VatsalSy/occusage/pull/7) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+2. 💪 Opened PR [#1](https://github.com/VatsalSy/ics2cal/pull/1) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
+3. 🎉 Merged PR [#3](https://github.com/VatsalSy/gruvbox_custom_themes/pull/3) in [VatsalSy/gruvbox_custom_themes](https://github.com/VatsalSy/gruvbox_custom_themes)
+4. 🚀 Published release [v1.0.0 - Initial Release](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/releases/tag/v1.0.0) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
+5. 🎉 Merged PR [#1](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/pull/1) in [VatsalSy/gruvbox_custom_crisp_themes.nvim](https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim)
 <!--END_SECTION:activity-->
 
 ---
