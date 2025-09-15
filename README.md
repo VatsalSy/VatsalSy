@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/comphy-lab/Basilisk-101nano/pull/1) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
-2. 🎉 Merged PR [#9](https://github.com/comphy-lab/Basilisk-101/pull/9) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
-3. 💪 Opened PR [#9](https://github.com/comphy-lab/Basilisk-101/pull/9) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
-4. 🎉 Merged PR [#8](https://github.com/comphy-lab/Basilisk-101/pull/8) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
-5. 💪 Opened PR [#8](https://github.com/comphy-lab/Basilisk-101/pull/8) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/Basilisk-101nano/pull/1) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
+2. 💪 Opened PR [#1](https://github.com/comphy-lab/Basilisk-101nano/pull/1) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
+3. 🎉 Merged PR [#9](https://github.com/comphy-lab/Basilisk-101/pull/9) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+4. 💪 Opened PR [#9](https://github.com/comphy-lab/Basilisk-101/pull/9) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+5. 🎉 Merged PR [#8](https://github.com/comphy-lab/Basilisk-101/pull/8) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
 <!--END_SECTION:activity-->
 
 ---
