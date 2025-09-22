@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
+### [holeySheets_paper_arxiv](https://github.com/comphy-lab/holeySheets_paper_arxiv)
 
-No description available • Jupyter Notebook
+No description available • TeX
 
 <!--END_SECTION:latest-repo-->
 
