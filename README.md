@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [holeySheets_paper_arxiv](https://github.com/comphy-lab/holeySheets_paper_arxiv)
+### [PinchOff](https://github.com/comphy-lab/PinchOff)
 
-No description available • TeX ⭐ 1
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
