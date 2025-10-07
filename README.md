@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/comphy-lab/Basilisk-101nano/pull/2) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
-2. 💪 Opened PR [#2](https://github.com/comphy-lab/Basilisk-101nano/pull/2) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/Basilisk-101nano/pull/1) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/Basilisk-101nano/pull/1) in [comphy-lab/Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
-5. 🎉 Merged PR [#9](https://github.com/comphy-lab/Basilisk-101/pull/9) in [comphy-lab/Basilisk-101](https://github.com/comphy-lab/Basilisk-101)
+1. 🚀 Published release [v3.0 - URL Parsing Fix](https://github.com/VatsalSy/RemindersSync/releases/tag/v3.0) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+2. 🔒 Closed issue [#5](https://github.com/VatsalSy/RemindersSync/issues/5) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+3. 🎉 Merged PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+4. 💪 Opened PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+5. 🗣 Commented on [#5](https://github.com/VatsalSy/RemindersSync/issues/5#issuecomment-3375277785) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
 <!--END_SECTION:activity-->
 
 ---
