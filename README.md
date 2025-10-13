@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0 - URL Parsing Fix](https://github.com/VatsalSy/RemindersSync/releases/tag/v3.0) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-2. 🔒 Closed issue [#5](https://github.com/VatsalSy/RemindersSync/issues/5) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-3. 🎉 Merged PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-4. 💪 Opened PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
-5. 🗣 Commented on [#5](https://github.com/VatsalSy/RemindersSync/issues/5#issuecomment-3375277785) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+1. 🎉 Merged PR [#8](https://github.com/VatsalSy/RemindersSync/pull/8) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+2. 🚀 Published release [v3.0 - URL Parsing Fix](https://github.com/VatsalSy/RemindersSync/releases/tag/v3.0) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+3. 🔒 Closed issue [#5](https://github.com/VatsalSy/RemindersSync/issues/5) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+4. 🎉 Merged PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+5. 💪 Opened PR [#7](https://github.com/VatsalSy/RemindersSync/pull/7) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
 <!--END_SECTION:activity-->
 
 ---
