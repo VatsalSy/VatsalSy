@@ -48,6 +48,9 @@ Commits:
 - <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/2060e4f92b7b97a6e9473c7be3a113e341aa87b4">2060e4f</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/c8ce0335ca45860828032ae94ffa144677aa79c8">c8ce033</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_themes/commit/d85d3e484e650ec56c60bebb406f4aa397d06853">d85d3e4</a>
+- <a href="https://github.com/VatsalSy/RemindersSync/commit/e9b5c77988087424412cd464cb9f3919c1f58cd8">e9b5c77</a>
+- <a href="https://github.com/VatsalSy/RemindersSync/commit/d8c6f9fa6a9a36c65343f615e0748f147ff8d0e8">d8c6f9f</a>
+- <a href="https://github.com/VatsalSy/RemindersSync/commit/960fde7e823ba88843e77fd424fac403e3235bd4">960fde7</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/a72ec0c64996e5a8adecb108a2085038b29e8b43">a72ec0c</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/944764eab17c3bcb39d48bd28e8832a451d5be34">944764e</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/9ffde6328b8c229c16559f0742d3061adfba3d72">9ffde63</a>

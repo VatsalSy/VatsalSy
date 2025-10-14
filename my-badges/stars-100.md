@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★4</a>
 * <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★4</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
@@ -67,6 +66,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/EVP-pendant-drop">VatsalSy/EVP-pendant-drop: ★1</a>
 * <a href="https://github.com/VatsalSy/filamentsVE">VatsalSy/filamentsVE: ★1</a>
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
+* <a href="https://github.com/VatsalSy/gruvbox_custom_themes">VatsalSy/gruvbox_custom_themes: ★1</a>
 * <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes">VatsalSy/zed-gruvbox_custom_themes: ★1</a>
 * <a href="https://github.com/VatsalSy/occusage">VatsalSy/occusage: ★1</a>
 
