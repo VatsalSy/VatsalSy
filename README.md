@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [RemindersSync](https://github.com/VatsalSy/RemindersSync)
+### [CSV-RemindersSync](https://github.com/VatsalSy/CSV-RemindersSync)
 
-No description available • Swift ⭐ 2
+No description available • Swift
 
 <!--END_SECTION:latest-repo-->
 
