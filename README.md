@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+### [zed-qcc](https://github.com/VatsalSy/zed-qcc)
 
-No description available • Markdown ⭐ 1
+An extension for Zed that adds Basilisk C (qcc) support.  • C
 
 <!--END_SECTION:latest-repo-->
 
