@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [zed-qcc](https://github.com/VatsalSy/zed-qcc)
+### [RemindersSync](https://github.com/VatsalSy/RemindersSync)
 
-An extension for Zed that adds Basilisk C (qcc) support.  • C
+No description available • Swift ⭐ 2
 
 <!--END_SECTION:latest-repo-->
 
