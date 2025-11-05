@@ -107,8 +107,8 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-2. 💪 Opened PR [#7](undefined) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 💪 Opened PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
+2. 💪 Opened PR [#1](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
 3. 💪 Opened PR [#1](undefined) in [VatsalSy/CSV-RemindersSync](https://github.com/VatsalSy/CSV-RemindersSync)
 4. 💪 Opened PR [#8](undefined) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
 5. 🚀 Published release [v3.5 - URL Parsing Fix](https://github.com/VatsalSy/RemindersSync/releases/tag/v3.5) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
