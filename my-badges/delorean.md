@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/VatsalSy/Intro-Soft-Matter-2025/commit/de8fd9e69e1a3b8dc30b768c0685c4629b759b12">de8fd9e</a>
+- <a href="https://github.com/VatsalSy/Intro-Soft-Matter-2025/commit/5939111afea1e295c44671bb06870f1f24720bdd">5939111</a>
+- <a href="https://github.com/VatsalSy/Intro-Soft-Matter-2025/commit/dc51f3467d0f1f7625e0099e16308bc2130baf8c">dc51f34</a>
+- <a href="https://github.com/VatsalSy/Intro-Soft-Matter-2025/commit/fb30b176c86b66734bb65202824d07440c2ca5a5">fb30b17</a>
 - <a href="https://github.com/VatsalSy/Vatsal_CV/commit/1bcf2cd4f31da3961acae4ef1616da0477f920da">1bcf2cd</a>
 - <a href="https://github.com/VatsalSy/Vatsal_CV/commit/887e7a4e856929bc300a1ffa2154d9d9d9c0196e">887e7a4</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/e11edebb2ca31879daef3d83d303c6e497de6ae8">e11edeb</a>
-- <a href="https://github.com/VatsalSy/VatsalSy/commit/8d2b0782a8778c9326d9a28c9a702ab7f8e7840a">8d2b078</a>
-- <a href="https://github.com/VatsalSy/VatsalSy/commit/366a31b332f58d07c03f9a8e9efa38873ed5951d">366a31b</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/69b48a555f1219ee81a93c0febd2f3392b159443">69b48a5</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
