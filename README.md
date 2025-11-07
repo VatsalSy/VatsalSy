@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
+### [JFMTemplate](https://github.com/comphy-lab/JFMTemplate)
 
-No description available • Python
+Old J. Fluid Mech. template • TeX
 
 <!--END_SECTION:latest-repo-->
 
