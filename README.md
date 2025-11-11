@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Basilisk-101nano](https://github.com/comphy-lab/Basilisk-101nano)
+### [Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
 
-No description available • Jupyter Notebook
+No description available • Python
 
 <!--END_SECTION:latest-repo-->
 
