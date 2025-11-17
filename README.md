@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-2. 💪 Opened PR [#60](undefined) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 💪 Opened PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-4. 💪 Opened PR [#1](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-5. 🚀 Published release [v3.5 - URL Parsing Fix](https://github.com/VatsalSy/RemindersSync/releases/tag/v3.5) in [VatsalSy/RemindersSync](https://github.com/VatsalSy/RemindersSync)
+1. 💪 Opened PR [#31](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 💪 Opened PR [#1](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+3. 💪 Opened PR [#60](undefined) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
+5. 💪 Opened PR [#1](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
 <!--END_SECTION:activity-->
 
 ---
