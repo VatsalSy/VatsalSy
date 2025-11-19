@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+### [obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
 
-No description available • C
+No description available • CSS
 
 <!--END_SECTION:latest-repo-->
 
