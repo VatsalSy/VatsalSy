@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-2. ❌ Closed PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-3. 💪 Opened PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-4. 💪 Opened PR [#2](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-5. 💪 Opened PR [#31](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+3. ❗ Opened issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+4. ❌ Reopened PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+5. ❌ Closed PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 <!--END_SECTION:activity-->
 
 ---
