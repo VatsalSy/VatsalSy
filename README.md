@@ -183,15 +183,15 @@ Sunday                   756 commits         ████░░░░░░░�
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C994%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2012%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,541 Contributions in the Year 2025
+> 🏆 4,544 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,17 +232,17 @@ Mac                      32 hrs 22 mins      ███████████�
 **I Mostly Code in C** 
 
 ```text
-C                        58 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+C                        58 repos            ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 
 
 
- Last Updated on 28/11/2025 16:35:32 UTC
+ Last Updated on 28/11/2025 20:33:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
