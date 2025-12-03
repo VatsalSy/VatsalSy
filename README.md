@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+### [Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
 
-No description available • Python ⭐ 1
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
