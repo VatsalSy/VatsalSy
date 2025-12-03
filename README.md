@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GitHub Commit Stats v3.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v3.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. ❌ Merged PR [#2](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+2. 🚀 Published release [GitHub Commit Stats v3.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v3.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 3.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4. ❗ Opened issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. ❌ Reopened PR [#8586](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+4.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+5. ❗ Opened issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
 <!--END_SECTION:activity-->
 
 ---
