@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-2. 🚀 Published release [GitHub Commit Stats v3.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v3.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4.  Labeled issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. ❗ Opened issue [#13](https://github.com/comphy-lab/basilisk-C/issues/13) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 💪 Opened PR [#9](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+2. ❌ Closed PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+3. 💪 Opened PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. ❌ Merged PR [#2](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+5. 🚀 Published release [GitHub Commit Stats v3.0.0](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v3.0.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
