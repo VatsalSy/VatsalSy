@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 
-Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • C
+This is the LaTeX source code of my CV • TeX ⭐ 11
 
 <!--END_SECTION:latest-repo-->
 
