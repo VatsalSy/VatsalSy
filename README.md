@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 💪 Opened PR [#9](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-3. ❌ Closed PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-4. 💪 Opened PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-5. ❌ Merged PR [#2](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+1. 💪 Opened PR [#61](undefined) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ❌ Merged PR [#1](undefined) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 💪 Opened PR [#9](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. ❌ Closed PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+5. 💪 Opened PR [#8](undefined) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 <!--END_SECTION:activity-->
 
 ---
