@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-2. ❌ Closed PR [#8](undefined) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-3. 🗣 Commented on [#8](https://github.com/comphy-lab/VatsalSy/pull/8#issuecomment-3690371708) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. 🚀 Published release [v1.0 - Initial Release: Sessile Drop Coalescence with Surfactants](https://github.com/comphy-lab/coalescence-with-surfactants/releases/tag/v1.0) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-5. 💪 Opened PR [#2](undefined) in [spilltheT/coalescence-pyoomph](https://github.com/spilltheT/coalescence-pyoomph)
+1. 💪 Opened PR [#3](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+2. ❌ Closed PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
+3. ❌ Closed PR [#8](undefined) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+4. 🗣 Commented on [#8](https://github.com/comphy-lab/VatsalSy/pull/8#issuecomment-3690371708) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+5. 🚀 Published release [v1.0 - Initial Release: Sessile Drop Coalescence with Surfactants](https://github.com/comphy-lab/coalescence-with-surfactants/releases/tag/v1.0) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
 <!--END_SECTION:activity-->
 
 ---
