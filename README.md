@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [VatsalSy/obsidian-releases](https://github.com/VatsalSy/obsidian-releases)
-2. 🔒 Closed issue [#1](https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1) in [VatsalSy/non-spherical-drop-Impact](https://github.com/VatsalSy/non-spherical-drop-Impact)
-3. 🔒 Closed issue [#2](https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2) in [VatsalSy/non-spherical-drop-Impact](https://github.com/VatsalSy/non-spherical-drop-Impact)
-4. ❌ Closed PR [#1](undefined) in [VatsalSy/extensions](https://github.com/VatsalSy/extensions)
-5. 💪 Opened PR [#11](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+1. 💪 Opened PR [#12](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+2. ❌ Closed PR [#9](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+3. ❌ Closed PR [#10](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+4. ❌ Merged PR [#11](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+5. ❌ Closed PR [#8](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
 <!--END_SECTION:activity-->
 
 ---
