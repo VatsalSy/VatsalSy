@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 68 my own repositories." title="I&apos;ve starred 68 my own repositories." width="128">
-<strong>I&apos;ve starred 68 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 49 my own repositories." title="I&apos;ve starred 49 my own repositories." width="128">
+<strong>I&apos;ve starred 49 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/VatsalSy/Vatsal_CV">VatsalSy/Vatsal_CV</a>
@@ -17,16 +17,10 @@
 - <a href="https://github.com/VatsalSy/ExperimentMatplotlibFont">VatsalSy/ExperimentMatplotlibFont</a>
 - <a href="https://github.com/VatsalSy/When-does-an-impacting-drop-stop-bouncing-_LaTeX_JFM">VatsalSy/When-does-an-impacting-drop-stop-bouncing-_LaTeX_JFM</a>
 - <a href="https://github.com/VatsalSy/Drop-impact-on-viscous-liquid-films_LaTeX_JFM">VatsalSy/Drop-impact-on-viscous-liquid-films_LaTeX_JFM</a>
-- <a href="https://github.com/VatsalSy/nvisco">VatsalSy/nvisco</a>
 - <a href="https://github.com/VatsalSy/PyTorchExamples">VatsalSy/PyTorchExamples</a>
-- <a href="https://github.com/VatsalSy/kinematic-match-sphere">VatsalSy/kinematic-match-sphere</a>
-- <a href="https://github.com/VatsalSy/computational-mechanics">VatsalSy/computational-mechanics</a>
-- <a href="https://github.com/VatsalSy/IFM_repo_forked">VatsalSy/IFM_repo_forked</a>
 - <a href="https://github.com/VatsalSy/awesome-time-series-resources">VatsalSy/awesome-time-series-resources</a>
-- <a href="https://github.com/VatsalSy/NumerAnal-Gradbook">VatsalSy/NumerAnal-Gradbook</a>
 - <a href="https://github.com/VatsalSy/awesome-Python-data-science-books">VatsalSy/awesome-Python-data-science-books</a>
 - <a href="https://github.com/VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission">VatsalSy/Bursting-Bubble-in-a-Viscoplastic-Medium-arXiV-submission</a>
-- <a href="https://github.com/VatsalSy/BOSO-micro">VatsalSy/BOSO-micro</a>
 - <a href="https://github.com/VatsalSy/GuideBasilisk">VatsalSy/GuideBasilisk</a>
 - <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation</a>
 - <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython</a>
@@ -37,35 +31,22 @@
 - <a href="https://github.com/VatsalSy/GromacsPostProcessing">VatsalSy/GromacsPostProcessing</a>
 - <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab</a>
 - <a href="https://github.com/VatsalSy/BasiliskVisualization">VatsalSy/BasiliskVisualization</a>
-- <a href="https://github.com/VatsalSy/gdocs2md">VatsalSy/gdocs2md</a>
 - <a href="https://github.com/VatsalSy/gerris-fft-particles">VatsalSy/gerris-fft-particles</a>
 - <a href="https://github.com/VatsalSy/chainPaper">VatsalSy/chainPaper</a>
-- <a href="https://github.com/VatsalSy/CFD-PythonVatsal">VatsalSy/CFD-PythonVatsal</a>
 - <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical</a>
 - <a href="https://github.com/VatsalSy/CFD-basics">VatsalSy/CFD-basics</a>
 - <a href="https://github.com/VatsalSy/DropSpreadingOnSolid">VatsalSy/DropSpreadingOnSolid</a>
 - <a href="https://github.com/VatsalSy/drops_State-and-rate-friction">VatsalSy/drops_State-and-rate-friction</a>
-- <a href="https://github.com/VatsalSy/findingPi">VatsalSy/findingPi</a>
 - <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact</a>
 - <a href="https://github.com/VatsalSy/ViscousDropImpactForces.R2">VatsalSy/ViscousDropImpactForces.R2</a>
-- <a href="https://github.com/VatsalSy/concentricWave">VatsalSy/concentricWave</a>
 - <a href="https://github.com/VatsalSy/pyoomph_examples">VatsalSy/pyoomph_examples</a>
-- <a href="https://github.com/VatsalSy/python-fluidprop">VatsalSy/python-fluidprop</a>
-- <a href="https://github.com/VatsalSy/Flow-Condensation">VatsalSy/Flow-Condensation</a>
 - <a href="https://github.com/VatsalSy/warpThemes">VatsalSy/warpThemes</a>
 - <a href="https://github.com/VatsalSy/Asymmetries-in-coalescence">VatsalSy/Asymmetries-in-coalescence</a>
-- <a href="https://github.com/VatsalSy/cphy">VatsalSy/cphy</a>
-- <a href="https://github.com/VatsalSy/elastohydrodynamic-bouncing">VatsalSy/elastohydrodynamic-bouncing</a>
-- <a href="https://github.com/VatsalSy/finitevolume-python">VatsalSy/finitevolume-python</a>
-- <a href="https://github.com/VatsalSy/finitevolume2-python">VatsalSy/finitevolume2-python</a>
-- <a href="https://github.com/VatsalSy/CylindricalStefan">VatsalSy/CylindricalStefan</a>
 - <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats</a>
 - <a href="https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces">VatsalSy/The-role-of-viscosity-on-drop-impact-forces</a>
 - <a href="https://github.com/VatsalSy/EVP-pendant-drop">VatsalSy/EVP-pendant-drop</a>
 - <a href="https://github.com/VatsalSy/filamentsVE">VatsalSy/filamentsVE</a>
 - <a href="https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation">VatsalSy/DropImpact_viscoplastic_epsilonformulation</a>
-- <a href="https://github.com/VatsalSy/Multi-marker-VOF-method">VatsalSy/Multi-marker-VOF-method</a>
-- <a href="https://github.com/VatsalSy/macos-defaults">VatsalSy/macos-defaults</a>
 - <a href="https://github.com/VatsalSy/Coalescence-bubble-symmetric">VatsalSy/Coalescence-bubble-symmetric</a>
 - <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors</a>
 - <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow</a>
