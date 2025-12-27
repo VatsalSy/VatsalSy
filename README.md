@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-2. 💪 Opened PR [#65](undefined) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 💪 Opened PR [#3](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-4. ❌ Closed PR [#2](undefined) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-5. ❌ Closed PR [#8](undefined) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. ❌ Merged PR [#1](undefined) in [VatsalSy/obsidian-releases](https://github.com/VatsalSy/obsidian-releases)
+2. 🔒 Closed issue [#1](https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1) in [VatsalSy/non-spherical-drop-Impact](https://github.com/VatsalSy/non-spherical-drop-Impact)
+3. 🔒 Closed issue [#2](https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2) in [VatsalSy/non-spherical-drop-Impact](https://github.com/VatsalSy/non-spherical-drop-Impact)
+4. ❌ Closed PR [#1](undefined) in [VatsalSy/extensions](https://github.com/VatsalSy/extensions)
+5. 💪 Opened PR [#11](undefined) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
 <!--END_SECTION:activity-->
 
 ---
