@@ -53,6 +53,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/7">#7</a>: Oct updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/60">#60</a>: October 2025 website updates - Team, research, teaching additions
+- <a href="https://github.com/VatsalSy/CloudPull/pull/11">#11</a>: Consolidate dependency updates (closes #8, #9, #10)
 - <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 
 

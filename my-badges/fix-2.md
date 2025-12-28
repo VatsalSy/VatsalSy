@@ -4,12 +4,14 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/occusage/commit/ff3574bf8542914df8623ded77ddbfbee987b8dd">ff3574b</a>: fix: add blank line before ordered list in bug report template
+- <a href="https://github.com/VatsalSy/obsidian-comphy-gruvbox/commit/36d11e2c18823479cccdb38151de8d5d0ef9c754">36d11e2</a>: Fix table styling for light theme and PDF export
 
-- Resolves markdownlint MD032 violation by inserting blank line between
-  preceding paragraph and ordered list in issue template
-- Improves markdown formatting consistency
-- <a href="https://github.com/VatsalSy/occusage/commit/39df63627597d9276932d569af09d0ea8b2b5a0e">39df636</a>: fix: update compact table headers and alignment in blocks command
+- Add theme-aware alternating row colors for dark and light themes
+- Replace hardcoded border colors with theme variables
+- Add explicit text colors for table cells
+- Add print-specific styles with color-adjust for PDF export
+- Fix broken contrast in light theme tables
+- <a href="https://github.com/VatsalSy/obsidian-comphy-gruvbox/commit/df4bd64d5faa38df744a2bd61e310bec4f26ff95">df4bd64</a>: Fix release workflow permissions
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
