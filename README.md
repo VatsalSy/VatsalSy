@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+### [ics2cal](https://github.com/VatsalSy/ics2cal)
 
-Saumili internship • C
+No description available
 
 <!--END_SECTION:latest-repo-->
 
