@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
-2. 🗣 Commented on [#3](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/3#issuecomment-3694152569) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
-3. ❌ Merged PR [#3](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
-4. 🗣 Commented on [#4](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/4#issuecomment-3694150662) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
-5. 💪 Opened PR [#4](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+1. ❌ Merged PR [#3](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+2. ❌ Closed PR [#4](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+3. 🗣 Commented on [#3](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/3#issuecomment-3694152569) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+4. ❌ Merged PR [#3](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+5. 🗣 Commented on [#4](https://github.com/comphy-lab/Soft-Sphere-Impacts/pull/4#issuecomment-3694150662) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
 <!--END_SECTION:activity-->
 
 ---
