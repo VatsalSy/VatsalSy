@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/545915696233dd0b4cfa0269c01d3e916b9dd8a2\">5459156</a>: chore(changelog): update to include soft contrast option in the initial release notes",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/932ef6d980773004ffda16098a34c99c17e901b8\">932ef6d</a>: chore: remove trailing newlines from issue templates",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 844 times)\n2. update (used 714 times)\n3. new (used 349 times)\n4. changes (used 316 times)\n5. file (used 292 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 873 times)\n2. update (used 717 times)\n3. new (used 351 times)\n4. changes (used 316 times)\n5. file (used 293 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -208,5 +208,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2\">#2</a>: [Test]: test effect of gravity \n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1\">#1</a>: [Test]: does prolate/oblate drop shape matters for drop impact forces?",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   }
 ]

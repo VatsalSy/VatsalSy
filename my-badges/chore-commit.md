@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/545915696233dd0b4cfa0269c01d3e916b9dd8a2">5459156</a>: chore(changelog): update to include soft contrast option in the initial release notes
+- <a href="https://github.com/VatsalSy/ics2cal/commit/932ef6d980773004ffda16098a34c99c17e901b8">932ef6d</a>: chore: remove trailing newlines from issue templates
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
