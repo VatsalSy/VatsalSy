@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#31](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-2. 🚀 Published release [v1.0](https://github.com/VatsalSy/ics2cal/releases/tag/v1.0) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
-3. ❌ Merged PR [#1](undefined) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
-4. ❌ Merged PR [#3](undefined) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-5. ❌ Closed PR [#4](undefined) in [comphy-lab/Soft-Sphere-Impacts](https://github.com/comphy-lab/Soft-Sphere-Impacts)
+1. 💪 Opened PR [#32](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+2. 💪 Opened PR [#66](undefined) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. ❌ Merged PR [#31](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+4. 🚀 Published release [v1.0](https://github.com/VatsalSy/ics2cal/releases/tag/v1.0) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
+5. ❌ Merged PR [#1](undefined) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
 <!--END_SECTION:activity-->
 
 ---
