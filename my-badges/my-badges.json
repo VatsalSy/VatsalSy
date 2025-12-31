@@ -215,5 +215,19 @@
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2\">#2</a>: [Test]: test effect of gravity \n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1\">#1</a>: [Test]: does prolate/oblate drop shape matters for drop impact forces?",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/33bfbd78b4cd4010c11cdbf10585d982387913ef\">33bfbd7</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/6b931e40c3c9be8d0682cbb27d0433373e4752c9\">6b931e4</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
