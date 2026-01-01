@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#32](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+1. 🎉 Merged PR [#32](https://github.com/comphy-lab/documentationWeb/pull/32) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 2. 🚀 Published release [GitHub Commit Stats v4.0 — WakaTime Integration](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Merged PR [#66](undefined) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 💪 Opened PR [#32](undefined) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-5. 💪 Opened PR [#66](undefined) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 🎉 Merged PR [#66](https://github.com/VatsalSy/commits-readme-stats/pull/66) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 💪 Opened PR [#32](https://github.com/comphy-lab/documentationWeb/pull/32) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
+5. 💪 Opened PR [#66](https://github.com/VatsalSy/commits-readme-stats/pull/66) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
