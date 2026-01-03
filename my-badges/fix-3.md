@@ -4,25 +4,22 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/CloudPull/commit/64af47bacdaf82ba1e0f13dc04b7074983605d1a">64af47b</a>: Fix Windows compatibility issues
+- <a href="https://github.com/VatsalSy/CloudPull/commit/ed73d7218953531b5698ccb5fcaed1503fbc4af8">ed73d72</a>: fix: resolve lint errors in error handler
 
-- Replace hardcoded /tmp path with cross-platform t.TempDir() in tests
-- Add platform-specific signal handling (Windows doesn't support SIGTERM)
-- Fix int64 to int conversion in status command
-- Ensure builds work correctly on Windows
+- Add ErrorTypeContext to exhaustive switch statement
+- Check return value of WithContext method call
+- <a href="https://github.com/VatsalSy/CloudPull/commit/5dba6188812349e57f40fba162bf3a35a6aabf67">5dba618</a>: fix: handle viper config errors and validate chunk size input
 
-Co-Authored-By: Claude <noreply@anthropic.com>
-- <a href="https://github.com/VatsalSy/CloudPull/commit/8a32e4fb287e4f7e3ddab30e00233c07f1027550">8a32e4f</a>: Fix failing tests across multiple packages
+- Return error from initViper instead of ignoring config read failures
+- Add proper validation for chunk size format in GetChunkSizeBytes
+- Normalize and validate numeric input to prevent parsing issues
+- <a href="https://github.com/VatsalSy/CloudPull/commit/21d9645e7c367ac1185956f06aef348899f824d3">21d9645</a>: fix: address gosec security findings G302 and G304
 
-- Fix logger tests: Handle ANSI color codes in pretty logging test and correct With() method parameter passing
-- Fix progress tracker test: Relax ETA validation to only check for non-negative values
-- Fix retry logic: Allow adaptive backoff to reduce interval below initial value (down to 10%)
-- Fix error test: Update expected values for adaptive backoff behavior
-- <a href="https://github.com/VatsalSy/CloudPull/commit/1b107966d1ce49a79f67d55e74a9e44f8015e611">1b10796</a>: Fix build errors by removing duplicate formatBytes and unused config import
-
-- Remove duplicate formatBytes function from example_usage.go (already defined in app.go)
-- Remove unused config package import from init.go
-- Use local parseChunkSize function instead of config package method
+- Change log file permissions from 0666 to 0600 (G302)
+- Sanitize log output path with filepath.Clean (G304)
+- Add defer app.Stop() in example_usage.go to fix G104
+- Use consistent error wrapping in API client and progress tracker
+- Remove redundant error type handling in error handler
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
