@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/comphy-lab/documentationWeb/pull/32) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-2. 🚀 Published release [GitHub Commit Stats v4.0 — WakaTime Integration](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 🎉 Merged PR [#66](https://github.com/VatsalSy/commits-readme-stats/pull/66) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 💪 Opened PR [#32](https://github.com/comphy-lab/documentationWeb/pull/32) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
-5. 💪 Opened PR [#66](https://github.com/VatsalSy/commits-readme-stats/pull/66) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/2) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/2) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 🗣 Commented on [#2](https://github.com/VatsalSy/CloudPull/issues/2#issuecomment-3706412098) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+4. 🎉 Merged PR [#12](https://github.com/VatsalSy/CloudPull/pull/12) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+5. 🎉 Merged PR [#32](https://github.com/comphy-lab/documentationWeb/pull/32) in [comphy-lab/documentationWeb](https://github.com/comphy-lab/documentationWeb)
 <!--END_SECTION:activity-->
 
 ---
