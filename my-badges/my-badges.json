@@ -203,13 +203,6 @@
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
@@ -229,5 +222,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/6b931e40c3c9be8d0682cbb27d0433373e4752c9\">6b931e4</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]
