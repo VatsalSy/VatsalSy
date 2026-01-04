@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • C
+version, updated every day • C ⭐ 7
 
 <!--END_SECTION:latest-repo-->
 
