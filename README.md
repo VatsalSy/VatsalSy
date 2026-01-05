@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
+### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 
-version, updated every day • C ⭐ 7
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
