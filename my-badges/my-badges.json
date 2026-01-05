@@ -206,7 +206,7 @@
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2\">#2</a>: [Test]: test effect of gravity \n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1\">#1</a>: [Test]: does prolate/oblate drop shape matters for drop impact forces?",
+    "body": "Issues:\n\n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/2\">#2</a>: [Test]: test effect of gravity \n- <a href=\"https://github.com/VatsalSy/non-spherical-drop-Impact/issues/1\">#1</a>: [Test]: does prolate/oblate drop shape matters for drop impact forces?\n- <a href=\"https://github.com/comphy-lab/basilisk-C/issues/1\">#1</a>: Incompatible with Macbook M3 max ",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   },
   {
