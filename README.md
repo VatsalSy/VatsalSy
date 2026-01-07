@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-2. 🎉 Merged PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-3. 💪 Opened PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4. 💪 Opened PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-5. 🎉 Merged PR [#1](https://github.com/comphy-lab/Bursting-Bubble/pull/1) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+1. 🎉 Merged PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+2. 💪 Opened PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+3. 🎉 Merged PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+4. 💪 Opened PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+5. 💪 Opened PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 <!--END_SECTION:activity-->
 
 ---
