@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-No description available • Markdown ⭐ 1
+version, updated every day • C ⭐ 7
 
 <!--END_SECTION:latest-repo-->
 
