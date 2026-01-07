@@ -229,5 +229,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/bb9db787e77293eba3983fd5c67e6efd14232fef\">bb9db78</a>\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/5d45614497c694fc78b658b291e981e6cbde512a\">5d45614</a>\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/ae3bccbb60cfe381dcfe86fd7e8ce8c74fdb023b\">ae3bccb</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
