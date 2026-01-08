@@ -212,7 +212,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/33bfbd78b4cd4010c11cdbf10585d982387913ef\">33bfbd7</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -236,5 +236,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/bb9db787e77293eba3983fd5c67e6efd14232fef\">bb9db78</a>\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/5d45614497c694fc78b658b291e981e6cbde512a\">5d45614</a>\n- <a href=\"https://github.com/comphy-lab/DropsOnSurfaces/commit/ae3bccbb60cfe381dcfe86fd7e8ce8c74fdb023b\">ae3bccb</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/2017d05839c4c381c3ea3b5e56ebfa765087ece0\">2017d05</a>\n- <a href=\"https://github.com/VatsalSy/occusage/commit/8563ad73cd91ded7dba02f556057770ee79d1b52\">8563ad7</a>\n- <a href=\"https://github.com/VatsalSy/occusage/commit/c94bb01f4c6bf912f9b34293851bc6d91abf2692\">c94bb01</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/1d94874e3350b38770c88090e910b3e64216f5ed\">1d94874</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/766a1b7bede946da0565a57d0983bdf3193eb5c7\">766a1b7</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/8aebe18024e2a0c0cd7825e9dedbd25442c848cf\">8aebe18</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
