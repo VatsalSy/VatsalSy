@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [bview-local-client](https://github.com/comphy-lab/bview-local-client)
+### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 
-Self-contained, offline-capable local server for the Basilisk View client • JavaScript
+Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • C
 
 <!--END_SECTION:latest-repo-->
 
