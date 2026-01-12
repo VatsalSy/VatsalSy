@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-3. 🎉 Merged PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4. 💪 Opened PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. 💪 Opened PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/coalescence-with-surfactants/pull/2) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/coalescence-with-surfactants/pull/2) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+5. 🎉 Merged PR [#14](https://github.com/comphy-lab/basilisk-C/pull/14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
 <!--END_SECTION:activity-->
 
 ---
