@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/4) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 💪 Opened PR [#4](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/4) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 🎉 Merged PR [#2](https://github.com/comphy-lab/coalescence-with-surfactants/pull/2) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-4. 💪 Opened PR [#2](https://github.com/comphy-lab/coalescence-with-surfactants/pull/2) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-5. 🎉 Merged PR [#1](https://github.com/comphy-lab/bview-local-client/pull/1) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+1. 🔒 Closed issue [#2](https://github.com/comphy-lab/basilisk-C/issues/2) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🗣 Commented on [#2](https://github.com/comphy-lab/basilisk-C/issues/2#issuecomment-3741455682) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+3. 🎉 Merged PR [#4](https://github.com/comphy-lab/Drop-Impact/pull/4) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+4. 💪 Opened PR [#4](https://github.com/comphy-lab/Drop-Impact/pull/4) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+5. 🎉 Merged PR [#4](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/4) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 <!--END_SECTION:activity-->
 
 ---
