@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/comphy-lab/basilisk-C/issues/16) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 🗣 Commented on [#16](https://github.com/comphy-lab/basilisk-C/issues/16#issuecomment-3746985508) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-3. 🗣 Commented on [#16](https://github.com/comphy-lab/basilisk-C/issues/16#issuecomment-3746985280) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4. ℹ️ Labeled issue [#16](https://github.com/comphy-lab/basilisk-C/issues/16) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. ❗ Opened issue [#16](https://github.com/comphy-lab/basilisk-C/issues/16) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+3. 🔒 Closed issue [#16](https://github.com/comphy-lab/basilisk-C/issues/16) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+4. 🗣 Commented on [#16](https://github.com/comphy-lab/basilisk-C/issues/16#issuecomment-3746985508) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+5. 🗣 Commented on [#16](https://github.com/comphy-lab/basilisk-C/issues/16#issuecomment-3746985280) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
 <!--END_SECTION:activity-->
 
 ---
