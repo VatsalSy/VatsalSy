@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 
-No description available • Shell
+Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Shell
 
 <!--END_SECTION:latest-repo-->
 
