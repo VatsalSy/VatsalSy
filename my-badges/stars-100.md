@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★3</a>
 * <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★3</a>
 * <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students">VatsalSy/Project-ideas-for-prospective-students: ★3</a>
+* <a href="https://github.com/comphy-lab/JumpingBubbles">comphy-lab/JumpingBubbles: ★3</a>
 * <a href="https://github.com/VatsalSy/spherical-liquid-impactors">VatsalSy/spherical-liquid-impactors: ★3</a>
 * <a href="https://github.com/VatsalSy/BasiliskVisualization">VatsalSy/BasiliskVisualization: ★2</a>
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLawV2">VatsalSy/PlanarCouetteFlow_PowerLawV2: ★2</a>
@@ -26,7 +27,6 @@ Repos:
 * <a href="https://github.com/VatsalSy/DropSpreadingOnSolid">VatsalSy/DropSpreadingOnSolid: ★2</a>
 * <a href="https://github.com/VatsalSy/ViscoElasticDropImpact">VatsalSy/ViscoElasticDropImpact: ★2</a>
 * <a href="https://github.com/KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium">KTH-Complex-fluids-group/2023_Bubble-bursting-in-an-elasto-viscoplastic-medium: ★2</a>
-* <a href="https://github.com/comphy-lab/JumpingBubbles">comphy-lab/JumpingBubbles: ★2</a>
 * <a href="https://github.com/ayushkumardixit/BurstingBubble_VE">ayushkumardixit/BurstingBubble_VE: ★2</a>
 * <a href="https://github.com/VatsalSy/hyphal-flow">VatsalSy/hyphal-flow: ★2</a>
 * <a href="https://github.com/VatsalSy/The-role-of-viscosity-on-drop-impact-forces">VatsalSy/The-role-of-viscosity-on-drop-impact-forces: ★2</a>
