@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/VatsalSy/Vatsal_CV/pull/9) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-2. 🎉 Merged PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-3. 💪 Opened PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-4. 🔒 Closed issue [#16](https://github.com/comphy-lab/basilisk-C/issues/16) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. 🗣 Commented on [#16](https://github.com/comphy-lab/basilisk-C/issues/16#issuecomment-3746985508) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 🎉 Merged PR [#5](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/5) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 💪 Opened PR [#5](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/5) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 🎉 Merged PR [#9](https://github.com/VatsalSy/Vatsal_CV/pull/9) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. 🎉 Merged PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+5. 💪 Opened PR [#2](https://github.com/comphy-lab/Bursting-Bubble/pull/2) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 <!--END_SECTION:activity-->
 
 ---
