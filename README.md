@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/comphy-lab/Bursting-Bubble/pull/3) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-2. 🎉 Merged PR [#2](https://github.com/comphy-lab/bview-local-client/pull/2) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-3. 🎉 Merged PR [#6](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/6) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-4. 💪 Opened PR [#3](https://github.com/comphy-lab/Bursting-Bubble/pull/3) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-5. 💪 Opened PR [#6](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/6) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+1. 🎉 Merged PR [#5](https://github.com/comphy-lab/Drop-Impact/pull/5) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+2. 💪 Opened PR [#5](https://github.com/comphy-lab/Drop-Impact/pull/5) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+3. 🎉 Merged PR [#3](https://github.com/comphy-lab/Bursting-Bubble/pull/3) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+4. 🎉 Merged PR [#2](https://github.com/comphy-lab/bview-local-client/pull/2) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+5. 🎉 Merged PR [#6](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/6) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 <!--END_SECTION:activity-->
 
 ---
