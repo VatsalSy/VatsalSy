@@ -76,9 +76,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [opencode-comphy-gruvbox](https://github.com/VatsalSy/opencode-comphy-gruvbox)
+### [comphy-search](https://github.com/comphy-lab/comphy-search)
 
-No description available • Shell
+CoMPhy Search • Python
 
 <!--END_SECTION:latest-repo-->
 
