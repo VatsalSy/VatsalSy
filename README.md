@@ -107,11 +107,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/comphy-lab/hyphal-flow/pull/2) in [comphy-lab/hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
-2. 🎉 Merged PR [#1](https://github.com/VatsalSy/opencode-comphy-gruvbox/pull/1) in [VatsalSy/opencode-comphy-gruvbox](https://github.com/VatsalSy/opencode-comphy-gruvbox)
-3. 🎉 Merged PR [#61](https://github.com/comphy-lab/comphy-lab.github.io/pull/61) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#5](https://github.com/comphy-lab/Drop-Impact/pull/5) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
-5. 💪 Opened PR [#5](https://github.com/comphy-lab/Drop-Impact/pull/5) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
+1. 💪 Opened PR [#10](https://github.com/comphy-lab/VatsalSy/pull/10) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+2. ❌ Closed PR [#2](https://github.com/comphy-lab/hyphal-flow/pull/2) in [comphy-lab/hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
+3. 🎉 Merged PR [#1](https://github.com/VatsalSy/opencode-comphy-gruvbox/pull/1) in [VatsalSy/opencode-comphy-gruvbox](https://github.com/VatsalSy/opencode-comphy-gruvbox)
+4. 🎉 Merged PR [#61](https://github.com/comphy-lab/comphy-lab.github.io/pull/61) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#5](https://github.com/comphy-lab/Drop-Impact/pull/5) in [comphy-lab/Drop-Impact](https://github.com/comphy-lab/Drop-Impact)
 <!--END_SECTION:activity-->
 
 ---
