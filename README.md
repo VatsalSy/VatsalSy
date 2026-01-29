@@ -3,10 +3,6 @@
 # Vatsal Sanjay
 ### Soft Matter Physicist | Computational Fluid Dynamics | Assistant Professor
 
-<a href="https://www.vatsalsanjay.com">
-  <img alt="Vatsal" width="200px" src="https://www.dropbox.com/s/dxyybgtblo8er6h/Logo_Vatsal_Vector.png?raw=1">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.comphy-lab.org">
   <img alt="CoMPhy Lab" width="200px" src="https://github.com/user-attachments/assets/561c5022-034b-4556-bc99-4251d1aa0245">
 </a>
