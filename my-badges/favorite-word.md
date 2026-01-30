@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. add (used 966 times)
-2. update (used 759 times)
-3. new (used 366 times)
+1. add (used 973 times)
+2. update (used 764 times)
+3. new (used 370 times)
 4. changes (used 317 times)
-5. file (used 303 times)
+5. file (used 305 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
