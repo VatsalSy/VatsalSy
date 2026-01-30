@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+### [occusage](https://github.com/VatsalSy/occusage)
 
-No description available • Shell
+A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
