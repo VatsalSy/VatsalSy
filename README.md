@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/VatsalSy/occusage/pull/9) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-2. 🎉 Merged PR [#8](https://github.com/VatsalSy/occusage/pull/8) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/Jumping-Drops/pull/1) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-4. 💪 Opened PR [#8](https://github.com/VatsalSy/occusage/pull/8) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-5. 💪 Opened PR [#1](https://github.com/comphy-lab/Jumping-Drops/pull/1) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+1. 💪 Opened PR [#1](https://github.com/VatsalSy/qcc-lsp/pull/1) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🚀 Published release [v2.0.0](https://github.com/VatsalSy/occusage/releases/tag/v2.0.0) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+3. 🎉 Merged PR [#9](https://github.com/VatsalSy/occusage/pull/9) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+4. 💪 Opened PR [#9](https://github.com/VatsalSy/occusage/pull/9) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+5. 🎉 Merged PR [#8](https://github.com/VatsalSy/occusage/pull/8) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
 <!--END_SECTION:activity-->
 
 ---
