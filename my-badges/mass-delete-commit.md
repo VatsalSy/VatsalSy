@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/occusage/commit/5f92de221795279635013477c16f2f0a83ce32d5">5f92de2</a>
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/624aded58cfc5348b121a7572f9daffda6ed60b2">624aded</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
