@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+### [MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 
-No description available • TypeScript
+An extensible framework for multiphase flows with complex rheology, built on Basilisk C • C ⭐ 4
 
 <!--END_SECTION:latest-repo-->
 
