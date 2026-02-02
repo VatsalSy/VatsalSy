@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/VatsalSy/qcc-lsp/pull/5) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. ❌ Closed PR [#4](https://github.com/VatsalSy/qcc-lsp/pull/4) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. ℹ️ Labeled PR [#4](https://github.com/VatsalSy/qcc-lsp/pull/4) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. 💪 Opened PR [#4](https://github.com/VatsalSy/qcc-lsp/pull/4) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#3](https://github.com/VatsalSy/qcc-lsp/pull/3) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. ℹ️ Labeled issue [#6](https://github.com/VatsalSy/qcc-lsp/issues/6) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. ℹ️ Assigned issue [#6](https://github.com/VatsalSy/qcc-lsp/issues/6) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❗ Opened issue [#6](https://github.com/VatsalSy/qcc-lsp/issues/6) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🚀 Published release [v0.6.0](https://github.com/VatsalSy/qcc-lsp/releases/tag/v0.6.0) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🎉 Merged PR [#5](https://github.com/VatsalSy/qcc-lsp/pull/5) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
