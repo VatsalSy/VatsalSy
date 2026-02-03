@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+### [Keller-Segel-chemotaxis](https://github.com/comphy-lab/Keller-Segel-chemotaxis)
 
-No description available • TypeScript
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
