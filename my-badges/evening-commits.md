@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/17d30c5ab610a8828444895a181efc687941ff70">17d30c5</a>
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/f988c58b7a18d1a3b61757ac7227c27fda9cc199">f988c58</a>
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/10a15be987afd3e52bfe9769c47f19870341b1b3">10a15be</a>
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/66c3bfb21d658f5b9bb381c680cfa637ac6b7291">66c3bfb</a>
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/ea487316aee242be6d3f7cdb322d92e8f39af74d">ea48731</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/af268df5ee1b211152a2d9ad087e205029b7a3d6">af268df</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/d8474cda6ca416a85f58ff7f672f348170faa549">d8474cd</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/5fbea1f8741c74cac4cde23acec5ee64a02adc1a">5fbea1f</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/19018b5ee2368c6142d909266d2ac02652d6f04a">19018b5</a>
-- <a href="https://github.com/VatsalSy/comphy_vscode_themes/commit/d196839e7839831367c1c09552bc1f3a14aa534b">d196839</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/e4296473539b4b93267bad8c35e96afa6b5d424a">e429647</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
