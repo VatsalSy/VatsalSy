@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1011 times)\n2. update (used 776 times)\n3. new (used 374 times)\n4. changes (used 321 times)\n5. file (used 310 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1013 times)\n2. update (used 776 times)\n3. new (used 374 times)\n4. changes (used 321 times)\n5. file (used 310 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nbeb/extracting_self-similarity_from_data/issues/1\">#1</a>: Getting nan on running collapsing_cavity.ipynb\n- <a href=\"https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3\">#3</a>: Instability for Large Dimensionless Yield Stress (J/We >> 1)\n- <a href=\"https://github.com/comphy-lab/master-slave-basilisk/issues/2\">#2</a>: Vertical stacking master-slave coupling compilation fails\n- <a href=\"https://github.com/EclipseFdn/open-vsx.org/issues/3247\">#3247</a>: Claiming namespace VatsalSy",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nbeb/extracting_self-similarity_from_data/issues/1\">#1</a>: Getting nan on running collapsing_cavity.ipynb\n- <a href=\"https://github.com/VatsalSy/DropImpact_viscoplastic_epsilonformulation/issues/3\">#3</a>: Instability for Large Dimensionless Yield Stress (J/We >> 1)\n- <a href=\"https://github.com/comphy-lab/master-slave-basilisk/issues/2\">#2</a>: Vertical stacking master-slave coupling compilation fails\n- <a href=\"https://github.com/EclipseFdn/open-vsx.org/issues/3247\">#3247</a>: Claiming namespace VatsalSy\n- <a href=\"https://github.com/paulkaneelil/viscoelasticCoalescence/issues/1\">#1</a>: missing log-conform-ViscoElastic_new.h",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -243,5 +243,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/2017d05839c4c381c3ea3b5e56ebfa765087ece0\">2017d05</a>\n- <a href=\"https://github.com/VatsalSy/occusage/commit/8563ad73cd91ded7dba02f556057770ee79d1b52\">8563ad7</a>\n- <a href=\"https://github.com/VatsalSy/occusage/commit/c94bb01f4c6bf912f9b34293851bc6d91abf2692\">c94bb01</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/1d94874e3350b38770c88090e910b3e64216f5ed\">1d94874</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/766a1b7bede946da0565a57d0983bdf3193eb5c7\">766a1b7</a>\n- <a href=\"https://github.com/VatsalSy/CloudPull/commit/8aebe18024e2a0c0cd7825e9dedbd25442c848cf\">8aebe18</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
