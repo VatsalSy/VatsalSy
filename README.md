@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1](https://github.com/VatsalSy/occusage/releases/tag/v2.0.1) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-2. ❗ Opened issue [#1](https://github.com/paulkaneelil/viscoelasticCoalescence/issues/1) in [paulkaneelil/viscoelasticCoalescence](https://github.com/paulkaneelil/viscoelasticCoalescence)
-3. 🎉 Merged PR [#3](https://github.com/comphy-lab/MultiRheoFlow/pull/3) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-4. 💪 Opened PR [#3](https://github.com/comphy-lab/MultiRheoFlow/pull/3) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-5. ℹ️ Labeled issue [#6](https://github.com/VatsalSy/qcc-lsp/issues/6) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🗣 Commented on [#1](https://github.com/paulkaneelil/viscoelasticCoalescence/issues/1#issuecomment-3856240727) in [paulkaneelil/viscoelasticCoalescence](https://github.com/paulkaneelil/viscoelasticCoalescence)
+2. 🚀 Published release [v2.0.1](https://github.com/VatsalSy/occusage/releases/tag/v2.0.1) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+3. ❗ Opened issue [#1](https://github.com/paulkaneelil/viscoelasticCoalescence/issues/1) in [paulkaneelil/viscoelasticCoalescence](https://github.com/paulkaneelil/viscoelasticCoalescence)
+4. 🎉 Merged PR [#3](https://github.com/comphy-lab/MultiRheoFlow/pull/3) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+5. 💪 Opened PR [#3](https://github.com/comphy-lab/MultiRheoFlow/pull/3) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 <!--END_SECTION:activity-->
 
 ---
