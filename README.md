@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+### [hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
 
-An extensible framework for multiphase flows with complex rheology, built on Basilisk C • C ⭐ 4
+My first computational fungal dynamics project • C
 
 <!--END_SECTION:latest-repo-->
 
