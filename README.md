@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/comphy-lab/MultiRheoFlow/pull/4) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-2. 🎉 Merged PR [#62](https://github.com/comphy-lab/comphy-lab.github.io/pull/62) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#12](https://github.com/comphy-lab/VatsalSy/pull/12) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. ℹ️ Labeled PR [#62](https://github.com/comphy-lab/comphy-lab.github.io/pull/62) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#62](https://github.com/comphy-lab/comphy-lab.github.io/pull/62) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#4](https://github.com/comphy-lab/MultiRheoFlow/pull/4) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+2. 💪 Opened PR [#4](https://github.com/comphy-lab/MultiRheoFlow/pull/4) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+3. 🎉 Merged PR [#62](https://github.com/comphy-lab/comphy-lab.github.io/pull/62) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🎉 Merged PR [#12](https://github.com/comphy-lab/VatsalSy/pull/12) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+5. ℹ️ Labeled PR [#62](https://github.com/comphy-lab/comphy-lab.github.io/pull/62) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
