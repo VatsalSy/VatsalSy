@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ❗ Opened issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. ℹ️ Labeled issue [#67](https://github.com/comphy-lab/comphy-lab.github.io/issues/67) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. ℹ️ Labeled issue [#66](https://github.com/comphy-lab/comphy-lab.github.io/issues/66) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ❗ Opened issue [#67](https://github.com/comphy-lab/comphy-lab.github.io/issues/67) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🚀 Published release [GitHub Commit Stats v4.0.1](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. 🎉 Merged PR [#72](https://github.com/VatsalSy/commits-readme-stats/pull/72) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 💪 Opened PR [#72](https://github.com/VatsalSy/commits-readme-stats/pull/72) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. ❌ Closed PR [#67](https://github.com/VatsalSy/commits-readme-stats/pull/67) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. ❌ Closed PR [#68](https://github.com/VatsalSy/commits-readme-stats/pull/68) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
