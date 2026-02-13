@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-No description available • Python ⭐ 1
+version, updated every day • C ⭐ 9
 
 <!--END_SECTION:latest-repo-->
 
