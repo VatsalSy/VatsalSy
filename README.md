@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2026-02-14](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-02-14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 🎉 Merged PR [#14](https://github.com/comphy-lab/VatsalSy/pull/14) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-3. ❌ Closed PR [#13](https://github.com/comphy-lab/VatsalSy/pull/13) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. 🗣 Commented on [#13](https://github.com/comphy-lab/VatsalSy/pull/13#issuecomment-3896561984) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. 🚀 Published release [GitHub Commit Stats v4.0.1](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. ❌ Closed PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+2. 💪 Opened PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
+3. 🚀 Published release [v2026-02-14](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-02-14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+4. 🎉 Merged PR [#14](https://github.com/comphy-lab/VatsalSy/pull/14) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+5. ❌ Closed PR [#13](https://github.com/comphy-lab/VatsalSy/pull/13) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
