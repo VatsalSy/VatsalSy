@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
+### [iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
 
-version, updated every day • C ⭐ 9
+Swift command-line interface for managing Apple Reminders on macOS • Swift
 
 <!--END_SECTION:latest-repo-->
 
