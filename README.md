@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-2. 💪 Opened PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
-3. 🚀 Published release [v2026-02-14](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-02-14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-4. 🎉 Merged PR [#14](https://github.com/comphy-lab/VatsalSy/pull/14) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. ❌ Closed PR [#13](https://github.com/comphy-lab/VatsalSy/pull/13) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 💪 Opened PR [#2](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/2) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
+2. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.0.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+3. 🎉 Merged PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
+4. ❌ Closed PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+5. 💪 Opened PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
 <!--END_SECTION:activity-->
 
 ---
