@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/comphy-lab/VatsalSy/pull/14) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. ❌ Closed PR [#13](https://github.com/comphy-lab/VatsalSy/pull/13) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-3. 🗣 Commented on [#13](https://github.com/comphy-lab/VatsalSy/pull/13#issuecomment-3896561984) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. 🚀 Published release [GitHub Commit Stats v4.0.1](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🎉 Merged PR [#72](https://github.com/VatsalSy/commits-readme-stats/pull/72) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🚀 Published release [v2026-02-14](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-02-14) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🎉 Merged PR [#14](https://github.com/comphy-lab/VatsalSy/pull/14) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+3. ❌ Closed PR [#13](https://github.com/comphy-lab/VatsalSy/pull/13) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+4. 🗣 Commented on [#13](https://github.com/comphy-lab/VatsalSy/pull/13#issuecomment-3896561984) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+5. 🚀 Published release [GitHub Commit Stats v4.0.1](https://github.com/VatsalSy/commits-readme-stats/releases/tag/v4.0.1) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
