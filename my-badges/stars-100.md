@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLaw">VatsalSy/PlanarCouetteFlow_PowerLaw: ★7</a>
-* <a href="https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium">VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium: ★6</a>
+* <a href="https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium">VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium: ★7</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★4</a>
