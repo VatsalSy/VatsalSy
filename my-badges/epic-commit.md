@@ -6,7 +6,8 @@ Commits:
 
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/9d62d030cc23747f5fde27222fcd1a5e52fe3df9">9d62d03</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/d7624b7d222fe887b362db61c7c967ae62bfc7fc">d7624b7</a>
-- <a href="https://github.com/VatsalSy/comphy_vscode_themes/commit/d41f0e464d42037b690afc44a266bd778f9afcaa">d41f0e4</a>
+- <a href="https://github.com/VatsalSy/comphy-vscode-theme/commit/d41f0e464d42037b690afc44a266bd778f9afcaa">d41f0e4</a>
+- <a href="https://github.com/VatsalSy/zed-qcc/commit/958a3cdfb23dcaae744e69483a15f24eff11de4b">958a3cd</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/226db2dc06a81805f0507f1651a0f786442a970a">226db2d</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/d56a3e7acc37a8f647b97c3584f1854d7fc1391b">d56a3e7</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/d5788a38b8919884174f85d7883d2a21dbdca3bd">d5788a3</a>
@@ -31,6 +32,7 @@ Commits:
 - <a href="https://github.com/VatsalSy/occusage/commit/2556364a6b7243ea42d681d765534cf7dd5ff47e">2556364</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/982a11a3076c0f77ba99a10f2ea0deccb58ab705">982a11a</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/eacb578045bfe44928f398ca5eea13d5b5768eca">eacb578</a>
+- <a href="https://github.com/VatsalSy/iReminderCLI/commit/41e2972f6d4cdb61fce382cf5f3cbe7a29867bd7">41e2972</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/02cb4d1e968198f3b5c5d6239ef44f80fc91e395">02cb4d1</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/f738d5b979e3df4cca9269308ac21babf80fedbc">f738d5b</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/9b73be5789dc609052f8ba04f549487134ddccb1">9b73be5</a>
@@ -45,8 +47,8 @@ Commits:
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/07f68d94db18a287cf65ed3cb930660173e560cf">07f68d9</a>
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/fe6f48c5ab28f7085d687a635a1d5f694eb7a52b">fe6f48c</a>
 - <a href="https://github.com/VatsalSy/extensions/commit/97abf83fa0c3e3bfaa5d7ce2f497b37039a6817b">97abf83</a>
-- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/f936400e39d2feffcc04e756da13a8c4c65a5fbf">f936400</a>
-- <a href="https://github.com/VatsalSy/zed-gruvbox_custom_themes/commit/0686edfd518dede5d5a2a6c495e0074bc1fc2f1d">0686edf</a>
+- <a href="https://github.com/VatsalSy/comphy-zed-themes/commit/f936400e39d2feffcc04e756da13a8c4c65a5fbf">f936400</a>
+- <a href="https://github.com/VatsalSy/comphy-zed-themes/commit/0686edfd518dede5d5a2a6c495e0074bc1fc2f1d">0686edf</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/531ab0c125ab22d19ed1e37d24d720e92a18b3a0">531ab0c</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/408728ae25c1fcf1eae26754f73894c93650fdc5">408728a</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/3d297547ef25b6d23ff180db4e8b13cda3b2b514">3d29754</a>

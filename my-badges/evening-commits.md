@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/comphy-lab/VatsalSy/commit/38d765912be6f8be2259d20a669dd957f5b5c4a1">38d7659</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/22e53dfe4d6cf2b1723c438067c7c6bb615cefa2">22e53df</a>
-- <a href="https://github.com/comphy-lab/VatsalSy/commit/ff8397d17a5cbfbeffc5dcfad39873b5d6ddf09d">ff8397d</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/18ddae8e37abb29068d6180de082d86cbf4a60d8">18ddae8</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/c69ee63bcdbdb54515228d4e21ced2c65f96105c">c69ee63</a>
-- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/7ef2868b9e04f4a68cb735449b9d373161a439d8">7ef2868</a>
+- <a href="https://github.com/VatsalSy/comphy-vscode-theme/commit/75a0414f3a82ecdb9f4dfd08c97ace6a32656acb">75a0414</a>
+- <a href="https://github.com/VatsalSy/comphy-vscode-theme/commit/7b538576dfda0372c11271d92e7d6acc73f28f02">7b53857</a>
+- <a href="https://github.com/VatsalSy/comphy-vscode-theme/commit/0e3b26a038746d0d07dbdd80e8252693edf0643c">0e3b26a</a>
+- <a href="https://github.com/VatsalSy/comphy-opencode-theme/commit/ab3d191f9764b1a92d023e08f28d84a89229ba55">ab3d191</a>
+- <a href="https://github.com/VatsalSy/comphy-obsidian-theme/commit/e54be5129804a19d8521bbdf20b0a941891ccdb1">e54be51</a>
+- <a href="https://github.com/VatsalSy/comphy-nvim-theme/commit/2543ec7d5adacad674dd16aae53fb53f6663203f">2543ec7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
