@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/VatsalSy/comphy-zed-themes/pull/4) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
-2. 🗣 Commented on [#1](https://github.com/VatsalSy/comphy-nvim-theme/pull/1#issuecomment-3902928053) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
-3. 💪 Opened PR [#3](https://github.com/VatsalSy/zed-qcc/pull/3) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
-4. 💪 Opened PR [#1](https://github.com/VatsalSy/comphy-nvim-theme/pull/1) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
-5. 🎉 Merged PR [#2](https://github.com/VatsalSy/zed-qcc/pull/2) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
+1. 🎉 Merged PR [#4](https://github.com/VatsalSy/comphy-zed-themes/pull/4) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+2. 🚀 Published release [CoMPhy Gruvbox 2.0.0](https://github.com/VatsalSy/comphy-obsidian-theme/releases/tag/2.0.0) in [VatsalSy/comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
+3. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/comphy-nvim-theme/releases/tag/v1.0.0) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
+4. 🎉 Merged PR [#1](https://github.com/VatsalSy/comphy-nvim-theme/pull/1) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
+5. 💪 Opened PR [#4](https://github.com/VatsalSy/comphy-zed-themes/pull/4) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
 <!--END_SECTION:activity-->
 
 ---
