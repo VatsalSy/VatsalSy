@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/2) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
-2. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.0.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-3. 🎉 Merged PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
-4. ❌ Closed PR [#9316](https://github.com/obsidianmd/obsidian-releases/pull/9316) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-5. 💪 Opened PR [#1](https://github.com/VatsalSy/obsidian-comphy-gruvbox/pull/1) in [VatsalSy/obsidian-comphy-gruvbox](https://github.com/VatsalSy/obsidian-comphy-gruvbox)
+1. 💪 Opened PR [#4](https://github.com/VatsalSy/comphy-zed-themes/pull/4) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+2. 🗣 Commented on [#1](https://github.com/VatsalSy/comphy-nvim-theme/pull/1#issuecomment-3902928053) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
+3. 💪 Opened PR [#3](https://github.com/VatsalSy/zed-qcc/pull/3) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
+4. 💪 Opened PR [#1](https://github.com/VatsalSy/comphy-nvim-theme/pull/1) in [VatsalSy/comphy-nvim-theme](https://github.com/VatsalSy/comphy-nvim-theme)
+5. 🎉 Merged PR [#2](https://github.com/VatsalSy/zed-qcc/pull/2) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
 <!--END_SECTION:activity-->
 
 ---
