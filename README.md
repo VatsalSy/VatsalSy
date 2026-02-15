@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+### [zed-qcc](https://github.com/VatsalSy/zed-qcc)
 
-Swift command-line interface for managing Apple Reminders on macOS • Swift
+An extension for Zed that adds Basilisk C (qcc) support.  • Rust
 
 <!--END_SECTION:latest-repo-->
 
