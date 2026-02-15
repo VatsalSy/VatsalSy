@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VatsalSy/zed-qcc/pull/3) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
-2. ℹ️ Assigned PR [#3](https://github.com/VatsalSy/zed-qcc/pull/3) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
-3. ❗ Opened issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
-4. 🚀 Published release [v1.0.0](https://github.com/VatsalSy/comphy-zed-themes/releases/tag/v1.0.0) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
-5. 💪 Opened PR [#1](https://github.com/VatsalSy/comphy-vscode-theme/pull/1) in [VatsalSy/comphy-vscode-theme](https://github.com/VatsalSy/comphy-vscode-theme)
+1. 💪 Opened PR [#4871](https://github.com/zed-industries/extensions/pull/4871) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+2. 🚀 Published release [v0.3.0](https://github.com/VatsalSy/zed-qcc/releases/tag/v0.3.0) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
+3. 🚀 Published release [v0.2.6](https://github.com/VatsalSy/zed-qcc/releases/tag/v0.2.6) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
+4. 🚀 Published release [v1.0](https://github.com/VatsalSy/comphy-opencode-theme/releases/tag/v1.0) in [VatsalSy/comphy-opencode-theme](https://github.com/VatsalSy/comphy-opencode-theme)
+5. ℹ️ Assigned issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
 <!--END_SECTION:activity-->
 
 ---
