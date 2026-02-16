@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4871](https://github.com/zed-industries/extensions/pull/4871) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-2. 🚀 Published release [v0.3.0](https://github.com/VatsalSy/zed-qcc/releases/tag/v0.3.0) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
-3. 🚀 Published release [v0.2.6](https://github.com/VatsalSy/zed-qcc/releases/tag/v0.2.6) in [VatsalSy/zed-qcc](https://github.com/VatsalSy/zed-qcc)
-4. 🚀 Published release [v1.0](https://github.com/VatsalSy/comphy-opencode-theme/releases/tag/v1.0) in [VatsalSy/comphy-opencode-theme](https://github.com/VatsalSy/comphy-opencode-theme)
-5. ℹ️ Assigned issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+1. ❌ Closed PR [#11](https://github.com/VatsalSy/qcc-lsp/pull/11) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. ❌ Closed PR [#8](https://github.com/VatsalSy/qcc-lsp/pull/8) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❌ Closed PR [#9](https://github.com/VatsalSy/qcc-lsp/pull/9) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. ❌ Closed PR [#7](https://github.com/VatsalSy/qcc-lsp/pull/7) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. ❌ Closed PR [#10](https://github.com/VatsalSy/qcc-lsp/pull/10) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
