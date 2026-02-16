@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [zed-qcc](https://github.com/VatsalSy/zed-qcc)
+### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 
-An extension for Zed that adds Basilisk C (qcc) support.  • Rust
+No description available • TypeScript
 
 <!--END_SECTION:latest-repo-->
 
