@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
 
-No description available • Shell ⭐ 2
+No description available • Markdown ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
