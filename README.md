@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-No description available • TypeScript
+version, updated every day • C ⭐ 9
 
 <!--END_SECTION:latest-repo-->
 
