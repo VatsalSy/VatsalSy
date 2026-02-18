@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.2](https://github.com/VatsalSy/qcc-lsp/releases/tag/v0.6.2) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🎉 Merged PR [#13](https://github.com/VatsalSy/qcc-lsp/pull/13) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 🗣 Commented on [#13](https://github.com/VatsalSy/qcc-lsp/pull/13#issuecomment-3915738602) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. ❌ Closed PR [#11](https://github.com/VatsalSy/qcc-lsp/pull/11) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#8](https://github.com/VatsalSy/qcc-lsp/pull/8) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🗣 Commented on [#25509](https://github.com/raycast/extensions/pull/25509#issuecomment-3917200540) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🚀 Published release [v1.5](https://github.com/VatsalSy/ics2cal/releases/tag/v1.5) in [VatsalSy/ics2cal](https://github.com/VatsalSy/ics2cal)
+3. 💪 Opened PR [#1](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/1) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+4. 🚀 Published release [v0.6.2](https://github.com/VatsalSy/qcc-lsp/releases/tag/v0.6.2) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🎉 Merged PR [#13](https://github.com/VatsalSy/qcc-lsp/pull/13) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
