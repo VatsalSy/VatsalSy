@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1111 times)\n2. update (used 819 times)\n3. new (used 395 times)\n4. changes (used 321 times)\n5. file (used 316 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1111 times)\n2. update (used 819 times)\n3. new (used 395 times)\n4. changes (used 321 times)\n5. fix (used 316 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/471197ff2b7b797dfc832dcdd8a0e3d000328d6c\">471197f</a>\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/9b0ebf3a00cb6eb4e736a557e05a4af0246e2710\">9b0ebf3</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/c2972bcb95129d8085a8525c29612bc13268f2e8\">c2972bc</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/6ad8f1c4bac3a456c73977e8b826a54c3180ef82\">6ad8f1c</a>\n- <a href=\"https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/b2bad687b3bbb508cbf7c2422ba4bce0a77814cb\">b2bad68</a>\n- <a href=\"https://github.com/VatsalSy/comphy-obsidian-theme/commit/30263aa89a52075a5eb052490a2f1d901b92b973\">30263aa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/calcli/commit/a7498fe6ac29f3942a94f4b14e5190c2c88bbfa9\">a7498fe</a>\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/471197ff2b7b797dfc832dcdd8a0e3d000328d6c\">471197f</a>\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/9b0ebf3a00cb6eb4e736a557e05a4af0246e2710\">9b0ebf3</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/c2972bcb95129d8085a8525c29612bc13268f2e8\">c2972bc</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/6ad8f1c4bac3a456c73977e8b826a54c3180ef82\">6ad8f1c</a>\n- <a href=\"https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/b2bad687b3bbb508cbf7c2422ba4bce0a77814cb\">b2bad68</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -224,13 +224,6 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
@@ -257,5 +250,12 @@
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/VatsalSy/comphy-zed-themes/commit/abc963cfe206a90d2c021bf8157cf40a1475bf8e\"><strong>abc</strong>963cfe206a90d2c021bf8157cf40a1475bf8e</a>",
     "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
   }
 ]
