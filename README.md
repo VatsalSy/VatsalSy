@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+### [comphy-vscode-theme](https://github.com/VatsalSy/comphy-vscode-theme)
 
-This is the LaTeX source code of my CV • TeX ⭐ 11
+No description available • JavaScript
 
 <!--END_SECTION:latest-repo-->
 
