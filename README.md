@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+### [play-with-potentials](https://github.com/comphy-lab/play-with-potentials)
 
-No description available • TypeScript
+No description available • Python
 
 <!--END_SECTION:latest-repo-->
 
