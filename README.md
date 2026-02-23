@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3941834709) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3941833711) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 🎉 Merged PR [#2](https://github.com/VatsalSy/iReminderCLI/pull/2) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-4. 🗣 Commented on [#16](https://github.com/VatsalSy/qcc-lsp/pull/16#issuecomment-3941808460) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#16](https://github.com/VatsalSy/qcc-lsp/pull/16) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. ❗ Opened issue [#3](https://github.com/VatsalSy/comphy-obsidian-theme/issues/3) in [VatsalSy/comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
+2. 🚀 Published release [v0.6.3](https://github.com/VatsalSy/qcc-lsp/releases/tag/v0.6.3) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. 🎉 Merged PR [#21](https://github.com/VatsalSy/qcc-lsp/pull/21) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3941834709) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3941833711) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
