@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 
-Swift command-line interface for managing Apple Reminders on macOS • Swift
+No description available • TypeScript
 
 <!--END_SECTION:latest-repo-->
 
