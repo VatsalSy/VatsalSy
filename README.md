@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/VatsalSy/iReminderCLI/pull/4) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-2. ℹ️ Assigned issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-3. ❗ Opened issue [#3](https://github.com/VatsalSy/comphy-obsidian-theme/issues/3) in [VatsalSy/comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
-4. 🚀 Published release [v0.6.3](https://github.com/VatsalSy/qcc-lsp/releases/tag/v0.6.3) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. 🎉 Merged PR [#21](https://github.com/VatsalSy/qcc-lsp/pull/21) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.1.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+2. 🔒 Closed issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+3. 🎉 Merged PR [#4](https://github.com/VatsalSy/iReminderCLI/pull/4) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+4. 💪 Opened PR [#4](https://github.com/VatsalSy/iReminderCLI/pull/4) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+5. ℹ️ Assigned issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
 <!--END_SECTION:activity-->
 
 ---
