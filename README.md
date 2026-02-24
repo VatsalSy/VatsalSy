@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [play-with-potentials](https://github.com/comphy-lab/play-with-potentials)
+### [iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
 
-No description available • Python
+Swift command-line interface for managing Apple Reminders on macOS • Swift
 
 <!--END_SECTION:latest-repo-->
 
