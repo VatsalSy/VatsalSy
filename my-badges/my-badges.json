@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1113 times)\n2. update (used 822 times)\n3. new (used 395 times)\n4. changes (used 321 times)\n5. fix (used 319 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 825 times)\n3. new (used 395 times)\n4. changes (used 321 times)\n5. fix (used 319 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,14 +94,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/b486505d45bd4488cb5d900488429588664cf460\">b486505</a>\n- <a href=\"https://github.com/comphy-lab/VatsalSy/commit/7d5319f8c354fb95d535dfbe2e0503a0193f3594\">7d5319f</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/bf3eab3a646c3aac8ad32099fc3a326d0c03d9f9\">bf3eab3</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/3607d9c529094816ef620eb31000f85ec3b598f4\">3607d9c</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/42533dc5740b7e7131f662476ec745e0e4788953\">42533dc</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/6c2532751700205b98345209822b7821931be3f0\">6c25327</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/10bdea6f25ca8db35d06b4624e7e32b3d4f9adc0\">10bdea6</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/a58b3f5f788cae15b3aebcbd31edb77d2acea993\">a58b3f5</a>\n- <a href=\"https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/31582afbe7e2e33e5713f877b544a1f8bfe9706b\">31582af</a>\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/b486505d45bd4488cb5d900488429588664cf460\">b486505</a>\n- <a href=\"https://github.com/comphy-lab/VatsalSy/commit/7d5319f8c354fb95d535dfbe2e0503a0193f3594\">7d5319f</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/bf3eab3a646c3aac8ad32099fc3a326d0c03d9f9\">bf3eab3</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/26e6232d500cdd70e6875f8f7a205280a9aafc37\">26e6232</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/e5b4641bd7071af441bab036d8182cd6336bc342\">e5b4641</a>\n- <a href=\"https://github.com/VatsalSy/calcli/commit/a7498fe6ac29f3942a94f4b14e5190c2c88bbfa9\">a7498fe</a>\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/471197ff2b7b797dfc832dcdd8a0e3d000328d6c\">471197f</a>\n- <a href=\"https://github.com/VatsalSy/ics2cal/commit/9b0ebf3a00cb6eb4e736a557e05a4af0246e2710\">9b0ebf3</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/c2972bcb95129d8085a8525c29612bc13268f2e8\">c2972bc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/ca480508e5ad617ee28939eefc5b2093c859a0c0\">ca48050</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/2cef8ebb8f67d958ca8460799d24c37a81ab56e2\">2cef8eb</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/0c2ae944ddc10170a9b3d68eed9c73dd869e4ede\">0c2ae94</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/26e6232d500cdd70e6875f8f7a205280a9aafc37\">26e6232</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/66929e7f2477ce272155a056dcd2fb0a479f80a6\">66929e7</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/399991aa4757ea556ebb52dcfd4ddc805e43d638\">399991a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
