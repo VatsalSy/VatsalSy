@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3959023857) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-2. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955028607) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-3. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955003900) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-4. 🎉 Merged PR [#4869](https://github.com/zed-industries/extensions/pull/4869) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-5. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.1.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+1. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3959743313) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3959023857) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+3. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955028607) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+4. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955003900) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+5. 🎉 Merged PR [#4869](https://github.com/zed-industries/extensions/pull/4869) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 <!--END_SECTION:activity-->
 
 ---
