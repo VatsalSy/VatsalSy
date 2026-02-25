@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1121 times)\n2. update (used 825 times)\n3. new (used 395 times)\n4. changes (used 321 times)\n5. fix (used 319 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1124 times)\n2. update (used 825 times)\n3. new (used 397 times)\n4. changes (used 321 times)\n5. fix (used 319 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/ca480508e5ad617ee28939eefc5b2093c859a0c0\">ca48050</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/2cef8ebb8f67d958ca8460799d24c37a81ab56e2\">2cef8eb</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/0c2ae944ddc10170a9b3d68eed9c73dd869e4ede\">0c2ae94</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/26e6232d500cdd70e6875f8f7a205280a9aafc37\">26e6232</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/66929e7f2477ce272155a056dcd2fb0a479f80a6\">66929e7</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/399991aa4757ea556ebb52dcfd4ddc805e43d638\">399991a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/extensions/commit/0120b6604b5ac6237887bfe216504c3729a772f3\">0120b66</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/ca480508e5ad617ee28939eefc5b2093c859a0c0\">ca48050</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/2cef8ebb8f67d958ca8460799d24c37a81ab56e2\">2cef8eb</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/0c2ae944ddc10170a9b3d68eed9c73dd869e4ede\">0c2ae94</a>\n- <a href=\"https://github.com/VatsalSy/iReminderCLI/commit/26e6232d500cdd70e6875f8f7a205280a9aafc37\">26e6232</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/66929e7f2477ce272155a056dcd2fb0a479f80a6\">66929e7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
