@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.1.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-2. 🔒 Closed issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-3. 🎉 Merged PR [#4](https://github.com/VatsalSy/iReminderCLI/pull/4) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-4. 💪 Opened PR [#4](https://github.com/VatsalSy/iReminderCLI/pull/4) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
-5. ℹ️ Assigned issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+1. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955028607) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+2. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955003900) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+3. 🎉 Merged PR [#4869](https://github.com/zed-industries/extensions/pull/4869) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+4. 🚀 Published release [v1.1.0](https://github.com/VatsalSy/iReminderCLI/releases/tag/v1.1.0) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
+5. 🔒 Closed issue [#3](https://github.com/VatsalSy/iReminderCLI/issues/3) in [VatsalSy/iReminderCLI](https://github.com/VatsalSy/iReminderCLI)
 <!--END_SECTION:activity-->
 
 ---
