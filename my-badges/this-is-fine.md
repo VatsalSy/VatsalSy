@@ -23,7 +23,6 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/22">#22</a>: feat: Enhance Basilisk101 course content and structure
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/23">#23</a>: SEO-and-paper-update
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/26">#26</a>: added news item about living history
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/27">#27</a>: fixed typo
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/28">#28</a>: feat: Update search database
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/29">#29</a>: vs-branch-1
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/30">#30</a>: vs-branch-2
@@ -38,13 +37,11 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/43">#43</a>: fix-build-script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/47">#47</a>: vs-branch-11
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/48">#48</a>: feat: Migrate ESLint configuration to a module
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/49">#49</a>: Lane
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/50">#50</a>: feat(deps): upgrade jest to 29.7.0
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/51">#51</a>: feat: remove .ruby-version restoration from setup script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/52">#52</a>: feat: Upgrade Node.js version to 20 in weekly tests
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/54">#54</a>: feat(team): Add new team member details
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/55">#55</a>: vs-branch-19
-- <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/7">#7</a>: Feature/improve test coverage p1
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/56">#56</a>: Update documentation and add recent lab news
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/57">#57</a>: Update team page with titles, roles, and formatting improvements
@@ -53,6 +50,9 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/7">#7</a>: Oct updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/60">#60</a>: October 2025 website updates - Team, research, teaching additions
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/27">#27</a>: fixed typo
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/49">#49</a>: Lane
+- <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/11">#11</a>: Consolidate dependency updates (closes #8, #9, #10)
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/11">#11</a>: Skip search update when db missing
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/12">#12</a>: Add CI guardrails for docs, lint, and search updates
