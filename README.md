@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 
-No description available • C
+No description available • CSS
 
 <!--END_SECTION:latest-repo-->
 
