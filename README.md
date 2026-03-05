@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3959743313) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3959023857) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-3. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955028607) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-4. 🗣 Commented on [#4871](https://github.com/zed-industries/extensions/pull/4871#issuecomment-3955003900) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-5. 🎉 Merged PR [#4869](https://github.com/zed-industries/extensions/pull/4869) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+1. 🎉 Merged PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. ❌ Closed PR [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 🗣 Commented on [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73#issuecomment-4000580212) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 💪 Opened PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3959743313) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
