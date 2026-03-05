@@ -147,25 +147,25 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 </div>
 
 <!--START_SECTION:github-stats-->
-**My Total Overall Commits: 5591** 
+**My Total Overall Commits: 5589** 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1170 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌆 Daytime                1786 commits        ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌃 Evening                1933 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
-🌙 Night                  702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+🌞 Morning                1169 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌆 Daytime                1785 commits        ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌃 Evening                1935 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌙 Night                  700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   735 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  829 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Thursday                 583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Friday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 1081 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Tuesday                  826 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Thursday                 582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Friday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 1081 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 Sunday                   1090 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
 ```
 
