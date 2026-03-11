@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-Openclaw memory customized for Worthy • TypeScript
+version, updated every day • C ⭐ 9
 
 <!--END_SECTION:latest-repo-->
 
