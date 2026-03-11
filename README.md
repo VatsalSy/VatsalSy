@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. ❌ Closed PR [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 🗣 Commented on [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73#issuecomment-4000580212) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 💪 Opened PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🗣 Commented on [#14](https://github.com/VatsalSy/qcc-lsp/issues/14#issuecomment-3959743313) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🚀 Published release [v0.2.1](https://github.com/VatsalSy/memory-worthydb/releases/tag/v0.2.1) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+2. 🎉 Merged PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. ❌ Closed PR [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🗣 Commented on [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73#issuecomment-4000580212) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 💪 Opened PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
