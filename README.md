@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/VatsalSy/memory-worthydb/releases/tag/v0.2.1) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
-2. 🎉 Merged PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Closed PR [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 🗣 Commented on [#73](https://github.com/VatsalSy/commits-readme-stats/pull/73#issuecomment-4000580212) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 💪 Opened PR [#74](https://github.com/VatsalSy/commits-readme-stats/pull/74) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. ℹ️ Labeled PR [#4](https://github.com/VatsalSy/memory-worthydb/pull/4) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+2. ℹ️ Labeled PR [#4](https://github.com/VatsalSy/memory-worthydb/pull/4) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+3. 💪 Opened PR [#4](https://github.com/VatsalSy/memory-worthydb/pull/4) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+4. ℹ️ Labeled PR [#3](https://github.com/VatsalSy/memory-worthydb/pull/3) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+5. ℹ️ Labeled PR [#3](https://github.com/VatsalSy/memory-worthydb/pull/3) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
 <!--END_SECTION:activity-->
 
 ---
