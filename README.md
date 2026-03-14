@@ -147,26 +147,26 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 </div>
 
 <!--START_SECTION:github-stats-->
-**My Total Overall Commits: 5639** 
+**My Total Overall Commits: 5651** 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1172 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌆 Daytime                1791 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌃 Evening                1977 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌙 Night                  699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌞 Morning                1172 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌆 Daytime                1804 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌃 Evening                1976 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌙 Night                  699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   749 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  836 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Thursday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 1081 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Sunday                   1086 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Monday                   749 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Tuesday                  836 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Thursday                 602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Saturday                 1094 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Sunday                   1085 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
 
 
