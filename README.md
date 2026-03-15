@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [When-does-a-drop-stop-bouncing](https://github.com/comphy-lab/When-does-a-drop-stop-bouncing)
+### [memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
 
-No description available • C
+Openclaw memory customized for Worthy • TypeScript
 
 <!--END_SECTION:latest-repo-->
 
