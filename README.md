@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
+### [When-does-a-drop-stop-bouncing](https://github.com/comphy-lab/When-does-a-drop-stop-bouncing)
 
-No description available • CSS
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
