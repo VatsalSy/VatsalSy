@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#34](https://github.com/VatsalSy/qcc-lsp/pull/34) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. ℹ️ Labeled PR [#34](https://github.com/VatsalSy/qcc-lsp/pull/34) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 💪 Opened PR [#34](https://github.com/VatsalSy/qcc-lsp/pull/34) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. 🎉 Merged PR [#10](https://github.com/VatsalSy/memory-worthydb/pull/10) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
-5. ❌ Closed PR [#9](https://github.com/VatsalSy/memory-worthydb/pull/9) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+1. 🎉 Merged PR [#36](https://github.com/VatsalSy/qcc-lsp/pull/36) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. ❌ Closed PR [#35](https://github.com/VatsalSy/qcc-lsp/pull/35) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❌ Closed PR [#31](https://github.com/VatsalSy/qcc-lsp/pull/31) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#22](https://github.com/VatsalSy/qcc-lsp/pull/22#issuecomment-4064226026) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#25](https://github.com/VatsalSy/qcc-lsp/pull/25#issuecomment-4064226023) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
