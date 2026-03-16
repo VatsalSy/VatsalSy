@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 
-Openclaw memory customized for Worthy • TypeScript
+No description available • TypeScript
 
 <!--END_SECTION:latest-repo-->
 
