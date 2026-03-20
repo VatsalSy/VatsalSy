@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#75](https://github.com/comphy-lab/comphy-lab.github.io/pull/75) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🔒 Closed issue [#3](https://github.com/VatsalSy/comphy-obsidian-theme/issues/3) in [VatsalSy/comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
-3. 🎉 Merged PR [#36](https://github.com/VatsalSy/qcc-lsp/pull/36) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. ❌ Closed PR [#35](https://github.com/VatsalSy/qcc-lsp/pull/35) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#31](https://github.com/VatsalSy/qcc-lsp/pull/31) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🔒 Closed issue [#66](https://github.com/comphy-lab/comphy-lab.github.io/issues/66) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🔒 Closed issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🔒 Closed issue [#64](https://github.com/comphy-lab/comphy-lab.github.io/issues/64) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🔒 Closed issue [#63](https://github.com/comphy-lab/comphy-lab.github.io/issues/63) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🔒 Closed issue [#67](https://github.com/comphy-lab/comphy-lab.github.io/issues/67) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
