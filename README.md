@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [.github](https://github.com/comphy-lab/.github)
+### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 
-No description available
+No description available • CSS
 
 <!--END_SECTION:latest-repo-->
 
