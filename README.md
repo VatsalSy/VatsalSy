@@ -104,8 +104,8 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#66](https://github.com/comphy-lab/comphy-lab.github.io/issues/66) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🔒 Closed issue [#64](https://github.com/comphy-lab/comphy-lab.github.io/issues/64) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🔒 Closed issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🔒 Closed issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🔒 Closed issue [#64](https://github.com/comphy-lab/comphy-lab.github.io/issues/64) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 4. 🔒 Closed issue [#63](https://github.com/comphy-lab/comphy-lab.github.io/issues/63) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 5. 🔒 Closed issue [#67](https://github.com/comphy-lab/comphy-lab.github.io/issues/67) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
