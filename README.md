@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ℹ️ Assigned PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 💪 Opened PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🔒 Closed issue [#66](https://github.com/comphy-lab/comphy-lab.github.io/issues/66) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🔒 Closed issue [#68](https://github.com/comphy-lab/comphy-lab.github.io/issues/68) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 💪 Opened PR [#5339](https://github.com/zed-industries/extensions/pull/5339) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+2. 🚀 Published release [v1.0.1](https://github.com/VatsalSy/comphy-zed-themes/releases/tag/v1.0.1) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+3. 🎉 Merged PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. ℹ️ Labeled PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ℹ️ Assigned PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
