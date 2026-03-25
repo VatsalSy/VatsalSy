@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLaw">VatsalSy/PlanarCouetteFlow_PowerLaw: ★7</a>
 * <a href="https://github.com/VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium">VatsalSy/Bursting-Bubble-In-a-Viscoplastic-Medium: ★7</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
@@ -53,6 +52,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/filamentsVE">VatsalSy/filamentsVE: ★1</a>
 * <a href="https://github.com/VatsalSy/commits-readme-stats">VatsalSy/commits-readme-stats: ★1</a>
 * <a href="https://github.com/VatsalSy/gruvbox_custom_themes">VatsalSy/gruvbox_custom_themes: ★1</a>
+* <a href="https://github.com/VatsalSy/gTasks-RemindersSync">VatsalSy/gTasks-RemindersSync: ★1</a>
 * <a href="https://github.com/VatsalSy/pdf-ocr-mistral">VatsalSy/pdf-ocr-mistral: ★1</a>
 * <a href="https://github.com/VatsalSy/occusage">VatsalSy/occusage: ★1</a>
 
