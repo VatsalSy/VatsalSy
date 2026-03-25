@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
-2. 💪 Opened PR [#5339](https://github.com/zed-industries/extensions/pull/5339) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-3. 🚀 Published release [v1.0.1](https://github.com/VatsalSy/comphy-zed-themes/releases/tag/v1.0.1) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
-4. 🎉 Merged PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ℹ️ Labeled PR [#78](https://github.com/comphy-lab/comphy-lab.github.io/pull/78) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ❌ Closed PR [#78](https://github.com/VatsalSy/commits-readme-stats/pull/78) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. 🗣 Commented on [#78](https://github.com/VatsalSy/commits-readme-stats/pull/78#issuecomment-4126462242) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 💪 Opened PR [#79](https://github.com/VatsalSy/commits-readme-stats/pull/79) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🔒 Closed issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+5. 💪 Opened PR [#5339](https://github.com/zed-industries/extensions/pull/5339) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 <!--END_SECTION:activity-->
 
 ---
