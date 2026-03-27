@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5339](https://github.com/zed-industries/extensions/pull/5339) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-2. ❌ Closed PR [#78](https://github.com/VatsalSy/commits-readme-stats/pull/78) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 🗣 Commented on [#78](https://github.com/VatsalSy/commits-readme-stats/pull/78#issuecomment-4126462242) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. 💪 Opened PR [#79](https://github.com/VatsalSy/commits-readme-stats/pull/79) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🔒 Closed issue [#5](https://github.com/VatsalSy/comphy-zed-themes/issues/5) in [VatsalSy/comphy-zed-themes](https://github.com/VatsalSy/comphy-zed-themes)
+1. ❌ Closed PR [#15](https://github.com/VatsalSy/memory-worthydb/pull/15) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+2. 🗣 Commented on [#15](https://github.com/VatsalSy/memory-worthydb/pull/15#issuecomment-4142448038) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+3. ❌ Closed PR [#14](https://github.com/VatsalSy/memory-worthydb/pull/14) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+4. 🗣 Commented on [#14](https://github.com/VatsalSy/memory-worthydb/pull/14#issuecomment-4142447878) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+5. ℹ️ Labeled PR [#16](https://github.com/VatsalSy/memory-worthydb/pull/16) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
 <!--END_SECTION:activity-->
 
 ---
