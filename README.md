@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [sl25](https://github.com/comphy-lab/sl25)
+### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
 
-This is a website to render the results of SL theory, https://arxiv.org/abs/2408.12714 • Python
+No description available • Markdown ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
