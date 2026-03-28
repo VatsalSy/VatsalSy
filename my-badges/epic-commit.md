@@ -79,6 +79,7 @@ Commits:
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/83129ae033cf77cb990680667f6ee9a4edc15998">83129ae</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/e560c9ee4d8720398833f2c33851898f232e6f89">e560c9e</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/ac9d5666364aae297cecf58c113429d5c320433f">ac9d566</a>
+- <a href="https://github.com/VatsalSy/raycast-extensions/commit/d42c13f0b852e1574a0d3bfd045db94af37831c7">d42c13f</a>
 - <a href="https://github.com/VatsalSy/raycast-extensions/commit/62dfa39c050138fdb2ebd19aac8393bd67855235">62dfa39</a>
 - <a href="https://github.com/VatsalSy/raycast-extensions/commit/92f93804a9fb79a66fb2391062809d9671d88391">92f9380</a>
 - <a href="https://github.com/VatsalSy/raycast-extensions/commit/d545015bf5b06655ba1e1391074f73c0b00102d6">d545015</a>
