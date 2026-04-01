@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/comphy-lab/sl25/pull/2) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
-2. 🗣 Commented on [#2](https://github.com/comphy-lab/sl25/pull/2#issuecomment-4169548066) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
-3. 💪 Opened PR [#83](https://github.com/comphy-lab/comphy-lab.github.io/pull/83) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#2](https://github.com/comphy-lab/sl25/pull/2) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
-5. 🎉 Merged PR [#1](https://github.com/comphy-lab/sl25/pull/1) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
+1. 🎉 Merged PR [#10](https://github.com/VatsalSy/occusage/pull/10) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+2. 🎉 Merged PR [#83](https://github.com/comphy-lab/comphy-lab.github.io/pull/83) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🗣 Commented on [#10](https://github.com/VatsalSy/occusage/pull/10#issuecomment-4171377196) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+4. 🗣 Commented on [#10](https://github.com/VatsalSy/occusage/pull/10#issuecomment-4171374120) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+5. 🎉 Merged PR [#2](https://github.com/comphy-lab/sl25/pull/2) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
 <!--END_SECTION:activity-->
 
 ---
