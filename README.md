@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/VatsalSy/memory-worthydb/pull/17) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
-2. 🗣 Commented on [#17](https://github.com/VatsalSy/memory-worthydb/pull/17#issuecomment-4162501813) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
-3. 💪 Opened PR [#10](https://github.com/VatsalSy/occusage/pull/10) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
-4. ℹ️ Labeled PR [#81](https://github.com/comphy-lab/comphy-lab.github.io/pull/81) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#81](https://github.com/comphy-lab/comphy-lab.github.io/pull/81) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#81](https://github.com/comphy-lab/comphy-lab.github.io/pull/81) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ❌ Closed PR [#17](https://github.com/VatsalSy/memory-worthydb/pull/17) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+3. 🗣 Commented on [#17](https://github.com/VatsalSy/memory-worthydb/pull/17#issuecomment-4162501813) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+4. 💪 Opened PR [#10](https://github.com/VatsalSy/occusage/pull/10) in [VatsalSy/occusage](https://github.com/VatsalSy/occusage)
+5. ℹ️ Labeled PR [#81](https://github.com/comphy-lab/comphy-lab.github.io/pull/81) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
