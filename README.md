@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+### [comphy-obsidian-theme](https://github.com/VatsalSy/comphy-obsidian-theme)
 
-Openclaw memory customized for Worthy • TypeScript
+No description available • CSS
 
 <!--END_SECTION:latest-repo-->
 
