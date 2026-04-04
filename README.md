@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/VatsalSy/BasiliskPostProcessingMatlab/pull/1) in [VatsalSy/BasiliskPostProcessingMatlab](https://github.com/VatsalSy/BasiliskPostProcessingMatlab)
-2. ❌ Closed PR [#2](https://github.com/VatsalSy/battery-batt-control/pull/2) in [VatsalSy/battery-batt-control](https://github.com/VatsalSy/battery-batt-control)
-3. ❌ Closed PR [#20](https://github.com/VatsalSy/memory-worthydb/pull/20) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
-4. 🎉 Merged PR [#81](https://github.com/VatsalSy/commits-readme-stats/pull/81) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. ❌ Closed PR [#19](https://github.com/VatsalSy/memory-worthydb/pull/19) in [VatsalSy/memory-worthydb](https://github.com/VatsalSy/memory-worthydb)
+1. 🗣 Commented on [#50](https://github.com/VatsalSy/qcc-lsp/pull/50#issuecomment-4187094720) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. ❌ Closed PR [#50](https://github.com/VatsalSy/qcc-lsp/pull/50) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❌ Closed PR [#46](https://github.com/VatsalSy/qcc-lsp/pull/46) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#46](https://github.com/VatsalSy/qcc-lsp/pull/46#issuecomment-4187094686) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. ❌ Closed PR [#45](https://github.com/VatsalSy/qcc-lsp/pull/45) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
