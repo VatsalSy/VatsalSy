@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/7">#7</a>: vs-branch-3
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/8">#8</a>: feat: Add Cloudflare cache purge on deployment
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/9">#9</a>: vs-branch-4
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/10">#10</a>: ✨ feat(github-actions): improve search index update workflow
