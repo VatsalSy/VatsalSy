@@ -32,7 +32,6 @@ Commits:
 - <a href="https://github.com/VatsalSy/occusage/commit/2556364a6b7243ea42d681d765534cf7dd5ff47e">2556364</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/982a11a3076c0f77ba99a10f2ea0deccb58ab705">982a11a</a>
 - <a href="https://github.com/VatsalSy/occusage/commit/eacb578045bfe44928f398ca5eea13d5b5768eca">eacb578</a>
-- <a href="https://github.com/VatsalSy/iReminderCLI/commit/41e2972f6d4cdb61fce382cf5f3cbe7a29867bd7">41e2972</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/02cb4d1e968198f3b5c5d6239ef44f80fc91e395">02cb4d1</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/f738d5b979e3df4cca9269308ac21babf80fedbc">f738d5b</a>
 - <a href="https://github.com/VatsalSy/CloudPull/commit/9b73be5789dc609052f8ba04f549487134ddccb1">9b73be5</a>
