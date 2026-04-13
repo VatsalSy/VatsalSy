@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-vscode-theme](https://github.com/VatsalSy/comphy-vscode-theme)
+### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 
-No description available • JavaScript
+Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Shell
 
 <!--END_SECTION:latest-repo-->
 
