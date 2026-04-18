@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [occusage](https://github.com/VatsalSy/occusage)
+### [comphy-vscode-theme](https://github.com/VatsalSy/comphy-vscode-theme)
 
-A CLI tool for analyzing Open + Claude Code usage from local JSONL and JSON files. • TypeScript ⭐ 1
+No description available • JavaScript
 
 <!--END_SECTION:latest-repo-->
 
