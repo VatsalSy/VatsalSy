@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-vscode-theme](https://github.com/VatsalSy/comphy-vscode-theme)
+### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 
-No description available • JavaScript
+No description available • TypeScript
 
 <!--END_SECTION:latest-repo-->
 
