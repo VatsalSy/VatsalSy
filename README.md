@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ℹ️ Assigned PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 💪 Opened PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#6](https://github.com/comphy-lab/MultiRheoFlow/pull/6) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
-5. ℹ️ Assigned PR [#6](https://github.com/comphy-lab/MultiRheoFlow/pull/6) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+1. 💪 Opened PR [#85](https://github.com/comphy-lab/comphy-lab.github.io/pull/85) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. ℹ️ Assigned PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#84](https://github.com/comphy-lab/comphy-lab.github.io/pull/84) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#6](https://github.com/comphy-lab/MultiRheoFlow/pull/6) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 <!--END_SECTION:activity-->
 
 ---
