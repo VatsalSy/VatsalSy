@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/comphy-lab/comphy-lab.github.io/pull/86) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ❌ Closed PR [#85](https://github.com/comphy-lab/comphy-lab.github.io/pull/85) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🗣 Commented on [#85](https://github.com/comphy-lab/comphy-lab.github.io/pull/85#issuecomment-4314165445) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#85](https://github.com/VatsalSy/commits-readme-stats/pull/85) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🎉 Merged PR [#71](https://github.com/VatsalSy/qcc-lsp/pull/71) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🎉 Merged PR [#87](https://github.com/comphy-lab/comphy-lab.github.io/pull/87) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 🎉 Merged PR [#88](https://github.com/comphy-lab/comphy-lab.github.io/pull/88) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#86](https://github.com/comphy-lab/comphy-lab.github.io/pull/86) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#88](https://github.com/comphy-lab/comphy-lab.github.io/pull/88) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 💪 Opened PR [#87](https://github.com/comphy-lab/comphy-lab.github.io/pull/87) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
