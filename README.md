@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/comphy-lab/comphy-lab.github.io/pull/89) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ℹ️ Assigned PR [#7](https://github.com/VatsalSy/VatsalSy/pull/7) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-3. 💪 Opened PR [#7](https://github.com/VatsalSy/VatsalSy/pull/7) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-4. 🎉 Merged PR [#87](https://github.com/comphy-lab/comphy-lab.github.io/pull/87) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🎉 Merged PR [#88](https://github.com/comphy-lab/comphy-lab.github.io/pull/88) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ❌ Closed PR [#73](https://github.com/VatsalSy/qcc-lsp/pull/73) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#73](https://github.com/VatsalSy/qcc-lsp/pull/73#issuecomment-4322778556) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❌ Closed PR [#72](https://github.com/VatsalSy/qcc-lsp/pull/72) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#72](https://github.com/VatsalSy/qcc-lsp/pull/72#issuecomment-4322778480) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. ℹ️ Assigned PR [#74](https://github.com/VatsalSy/qcc-lsp/pull/74) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
