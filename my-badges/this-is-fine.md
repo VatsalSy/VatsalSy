@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/23">#23</a>: SEO-and-paper-update
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/26">#26</a>: added news item about living history
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/28">#28</a>: feat: Update search database
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/29">#29</a>: vs-branch-1
