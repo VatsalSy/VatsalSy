@@ -54,6 +54,7 @@ Repos:
 * <a href="https://github.com/VatsalSy/gruvbox_custom_themes">VatsalSy/gruvbox_custom_themes: ★1</a>
 * <a href="https://github.com/VatsalSy/gTasks-RemindersSync">VatsalSy/gTasks-RemindersSync: ★1</a>
 * <a href="https://github.com/VatsalSy/pdf-ocr-mistral">VatsalSy/pdf-ocr-mistral: ★1</a>
+* <a href="https://github.com/VatsalSy/skills-clawhub">VatsalSy/skills-clawhub: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
