@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/26">#26</a>: added news item about living history
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/28">#28</a>: feat: Update search database
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/29">#29</a>: vs-branch-1
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/30">#30</a>: vs-branch-2
@@ -32,7 +31,6 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/7">#7</a>: Oct updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/60">#60</a>: October 2025 website updates - Team, research, teaching additions
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/27">#27</a>: fixed typo
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/49">#49</a>: Lane
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/11">#11</a>: Consolidate dependency updates (closes #8, #9, #10)
