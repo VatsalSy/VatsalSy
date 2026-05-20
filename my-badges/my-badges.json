@@ -257,5 +257,12 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/9cec9a7b650768d1e240fa09d1aa6453919a51ad\">9cec9a7</a>\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/c2a679c29fde1371244d419177b03de6a39a296f\">c2a679c</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
