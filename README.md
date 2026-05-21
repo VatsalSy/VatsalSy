@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+### [Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
 
-No description available • Python ⭐ 1
+No description available • Shell ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
