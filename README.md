@@ -163,8 +163,8 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 Monday                   797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 Tuesday                  952 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Wednesday                731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Thursday                 699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Friday                   828 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 698 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Friday                   829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Saturday                 1255 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 Sunday                   1209 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 ```
