@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/comphy-lab/basilisk-C/pull/18) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 💪 Opened PR [#18](https://github.com/comphy-lab/basilisk-C/pull/18) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-3. 🎉 Merged PR [#3](https://github.com/comphy-lab/Jumping-Drops/pull/3) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-4. ❗ Opened issue [#17](https://github.com/comphy-lab/basilisk-C/issues/17) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. 💪 Opened PR [#3](https://github.com/comphy-lab/Jumping-Drops/pull/3) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+1. ❌ Closed PR [#95](https://github.com/VatsalSy/commits-readme-stats/pull/95) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. 🗣 Commented on [#95](https://github.com/VatsalSy/commits-readme-stats/pull/95#issuecomment-4592072950) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. ❌ Closed PR [#93](https://github.com/VatsalSy/commits-readme-stats/pull/93) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🗣 Commented on [#93](https://github.com/VatsalSy/commits-readme-stats/pull/93#issuecomment-4592072637) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. ❌ Closed PR [#92](https://github.com/VatsalSy/commits-readme-stats/pull/92) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
