@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/37">#37</a>: vs-branch-9
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/39">#39</a>: vs-branch-10
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/42">#42</a>: Fix html markup bugs
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/43">#43</a>: fix-build-script
