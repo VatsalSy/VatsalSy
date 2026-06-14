@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/comphy-lab/Jumping-Drops/pull/4) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-2. 💪 Opened PR [#4](https://github.com/comphy-lab/Jumping-Drops/pull/4) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-3. 🎉 Merged PR [#8](https://github.com/VatsalSy/VatsalSy/pull/8) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-4. 🎉 Merged PR [#23](https://github.com/comphy-lab/VatsalSy/pull/23) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. 🗣 Commented on [#102](https://github.com/VatsalSy/qcc-lsp/pull/102#issuecomment-4671833698) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. ℹ️ Assigned PR [#91](https://github.com/comphy-lab/comphy-lab.github.io/pull/91) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#91](https://github.com/comphy-lab/comphy-lab.github.io/pull/91) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. ℹ️ Assigned PR [#9](https://github.com/VatsalSy/VatsalSy/pull/9) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. 💪 Opened PR [#9](https://github.com/VatsalSy/VatsalSy/pull/9) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+5. ℹ️ Assigned PR [#25](https://github.com/comphy-lab/VatsalSy/pull/25) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
