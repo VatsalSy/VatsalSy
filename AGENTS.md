@@ -23,14 +23,19 @@ The repository uses several automated workflows that run on schedule:
 - **Purpose**: Updates achievement badges displayed in the profile
 - **Command**: `npx update-my-badges`
 
-### 3. Waka Readme Stats (`.github/workflows/ReadmeWaka.yml`)
+### 3. GitHub Stats and WakaTime (`.github/workflows/github-stats.yml`)
 - **Schedule**: Every 4 hours
-- **Purpose**: Updates WakaTime coding statistics including time spent, languages used, and project activity
-- **Dependencies**: Requires WAKATIME_API_KEY secret
+- **Purpose**: Updates commit statistics and WakaTime metrics in the README
+- **Manual trigger**: Available via workflow_dispatch
+- **Dependencies**: Uses `WAKATIME_API_KEY` (secret key) when WakaTime output is enabled
 
 ### 4. Recent Activity (`.github/workflows/update-readme.yml`)
 - **Schedule**: Every 4 hours (10 minutes offset)
 - **Purpose**: Updates the "Recent Activity" section with latest GitHub actions
+
+### 5. Featured Repository (`.github/workflows/update-featured-repo.yml`)
+- **Schedule**: Every 6 hours
+- **Purpose**: Updates the featured repository section and pushes README changes
 
 ## Architecture
 
@@ -43,7 +48,7 @@ The repository follows a simple structure:
 Dynamic sections in README.md are marked with special comment tags:
 - `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->`
 - `<!--START_SECTION:github-stats-->` / `<!--END_SECTION:github-stats-->`
-- `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->`
+- `<!--START_SECTION:wakatime-->` / `<!--END_SECTION:wakatime-->`
 - `<!-- my-badges start -->` / `<!-- my-badges end -->`
 
 ## Development Notes
