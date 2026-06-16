@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/comphy-lab/Jumping-Drops/pull/5) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-2. ❌ Closed PR [#112](https://github.com/VatsalSy/qcc-lsp/pull/112) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 🗣 Commented on [#112](https://github.com/VatsalSy/qcc-lsp/pull/112#issuecomment-4702125653) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. 🗣 Commented on [#111](https://github.com/VatsalSy/qcc-lsp/pull/111#issuecomment-4702125581) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#111](https://github.com/VatsalSy/qcc-lsp/pull/111) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🎉 Merged PR [#25](https://github.com/comphy-lab/VatsalSy/pull/25) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+2. 🎉 Merged PR [#9](https://github.com/VatsalSy/VatsalSy/pull/9) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+3. 🎉 Merged PR [#91](https://github.com/comphy-lab/comphy-lab.github.io/pull/91) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🎉 Merged PR [#96](https://github.com/VatsalSy/commits-readme-stats/pull/96) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🎉 Merged PR [#97](https://github.com/VatsalSy/commits-readme-stats/pull/97) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
