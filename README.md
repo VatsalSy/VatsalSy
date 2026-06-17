@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/comphy-lab/VatsalSy/pull/25) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. 🎉 Merged PR [#9](https://github.com/VatsalSy/VatsalSy/pull/9) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-3. 🎉 Merged PR [#91](https://github.com/comphy-lab/comphy-lab.github.io/pull/91) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#96](https://github.com/VatsalSy/commits-readme-stats/pull/96) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🎉 Merged PR [#97](https://github.com/VatsalSy/commits-readme-stats/pull/97) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. ℹ️ Assigned issue [#17](https://github.com/comphy-lab/basilisk-C/issues/17) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🎉 Merged PR [#25](https://github.com/comphy-lab/VatsalSy/pull/25) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+3. 🎉 Merged PR [#9](https://github.com/VatsalSy/VatsalSy/pull/9) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. 🎉 Merged PR [#91](https://github.com/comphy-lab/comphy-lab.github.io/pull/91) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#96](https://github.com/VatsalSy/commits-readme-stats/pull/96) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
