@@ -29,6 +29,8 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/12">#12</a>: Add CI guardrails for docs, lint, and search updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/87">#87</a>: Bump addressable to 2.9.0 (CVE-2026-35611)
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/23">#23</a>: Batch Dependabot security updates
+- <a href="https://github.com/comphy-lab/VatsalSy/pull/25">#25</a>: Align weekly tests Node version
+- <a href="https://github.com/VatsalSy/qcc-lsp/pull/113">#113</a>: Batch dependabot bumps for ESLint and LSP
 - <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 - <a href="https://github.com/VatsalSy/CloudPull/pull/12">#12</a>: fix: improve CI stability and add sync package tests
 
