@@ -7,10 +7,10 @@ Repos:
 * <a href="https://github.com/VatsalSy/PlanarCouetteFlow_PowerLaw">VatsalSy/PlanarCouetteFlow_PowerLaw: ★7</a>
 * <a href="https://github.com/VatsalSy/IITR-ThesisTemplate">VatsalSy/IITR-ThesisTemplate: ★5</a>
 * <a href="https://github.com/VatsalSy/BasiliskPostProcessingMatlab">VatsalSy/BasiliskPostProcessingMatlab: ★5</a>
+* <a href="https://github.com/comphy-lab/JumpingBubbles">comphy-lab/JumpingBubbles: ★5</a>
 * <a href="https://github.com/VatsalSy/postProcessPython">VatsalSy/postProcessPython: ★4</a>
 * <a href="https://github.com/VatsalSy/Taylor-Culick-retractions">VatsalSy/Taylor-Culick-retractions: ★4</a>
 * <a href="https://github.com/comphy-lab/DropsOnSurfaces">comphy-lab/DropsOnSurfaces: ★4</a>
-* <a href="https://github.com/comphy-lab/JumpingBubbles">comphy-lab/JumpingBubbles: ★4</a>
 * <a href="https://github.com/VatsalSy/LaplacePoissonCylindrical">VatsalSy/LaplacePoissonCylindrical: ★3</a>
 * <a href="https://github.com/VatsalSy/IntegroDifferentialEquation">VatsalSy/IntegroDifferentialEquation: ★3</a>
 * <a href="https://github.com/VatsalSy/Project-ideas-for-prospective-students">VatsalSy/Project-ideas-for-prospective-students: ★3</a>
