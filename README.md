@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-No description available • C
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
 
 <!--END_SECTION:latest-repo-->
 
