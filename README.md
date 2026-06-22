@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/VatsalSy/qcc-lsp/pull/117#issuecomment-4769702772) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🗣 Commented on [#114](https://github.com/VatsalSy/qcc-lsp/pull/114#issuecomment-4769701682) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 💪 Opened PR [#118](https://github.com/VatsalSy/qcc-lsp/pull/118) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. ℹ️ Assigned issue [#17](https://github.com/comphy-lab/basilisk-C/issues/17) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-5. 🎉 Merged PR [#25](https://github.com/comphy-lab/VatsalSy/pull/25) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. ❌ Closed PR [#107](https://github.com/VatsalSy/qcc-lsp/pull/107) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 💪 Opened PR [#120](https://github.com/VatsalSy/qcc-lsp/pull/120) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. 💪 Opened PR [#4](https://github.com/comphy-lab/Bursting-Bubble/pull/4) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+4. 🗣 Commented on [#117](https://github.com/VatsalSy/qcc-lsp/pull/117#issuecomment-4769702772) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#114](https://github.com/VatsalSy/qcc-lsp/pull/114#issuecomment-4769701682) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
