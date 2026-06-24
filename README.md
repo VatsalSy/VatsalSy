@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/VatsalSy/qcc-lsp/pull/119#issuecomment-4772685248) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🗣 Commented on [#97](https://github.com/VatsalSy/qcc-lsp/pull/97#issuecomment-4772684083) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-3. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4776798850) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-4. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4776566362) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-5. 🎉 Merged PR [#118](https://github.com/VatsalSy/qcc-lsp/pull/118) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4786581777) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+2. 🗣 Commented on [#119](https://github.com/VatsalSy/qcc-lsp/pull/119#issuecomment-4772685248) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. 🗣 Commented on [#97](https://github.com/VatsalSy/qcc-lsp/pull/97#issuecomment-4772684083) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4776798850) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+5. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4776566362) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
 <!--END_SECTION:activity-->
 
 ---
