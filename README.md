@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/comphy-lab/coalescence-with-surfactants/pull/5#issuecomment-4789690428) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-2. 💪 Opened PR [#6](https://github.com/comphy-lab/coalescence-with-surfactants/pull/6) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-3. 💪 Opened PR [#5](https://github.com/comphy-lab/coalescence-with-surfactants/pull/5) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
-4. 🗣 Commented on [#1](https://github.com/comphy-lab/ElasticPinchOff/pull/1#issuecomment-4786581777) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-5. 🗣 Commented on [#119](https://github.com/VatsalSy/qcc-lsp/pull/119#issuecomment-4772685248) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. ❌ Closed PR [#97](https://github.com/VatsalSy/qcc-lsp/pull/97) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. ❌ Closed PR [#119](https://github.com/VatsalSy/qcc-lsp/pull/119) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. 🗣 Commented on [#5](https://github.com/comphy-lab/coalescence-with-surfactants/pull/5#issuecomment-4789690428) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+4. 💪 Opened PR [#6](https://github.com/comphy-lab/coalescence-with-surfactants/pull/6) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+5. 💪 Opened PR [#5](https://github.com/comphy-lab/coalescence-with-surfactants/pull/5) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
 <!--END_SECTION:activity-->
 
 ---
