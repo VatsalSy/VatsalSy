@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-2. 🗣 Commented on [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3#issuecomment-4822879459) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-3. 💪 Opened PR [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-4. 💪 Opened PR [#2](https://github.com/comphy-lab/ElasticPinchOff/pull/2) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
-5. 🎉 Merged PR [#6](https://github.com/comphy-lab/coalescence-with-surfactants/pull/6) in [comphy-lab/coalescence-with-surfactants](https://github.com/comphy-lab/coalescence-with-surfactants)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/ElasticPinchOff/pull/2) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+2. ❌ Closed PR [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+3. 🗣 Commented on [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3#issuecomment-4822879459) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+4. 💪 Opened PR [#3](https://github.com/comphy-lab/ElasticPinchOff/pull/3) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
+5. 💪 Opened PR [#2](https://github.com/comphy-lab/ElasticPinchOff/pull/2) in [comphy-lab/ElasticPinchOff](https://github.com/comphy-lab/ElasticPinchOff)
 <!--END_SECTION:activity-->
 
 ---
