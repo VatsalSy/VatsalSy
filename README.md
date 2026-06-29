@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/comphy-lab/Intro-Soft-Matter-2025/pull/7#issuecomment-4829188157) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-2. 🗣 Commented on [#6](https://github.com/comphy-lab/Intro-Soft-Matter-2025/pull/6#issuecomment-4829188074) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-3. 🗣 Commented on [#3](https://github.com/comphy-lab/Intro-Soft-Matter-2025/pull/3#issuecomment-4829187988) in [comphy-lab/Intro-Soft-Matter-2025](https://github.com/comphy-lab/Intro-Soft-Matter-2025)
-4. ℹ️ Reopened PR [#10](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/10) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-5. ❌ Closed PR [#10](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/10) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. ❌ Closed PR [#92](https://github.com/comphy-lab/comphy-lab.github.io/pull/92) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ❌ Closed PR [#94](https://github.com/comphy-lab/comphy-lab.github.io/pull/94) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. ❌ Closed PR [#93](https://github.com/comphy-lab/comphy-lab.github.io/pull/93) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. ❌ Closed PR [#95](https://github.com/comphy-lab/comphy-lab.github.io/pull/95) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ℹ️ Labeled PR [#95](https://github.com/comphy-lab/comphy-lab.github.io/pull/95) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
