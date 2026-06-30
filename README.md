@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+### [hydrodynamic-singularities-poster](https://github.com/comphy-lab/hydrodynamic-singularities-poster)
 
-No description available • CSS
+No description available • HTML
 
 <!--END_SECTION:latest-repo-->
 
