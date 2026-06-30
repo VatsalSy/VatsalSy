@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 2. ℹ️ Labeled PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 3. ℹ️ Labeled PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ❌ Closed PR [#92](https://github.com/comphy-lab/comphy-lab.github.io/pull/92) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. ℹ️ Labeled PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 💪 Opened PR [#96](https://github.com/comphy-lab/comphy-lab.github.io/pull/96) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
