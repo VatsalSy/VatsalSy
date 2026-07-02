@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-No description available • C ⭐ 1
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
 
 <!--END_SECTION:latest-repo-->
 
