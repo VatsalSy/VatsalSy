@@ -74,7 +74,7 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 ### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 
-No description available • Shell ⭐ 1
+No description available • C ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
