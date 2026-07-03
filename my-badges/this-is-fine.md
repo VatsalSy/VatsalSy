@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/42">#42</a>: Fix html markup bugs
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/43">#43</a>: fix-build-script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/47">#47</a>: vs-branch-11
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/48">#48</a>: feat: Migrate ESLint configuration to a module
