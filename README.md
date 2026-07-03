@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-2. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4864984188) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-3. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4862846752) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-4. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4860580007) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-5. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4857129720) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+1. 🗣 Commented on [#6](https://github.com/comphy-lab/Bursting-Bubble/pull/6#issuecomment-4873568280) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+2. 💪 Opened PR [#6](https://github.com/comphy-lab/Bursting-Bubble/pull/6) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+3. 🎉 Merged PR [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+4. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4864984188) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+5. 🗣 Commented on [#5](https://github.com/comphy-lab/Bursting-Bubble/pull/5#issuecomment-4862846752) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 <!--END_SECTION:activity-->
 
 ---
