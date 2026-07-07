@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/issues/4) in [Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026)
-2. 🗣 Commented on [#1](https://github.com/comphy-lab/NEMD-Summer-School-2026/issues/1#issuecomment-4901320686) in [comphy-lab/NEMD-Summer-School-2026](https://github.com/comphy-lab/NEMD-Summer-School-2026)
-3. ❗ Opened issue [#1](https://github.com/comphy-lab/NEMD-Summer-School-2026/issues/1) in [comphy-lab/NEMD-Summer-School-2026](https://github.com/comphy-lab/NEMD-Summer-School-2026)
-4. 🎉 Merged PR [#7](https://github.com/comphy-lab/Bursting-Bubble/pull/7) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-5. 💪 Opened PR [#7](https://github.com/comphy-lab/Bursting-Bubble/pull/7) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+1. ℹ️ Assigned PR [#8](https://github.com/comphy-lab/Bursting-Bubble/pull/8) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+2. 💪 Opened PR [#8](https://github.com/comphy-lab/Bursting-Bubble/pull/8) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+3. ❗ Opened issue [#4](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/issues/4) in [Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026](https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026)
+4. 🗣 Commented on [#1](https://github.com/comphy-lab/NEMD-Summer-School-2026/issues/1#issuecomment-4901320686) in [comphy-lab/NEMD-Summer-School-2026](https://github.com/comphy-lab/NEMD-Summer-School-2026)
+5. ❗ Opened issue [#1](https://github.com/comphy-lab/NEMD-Summer-School-2026/issues/1) in [comphy-lab/NEMD-Summer-School-2026](https://github.com/comphy-lab/NEMD-Summer-School-2026)
 <!--END_SECTION:activity-->
 
 ---
