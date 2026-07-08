@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
+### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 
-No description available • Python
+No description available • C ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
