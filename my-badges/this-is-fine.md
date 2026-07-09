@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/50">#50</a>: feat(deps): upgrade jest to 29.7.0
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/51">#51</a>: feat: remove .ruby-version restoration from setup script
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/52">#52</a>: feat: Upgrade Node.js version to 20 in weekly tests
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/54">#54</a>: feat(team): Add new team member details
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/55">#55</a>: vs-branch-19
@@ -17,7 +15,6 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/7">#7</a>: Oct updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/60">#60</a>: October 2025 website updates - Team, research, teaching additions
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/49">#49</a>: Lane
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/11">#11</a>: Consolidate dependency updates (closes #8, #9, #10)
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/11">#11</a>: Skip search update when db missing
