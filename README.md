@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
-3. 🎉 Merged PR [#98](https://github.com/comphy-lab/comphy-lab.github.io/pull/98) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#98](https://github.com/comphy-lab/comphy-lab.github.io/pull/98) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 🎉 Merged PR [#97](https://github.com/comphy-lab/comphy-lab.github.io/pull/97) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🎉 Merged PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
+2. 💪 Opened PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
+5. 🎉 Merged PR [#98](https://github.com/comphy-lab/comphy-lab.github.io/pull/98) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
