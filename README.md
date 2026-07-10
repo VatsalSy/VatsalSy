@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+### [DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
 
-No description available • CSS
+An evidence-first Python 101 course for data science • Python
 
 <!--END_SECTION:latest-repo-->
 
