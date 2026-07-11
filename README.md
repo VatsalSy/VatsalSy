@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-An evidence-first Python 101 course for data science • Python
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
 
 <!--END_SECTION:latest-repo-->
 
