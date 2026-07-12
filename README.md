@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
-2. 💪 Opened PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
-3. 🎉 Merged PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
-4. 💪 Opened PR [#1](https://github.com/comphy-lab/VE-DropImpact-ContactLine/pull/1) in [comphy-lab/VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
-5. 🎉 Merged PR [#98](https://github.com/comphy-lab/comphy-lab.github.io/pull/98) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ℹ️ Assigned PR [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 💪 Opened PR [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. ℹ️ Assigned PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
+4. 💪 Opened PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
+5. 🎉 Merged PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
 <!--END_SECTION:activity-->
 
 ---
