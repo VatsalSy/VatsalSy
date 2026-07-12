@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 💪 Opened PR [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. ℹ️ Assigned PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
-4. 💪 Opened PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
-5. 🎉 Merged PR [#2](https://github.com/AnjaliML/DataScience-Python101/pull/2) in [AnjaliML/DataScience-Python101](https://github.com/AnjaliML/DataScience-Python101)
+1. ❌ Closed PR [#138](https://github.com/VatsalSy/qcc-lsp/pull/138) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#138](https://github.com/VatsalSy/qcc-lsp/pull/138#issuecomment-4951642499) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. ❌ Closed PR [#137](https://github.com/VatsalSy/qcc-lsp/pull/137) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#137](https://github.com/VatsalSy/qcc-lsp/pull/137#issuecomment-4951642383) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#136](https://github.com/VatsalSy/qcc-lsp/pull/136#issuecomment-4951642263) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
