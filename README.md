@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
+### [Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
 
-Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
+No description available • Python
 
 <!--END_SECTION:latest-repo-->
 
