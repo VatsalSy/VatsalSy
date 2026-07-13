@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-No description available • Python
+version, updated every day • C ⭐ 18
 
 <!--END_SECTION:latest-repo-->
 
