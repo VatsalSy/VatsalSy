@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+### [self-similar-worthington-jets-arxiv](https://github.com/comphy-lab/self-similar-worthington-jets-arxiv)
 
-Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Shell
+arXiv source for Self-similar Worthington jets • TeX
 
 <!--END_SECTION:latest-repo-->
 
