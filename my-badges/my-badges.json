@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1064 times)\n2. update (used 844 times)\n3. new (used 394 times)\n4. changes (used 321 times)\n5. fix (used 312 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1066 times)\n2. update (used 844 times)\n3. new (used 394 times)\n4. changes (used 321 times)\n5. fix (used 313 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -248,14 +248,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/1644a05fd26ca2c2b132fdebc051f5ae0b2900ad\">1644a05</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/10bdea6f25ca8db35d06b4624e7e32b3d4f9adc0\">10bdea6</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/a58b3f5f788cae15b3aebcbd31edb77d2acea993\">a58b3f5</a>\n- <a href=\"https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/31582afbe7e2e33e5713f877b544a1f8bfe9706b\">31582af</a>\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/b486505d45bd4488cb5d900488429588664cf460\">b486505</a>\n- <a href=\"https://github.com/comphy-lab/VatsalSy/commit/7d5319f8c354fb95d535dfbe2e0503a0193f3594\">7d5319f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/VatsalSy/commit/2480c205d964025e867022f10b99a979e09b4e07\">2480c20</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/1644a05fd26ca2c2b132fdebc051f5ae0b2900ad\">1644a05</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/10bdea6f25ca8db35d06b4624e7e32b3d4f9adc0\">10bdea6</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/a58b3f5f788cae15b3aebcbd31edb77d2acea993\">a58b3f5</a>\n- <a href=\"https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/31582afbe7e2e33e5713f877b544a1f8bfe9706b\">31582af</a>\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/b486505d45bd4488cb5d900488429588664cf460\">b486505</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AnjaliML/Bayesian-Contour-Predictor/commit/0a7c14df9b2b2b7782ffdecc5c6833698298e784\">0a7c14d</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/360b15b843219b68ab5e8048b3699393565e2ec2\">360b15b</a>\n- <a href=\"https://github.com/VatsalSy/comphy-obsidian-theme/commit/fc2da5174d3665fd454e04d0bfe6134e4f591465\">fc2da51</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/9ff8bdc3e3c5b657a8dd11dc9c34652c437651e3\">9ff8bdc</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/4c8ba968b31a6fb3df942eb7756933acc45a3620\">4c8ba96</a>\n- <a href=\"https://github.com/VatsalSy/commits-readme-stats/commit/70bf20aaaa08083cdad983d074cf6975d978cb61\">70bf20a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AnjaliML/Bayesian-Contour-Predictor/commit/a0db6ba2d250e184b9095c22702041d30acef3e2\">a0db6ba</a>\n- <a href=\"https://github.com/AnjaliML/Bayesian-Contour-Predictor/commit/0a7c14df9b2b2b7782ffdecc5c6833698298e784\">0a7c14d</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/360b15b843219b68ab5e8048b3699393565e2ec2\">360b15b</a>\n- <a href=\"https://github.com/VatsalSy/comphy-obsidian-theme/commit/fc2da5174d3665fd454e04d0bfe6134e4f591465\">fc2da51</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/9ff8bdc3e3c5b657a8dd11dc9c34652c437651e3\">9ff8bdc</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/4c8ba968b31a6fb3df942eb7756933acc45a3620\">4c8ba96</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
