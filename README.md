@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Soft-Matter-Singularities-paper-figures](https://github.com/comphy-lab/Soft-Matter-Singularities-paper-figures)
+### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 
-No description available • Python
+No description available • CSS
 
 <!--END_SECTION:latest-repo-->
 
