@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
-2. 🎉 Merged PR [#10](https://github.com/VatsalSy/VatsalSy/pull/10) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-3. ❌ Closed PR [#138](https://github.com/VatsalSy/qcc-lsp/pull/138) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. 🗣 Commented on [#138](https://github.com/VatsalSy/qcc-lsp/pull/138#issuecomment-4951642499) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-5. ❌ Closed PR [#137](https://github.com/VatsalSy/qcc-lsp/pull/137) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+1. 🎉 Merged PR [#130](https://github.com/VatsalSy/qcc-lsp/pull/130) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🎉 Merged PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
+3. 🎉 Merged PR [#10](https://github.com/VatsalSy/VatsalSy/pull/10) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. ❌ Closed PR [#138](https://github.com/VatsalSy/qcc-lsp/pull/138) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#138](https://github.com/VatsalSy/qcc-lsp/pull/138#issuecomment-4951642499) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ---
