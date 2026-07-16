@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-No description available • TypeScript
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
 
 <!--END_SECTION:latest-repo-->
 
