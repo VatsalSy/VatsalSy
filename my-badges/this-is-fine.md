@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/55">#55</a>: vs-branch-19
 - <a href="https://github.com/VatsalSy/CloudPull/pull/7">#7</a>: Feature/improve test coverage p1
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/56">#56</a>: Update documentation and add recent lab news
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/57">#57</a>: Update team page with titles, roles, and formatting improvements
@@ -13,7 +12,6 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/5">#5</a>: August update
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/7">#7</a>: Oct updates
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/60">#60</a>: October 2025 website updates - Team, research, teaching additions
-- <a href="https://github.com/comphy-lab/VatsalSy/pull/3">#3</a>: Fix site deployment at comphy-lab.org/VatsalSy
 - <a href="https://github.com/VatsalSy/CloudPull/pull/11">#11</a>: Consolidate dependency updates (closes #8, #9, #10)
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/11">#11</a>: Skip search update when db missing
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/12">#12</a>: Add CI guardrails for docs, lint, and search updates

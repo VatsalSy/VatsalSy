@@ -4,7 +4,13 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/ics2cal/commit/932ef6d980773004ffda16098a34c99c17e901b8">932ef6d</a>: chore: remove trailing newlines from issue templates
+- <a href="https://github.com/VatsalSy/qcc-lsp/commit/b15519ed3495f8f2348808cd25731ec26ac746b7">b15519e</a>: chore: batch bump dependabot updates (#139)
+
+* chore: batch dependabot dependency bumps
+
+* fix: resolve dependency manifest conflicts
+
+Rebuild the root manifest and lockfile from current main, retaining the validated lint-tool updates from the batch PR.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
