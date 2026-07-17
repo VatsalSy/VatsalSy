@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/VatsalSy/qcc-lsp/pull/139) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-2. 🗣 Commented on [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8#issuecomment-4985357136) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 🎉 Merged PR [#130](https://github.com/VatsalSy/qcc-lsp/pull/130) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
-4. 🎉 Merged PR [#3](https://github.com/AnjaliML/Bayesian-Contour-Predictor/pull/3) in [AnjaliML/Bayesian-Contour-Predictor](https://github.com/AnjaliML/Bayesian-Contour-Predictor)
-5. 🎉 Merged PR [#10](https://github.com/VatsalSy/VatsalSy/pull/10) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+1. ℹ️ Assigned PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 🎉 Merged PR [#11](https://github.com/VatsalSy/Vatsal_CV/pull/11) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. 🎉 Merged PR [#102](https://github.com/comphy-lab/comphy-lab.github.io/pull/102) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ℹ️ Assigned PR [#11](https://github.com/VatsalSy/Vatsal_CV/pull/11) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 <!--END_SECTION:activity-->
 
 ---
