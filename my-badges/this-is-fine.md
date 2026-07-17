@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/VatsalSy/CloudPull/pull/7">#7</a>: Feature/improve test coverage p1
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/56">#56</a>: Update documentation and add recent lab news
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/57">#57</a>: Update team page with titles, roles, and formatting improvements
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/58">#58</a>: JavaScript optimization: eliminate redundancy and improve performance
@@ -19,7 +18,6 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/23">#23</a>: Batch Dependabot security updates
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/25">#25</a>: Align weekly tests Node version
 - <a href="https://github.com/VatsalSy/qcc-lsp/pull/113">#113</a>: Batch dependabot bumps for ESLint and LSP
-- <a href="https://github.com/VatsalSy/CloudPull/pull/1">#1</a>: Complete CloudPull implementation with CLI, sync engine, and documentation
 - <a href="https://github.com/VatsalSy/CloudPull/pull/12">#12</a>: fix: improve CI stability and add sync package tests
 
 
