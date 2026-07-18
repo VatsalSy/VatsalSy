@@ -18,6 +18,7 @@ Pull requests:
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/23">#23</a>: Batch Dependabot security updates
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/25">#25</a>: Align weekly tests Node version
 - <a href="https://github.com/VatsalSy/qcc-lsp/pull/113">#113</a>: Batch dependabot bumps for ESLint and LSP
+- <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/101">#101</a>: Add in-house contact card
 - <a href="https://github.com/VatsalSy/CloudPull/pull/12">#12</a>: fix: improve CI stability and add sync package tests
 
 
