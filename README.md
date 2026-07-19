@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 💪 Opened PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#11](https://github.com/VatsalSy/Vatsal_CV/pull/11) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-4. 🎉 Merged PR [#102](https://github.com/comphy-lab/comphy-lab.github.io/pull/102) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ℹ️ Assigned PR [#11](https://github.com/VatsalSy/Vatsal_CV/pull/11) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+1. 🎉 Merged PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ℹ️ Assigned PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 💪 Opened PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🎉 Merged PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ℹ️ Assigned PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
