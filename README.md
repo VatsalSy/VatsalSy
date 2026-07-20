@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-2. 🗣 Commented on [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16#issuecomment-5020136884) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 🔒 Closed issue [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-4. 🗣 Commented on [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14#issuecomment-5020135761) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-5. 🔒 Closed issue [#11](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/11) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. 🚀 Published release [v2026-07-20](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-07-20) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 🔒 Closed issue [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+3. 🗣 Commented on [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16#issuecomment-5020136884) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+4. 🔒 Closed issue [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+5. 🗣 Commented on [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14#issuecomment-5020135761) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
 <!--END_SECTION:activity-->
 
 ---
