@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. ℹ️ Assigned PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 💪 Opened PR [#104](https://github.com/comphy-lab/comphy-lab.github.io/pull/104) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ℹ️ Assigned PR [#103](https://github.com/comphy-lab/comphy-lab.github.io/pull/103) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🔒 Closed issue [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+2. 🗣 Commented on [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16#issuecomment-5020136884) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+3. 🔒 Closed issue [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+4. 🗣 Commented on [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14#issuecomment-5020135761) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+5. 🔒 Closed issue [#11](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/11) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
 <!--END_SECTION:activity-->
 
 ---
