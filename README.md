@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2026-07-20](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-07-20) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
-2. 🔒 Closed issue [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-3. 🗣 Commented on [#16](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/16#issuecomment-5020136884) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-4. 🔒 Closed issue [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
-5. 🗣 Commented on [#14](https://github.com/comphy-lab/Contact-line-subgrid-modeling/issues/14#issuecomment-5020135761) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+1. ❌ Closed PR [#15](https://github.com/VatsalSy/CloudPull/pull/15) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+2. ❌ Closed PR [#16](https://github.com/VatsalSy/CloudPull/pull/16) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+3. 🗣 Commented on [#15](https://github.com/VatsalSy/CloudPull/pull/15#issuecomment-5027827366) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+4. 🗣 Commented on [#16](https://github.com/VatsalSy/CloudPull/pull/16#issuecomment-5027827362) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
+5. 🚀 Published release [v2026-07-20](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-07-20) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
 <!--END_SECTION:activity-->
 
 ---
