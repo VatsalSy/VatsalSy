@@ -26,7 +26,6 @@ Commits:
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/b4d4ecd6101577b5f731e1bd67d5bdb207d25ab5">b4d4ecd</a>
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/07f68d94db18a287cf65ed3cb930660173e560cf">07f68d9</a>
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/fe6f48c5ab28f7085d687a635a1d5f694eb7a52b">fe6f48c</a>
-- <a href="https://github.com/VatsalSy/extensions/commit/97abf83fa0c3e3bfaa5d7ce2f497b37039a6817b">97abf83</a>
 - <a href="https://github.com/VatsalSy/comphy-zed-themes/commit/f936400e39d2feffcc04e756da13a8c4c65a5fbf">f936400</a>
 - <a href="https://github.com/VatsalSy/comphy-zed-themes/commit/0686edfd518dede5d5a2a6c495e0074bc1fc2f1d">0686edf</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/531ab0c125ab22d19ed1e37d24d720e92a18b3a0">531ab0c</a>
@@ -59,11 +58,6 @@ Commits:
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/83129ae033cf77cb990680667f6ee9a4edc15998">83129ae</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/e560c9ee4d8720398833f2c33851898f232e6f89">e560c9e</a>
 - <a href="https://github.com/VatsalSy/RemindersSync/commit/ac9d5666364aae297cecf58c113429d5c320433f">ac9d566</a>
-- <a href="https://github.com/VatsalSy/raycast-extensions/commit/d42c13f0b852e1574a0d3bfd045db94af37831c7">d42c13f</a>
-- <a href="https://github.com/VatsalSy/raycast-extensions/commit/62dfa39c050138fdb2ebd19aac8393bd67855235">62dfa39</a>
-- <a href="https://github.com/VatsalSy/raycast-extensions/commit/92f93804a9fb79a66fb2391062809d9671d88391">92f9380</a>
-- <a href="https://github.com/VatsalSy/raycast-extensions/commit/d545015bf5b06655ba1e1391074f73c0b00102d6">d545015</a>
-- <a href="https://github.com/VatsalSy/raycast-extensions/commit/5584ab40f6b6a0c510048db801b5cdd34fd82fbd">5584ab4</a>
 - <a href="https://github.com/VatsalSy/commits-readme-stats/commit/9194bdf4c3cc5759255300a12bee6c3f12cc76ed">9194bdf</a>
 - <a href="https://github.com/VatsalSy/commits-readme-stats/commit/2b45f546dac9547b3c3ccf6e8e1757ad317824e2">2b45f54</a>
 - <a href="https://github.com/VatsalSy/commits-readme-stats/commit/8554c15a8d975d28f86e3df393704306771bae4b">8554c15</a>
