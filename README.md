@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/VatsalSy/CloudPull/pull/15) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-2. ❌ Closed PR [#16](https://github.com/VatsalSy/CloudPull/pull/16) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-3. 🗣 Commented on [#15](https://github.com/VatsalSy/CloudPull/pull/15#issuecomment-5027827366) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-4. 🗣 Commented on [#16](https://github.com/VatsalSy/CloudPull/pull/16#issuecomment-5027827362) in [VatsalSy/CloudPull](https://github.com/VatsalSy/CloudPull)
-5. 🚀 Published release [v2026-07-20](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-07-20) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 🎉 Merged PR [#15](https://github.com/VatsalSy/VatsalSy/pull/15) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+2. 🗣 Commented on [#15](https://github.com/VatsalSy/VatsalSy/pull/15#issuecomment-5085300906) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+3. 💪 Opened PR [#15](https://github.com/VatsalSy/VatsalSy/pull/15) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. 🎉 Merged PR [#107](https://github.com/VatsalSy/commits-readme-stats/pull/107) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🗣 Commented on [#107](https://github.com/VatsalSy/commits-readme-stats/pull/107#issuecomment-5085288110) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
