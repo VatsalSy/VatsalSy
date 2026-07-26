@@ -8,11 +8,75 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: my-badges
+  cancel-in-progress: false
+
 jobs:
   my-badges:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
+      - name: Checkout profile
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate badge candidate
+        run: npx --yes update-my-badges@1.0.247 "${{ github.repository_owner }}" --dry-run
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.MY_BADGES_TOKEN || secrets.GH_COMMIT_TOKEN || github.token }}
+
+      - name: Guard historical achievements
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          baseline='my-badges/badges.lock'
+          candidate='repo/my-badges/my-badges.json'
+          candidate_readme='repo/README.md'
+
+          [[ -s "$baseline" ]]
+          jq -e 'type == "array" and length > 0' "$candidate" >/dev/null
+
+          missing="$(
+            comm -23 \
+              <(sort -u "$baseline") \
+              <(jq -r '.[].id' "$candidate" | sort -u)
+          )"
+          if [[ -n "$missing" ]]; then
+            echo 'Refusing to delete historical badge IDs:'
+            echo "$missing"
+            exit 1
+          fi
+
+          candidate_count="$(jq 'length' "$candidate")"
+          readme_count="$(
+            sed -n '/<!-- my-badges start -->/,/<!-- my-badges end -->/p' \
+              "$candidate_readme" |
+              grep -c '<a href="my-badges/'
+          )"
+          if [[ "$candidate_count" -ne "$readme_count" ]]; then
+            echo "Candidate mismatch: JSON has $candidate_count badges; README has $readme_count."
+            exit 1
+          fi
+
+          echo "Validated $candidate_count badges; no historical achievements were removed."
+
+      - name: Publish badge updates
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "$(git -C repo status --porcelain)" ]]; then
+            echo 'Badges are already current.'
+            exit 0
+          fi
+
+          git -C repo add README.md my-badges
+          git -C repo commit -m 'Update badges'
+          git -C repo push
