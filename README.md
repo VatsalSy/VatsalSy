@@ -147,7 +147,7 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 </div>
 
 <!--START_SECTION:github-stats-->
-**My Total Overall Commits: 7478** 
+**Accessible unique commits across repository branches: 7478**
 
 **I'm an Early 🐤** 
 
@@ -171,6 +171,8 @@ Sunday                   1272 commits        ████░░░░░░░�
 
 
 <!--END_SECTION:github-stats-->
+
+<sub>GitHub's contribution total includes public/default-branch commits, private or restricted activity, issues, pull requests, reviews, and repository creation. The commit figure above is a separate crawl of unique authored Git objects reachable through currently accessible branches, so the two totals are intentionally not equal.</sub>
 
 </details>
 
