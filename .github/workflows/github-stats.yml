@@ -1,7 +1,7 @@
 name: GitHub Stats Update
 on:
   schedule:
-    - cron: '0 3 * * *'  # Complete branch-history crawl once daily
+    - cron: '0 3 * * *'  # Complete default-branch crawl once daily
   workflow_dispatch:      # Allows manual trigger
 
 concurrency:
@@ -11,7 +11,7 @@ concurrency:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 60
     permissions:
       contents: write
     steps:
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
 
       - name: Generate Stats
-        uses: VatsalSy/commits-readme-stats@c99b9539ba435cd29c66f7084264bc9c47e7af84
+        uses: VatsalSy/commits-readme-stats@1265d88aecad9b64cde7bbf48b5752e02942aaf6
         with:
           GH_COMMIT_TOKEN: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
           SHOW_COMMIT: true
