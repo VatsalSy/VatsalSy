@@ -172,7 +172,7 @@ Sunday                   1272 commits        ████░░░░░░░�
 
 <!--END_SECTION:github-stats-->
 
-<sub>GitHub's contribution total includes public/default-branch commits, private or restricted activity, issues, pull requests, reviews, and repository creation. The commit figure above is a separate crawl of unique authored Git objects reachable through currently accessible branches, so the two totals are intentionally not equal.</sub>
+<sub>GitHub's contribution calendar counts events, not commits: public/default-branch commits, private or restricted activity, issues, pull requests, reviews, and repository creation. The custom total above counts globally deduplicated, primary-authored Git objects reachable from default branches visible to the action token at its last successful crawl; inaccessible repositories, topic-branch-only commits, unlinked authors, and rewritten history are excluded.</sub>
 
 </details>
 

@@ -14,8 +14,8 @@ This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist
 The repository uses several automated workflows that run on schedule:
 
 ### 1. GitHub Stats Update (`.github/workflows/github-stats.yml`)
-- **Schedule**: Every 4 hours
-- **Purpose**: Updates commit statistics and activity metrics in README
+- **Schedule**: Daily at 03:00 UTC
+- **Purpose**: Updates bounded default-branch commit statistics in README
 - **Manual trigger**: Available via workflow_dispatch
 
 ### 2. My Badges (`.github/workflows/my-badges.yml`)
