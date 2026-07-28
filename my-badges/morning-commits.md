@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/VatsalSy/VatsalSy/commit/9a41e630d2becf2b99c6bffdf575852c83cef536">9a41e63</a>
+- <a href="https://github.com/VatsalSy/VatsalSy/commit/69cb46bb7e1765e3fce518d03e27774945dfa86f">69cb46b</a>
+- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/c3818b09d4628f9d0383c089acca6eb52e88a170">c3818b0</a>
+- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/46fcfb462c8bb0615685721fd395656e1b4928b9">46fcfb4</a>
+- <a href="https://github.com/VatsalSy/commits-readme-stats/commit/224d085313d2a93ad300d7e90f08f67eec5d01e1">224d085</a>
 - <a href="https://github.com/VatsalSy/VatsalSy/commit/2480c205d964025e867022f10b99a979e09b4e07">2480c20</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/1644a05fd26ca2c2b132fdebc051f5ae0b2900ad">1644a05</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/10bdea6f25ca8db35d06b4624e7e32b3d4f9adc0">10bdea6</a>
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/a58b3f5f788cae15b3aebcbd31edb77d2acea993">a58b3f5</a>
-- <a href="https://github.com/VatsalSy/Zotero2Readwise-Sync/commit/31582afbe7e2e33e5713f877b544a1f8bfe9706b">31582af</a>
-- <a href="https://github.com/VatsalSy/Vatsal_CV/commit/b486505d45bd4488cb5d900488429588664cf460">b486505</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
