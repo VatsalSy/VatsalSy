@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/VatsalSy/VatsalSy/pull/16) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-2. 🗣 Commented on [#16](https://github.com/VatsalSy/VatsalSy/pull/16#issuecomment-5088150166) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-3. 💪 Opened PR [#16](https://github.com/VatsalSy/VatsalSy/pull/16) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-4. 🎉 Merged PR [#108](https://github.com/VatsalSy/commits-readme-stats/pull/108) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🗣 Commented on [#108](https://github.com/VatsalSy/commits-readme-stats/pull/108#issuecomment-5088124933) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 🎉 Merged PR [#2](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/2) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+2. 🎉 Merged PR [#9](https://github.com/comphy-lab/comphy-search/pull/9) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+3. 💪 Opened PR [#2](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/2) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+4. 💪 Opened PR [#9](https://github.com/comphy-lab/comphy-search/pull/9) in [comphy-lab/comphy-search](https://github.com/comphy-lab/comphy-search)
+5. 🎉 Merged PR [#16](https://github.com/VatsalSy/VatsalSy/pull/16) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
