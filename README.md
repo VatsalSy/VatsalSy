@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+### [Gerris](https://github.com/comphy-lab/Gerris)
 
-No description available • C ⭐ 1
+No description available • C
 
 <!--END_SECTION:latest-repo-->
 
