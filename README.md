@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/comphy-lab/VatsalSy/pull/33) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. 🎉 Merged PR [#1](https://github.com/comphy-lab/Gerris/pull/1) in [comphy-lab/Gerris](https://github.com/comphy-lab/Gerris)
-3. 💪 Opened PR [#1](https://github.com/comphy-lab/Gerris/pull/1) in [comphy-lab/Gerris](https://github.com/comphy-lab/Gerris)
-4. ℹ️ Assigned PR [#33](https://github.com/comphy-lab/VatsalSy/pull/33) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. 💪 Opened PR [#33](https://github.com/comphy-lab/VatsalSy/pull/33) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 🎉 Merged PR [#8](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/8) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 🎉 Merged PR [#33](https://github.com/comphy-lab/VatsalSy/pull/33) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+3. 🎉 Merged PR [#1](https://github.com/comphy-lab/Gerris/pull/1) in [comphy-lab/Gerris](https://github.com/comphy-lab/Gerris)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/Gerris/pull/1) in [comphy-lab/Gerris](https://github.com/comphy-lab/Gerris)
+5. ℹ️ Assigned PR [#33](https://github.com/comphy-lab/VatsalSy/pull/33) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ---
