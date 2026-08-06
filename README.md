@@ -147,26 +147,26 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 </div>
 
 <!--START_SECTION:github-stats-->
-**Unique authored commits on repository default branches (last successful crawl on 5 August 2026 at 06:13 UTC): 11951** 
+**Unique authored commits on repository default branches (last successful crawl on 6 August 2026 at 06:16 UTC): 11996** 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2680 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-🌆 Daytime                3838 commits        ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌃 Evening                4037 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌙 Night                  1396 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌞 Morning                2691 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+🌆 Daytime                3850 commits        ████████░░░░░░░░░░░░░░░░░   32.09 % 
+🌃 Evening                4055 commits        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+🌙 Night                  1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Tuesday                  1792 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Wednesday                1549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Thursday                 1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   1557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Sunday                   1843 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Monday                   1845 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Tuesday                  1792 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                1590 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 1417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Friday                   1557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Sunday                   1843 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 ```
 
 
@@ -185,28 +185,28 @@ Sunday                   1843 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages
-Markdown                 15 hrs 51 mins      ████████████████░░░░░░░░░   62.95 % 
-Python                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-LaTeX                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Swift                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 38 hrs 14 mins      █████████████░░░░░░░░░░░░   52.51 % 
+JSON                     12 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Python                   8 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+C                        4 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Bash                     3 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors
-VS Code                  22 hrs 1 min        ███████████████░░░░░░░░░░   58.36 % 
-Ghostty                  6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Slack                    6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Obsidian                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Claude Code              42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  46 hrs 41 mins      █████████████░░░░░░░░░░░░   50.03 % 
+Claude Code              31 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Ghostty                  7 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Slack                    5 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Zotero                   40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects
-cowork-os                28 hrs 5 mins       ███████████████████░░░░░░   74.41 % 
-jarvis-skills            1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-obsidian                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-MATLAB-postProcessing    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-comphy-dashboard         1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+cowork-os                52 hrs 56 mins      ██████████████░░░░░░░░░░░   56.74 % 
+comphy-mac               8 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Asymmetries-in-coalescenc5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+MATLAB-postProcessing    4 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+benchmark.tex            2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System
-Mac                      37 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      93 hrs 19 mins      █████████████████████████   100.00 % 
 
 ```
 <!--END_SECTION:wakatime-->
