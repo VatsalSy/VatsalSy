@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/8) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-2. ❗ Opened issue [#7](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/7) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-3. ❗ Opened issue [#6](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/6) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-4. ❗ Opened issue [#5](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/5) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-5. ❗ Opened issue [#4](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/4) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+1. 🎉 Merged PR [#18](https://github.com/comphy-lab/Contact-line-subgrid-modeling/pull/18) in [comphy-lab/Contact-line-subgrid-modeling](https://github.com/comphy-lab/Contact-line-subgrid-modeling)
+2. 💪 Opened PR [#8](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/8) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+3. ❗ Opened issue [#7](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/7) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+4. ❗ Opened issue [#6](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/6) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+5. ❗ Opened issue [#5](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/5) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
 <!--END_SECTION:activity-->
 
 ---
