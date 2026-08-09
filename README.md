@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/8) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-2. 🎉 Merged PR [#2](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/2) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-3. 🔒 Closed issue [#6](https://github.com/comphy-lab/Elastic-Taylor-Culick/issues/6) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-4. 🗣 Commented on [#8](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/8#issuecomment-5220074809) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-5. 🗣 Commented on [#2](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/2#issuecomment-5220074676) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+1. 🚀 Published release [CoMPhy Gruvbox 2.1.0](https://github.com/comphy-lab/comphy-obsidian-theme/releases/tag/2.1.0) in [comphy-lab/comphy-obsidian-theme](https://github.com/comphy-lab/comphy-obsidian-theme)
+2. 🚀 Published release [v1.1.0 — plum style](https://github.com/comphy-lab/comphy-nvim-theme/releases/tag/v1.1.0) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
+3. 🎉 Merged PR [#3](https://github.com/comphy-lab/comphy-nvim-theme/pull/3) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
+4. 💪 Opened PR [#3](https://github.com/comphy-lab/comphy-nvim-theme/pull/3) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
+5. 💪 Opened PR [#7153](https://github.com/zed-industries/extensions/pull/7153) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 <!--END_SECTION:activity-->
 
 ---
