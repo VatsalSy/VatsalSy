@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7153](https://github.com/zed-industries/extensions/pull/7153) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-2. 🚀 Published release [CoMPhy Gruvbox 2.1.0](https://github.com/comphy-lab/comphy-obsidian-theme/releases/tag/2.1.0) in [comphy-lab/comphy-obsidian-theme](https://github.com/comphy-lab/comphy-obsidian-theme)
-3. 🚀 Published release [v1.1.0 — plum style](https://github.com/comphy-lab/comphy-nvim-theme/releases/tag/v1.1.0) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
-4. 🎉 Merged PR [#3](https://github.com/comphy-lab/comphy-nvim-theme/pull/3) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
-5. 💪 Opened PR [#3](https://github.com/comphy-lab/comphy-nvim-theme/pull/3) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
+1. 🎉 Merged PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 💪 Opened PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 🎉 Merged PR [#7153](https://github.com/zed-industries/extensions/pull/7153) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+4. 🚀 Published release [CoMPhy Gruvbox 2.1.0](https://github.com/comphy-lab/comphy-obsidian-theme/releases/tag/2.1.0) in [comphy-lab/comphy-obsidian-theme](https://github.com/comphy-lab/comphy-obsidian-theme)
+5. 🚀 Published release [v1.1.0 — plum style](https://github.com/comphy-lab/comphy-nvim-theme/releases/tag/v1.1.0) in [comphy-lab/comphy-nvim-theme](https://github.com/comphy-lab/comphy-nvim-theme)
 <!--END_SECTION:activity-->
 
 ---
