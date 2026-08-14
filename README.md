@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/10) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 🎉 Merged PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 💪 Opened PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-4. 🎉 Merged PR [#7153](https://github.com/zed-industries/extensions/pull/7153) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-5. 🚀 Published release [CoMPhy Gruvbox 2.1.0](https://github.com/comphy-lab/comphy-obsidian-theme/releases/tag/2.1.0) in [comphy-lab/comphy-obsidian-theme](https://github.com/comphy-lab/comphy-obsidian-theme)
+1. 💪 Opened PR [#19](https://github.com/comphy-lab/basilisk-C/pull/19) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+2. 💪 Opened PR [#3](https://github.com/comphy-lab/bview-local-client/pull/3) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
+3. 💪 Opened PR [#10](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/10) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+4. 🎉 Merged PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+5. 💪 Opened PR [#9](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/9) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 <!--END_SECTION:activity-->
 
 ---
