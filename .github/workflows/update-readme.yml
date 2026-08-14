@@ -11,7 +11,133 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v5
-      - uses: jamesgeorge007/github-activity-readme@v0.5.0
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+      - name: Update recent activity
+        uses: actions/github-script@v9
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const path = "README.md";
+            const maxLines = 5;
+            const filterEvents = new Set([
+              "IssueCommentEvent",
+              "IssuesEvent",
+              "PullRequestEvent",
+              "ReleaseEvent",
+            ]);
+
+            const capitalize = (value) =>
+              value.slice(0, 1).toUpperCase() + value.slice(1);
+
+            const toUrlFormat = (item) => {
+              if (typeof item !== "object") {
+                return "[" + item + "](https://github.com/" + item + ")";
+              }
+
+              if (Object.hasOwn(item.payload, "comment")) {
+                return "[#" + item.payload.issue.number + "](" + item.payload.comment.html_url + ")";
+              }
+
+              if (Object.hasOwn(item.payload, "issue")) {
+                return "[#" + item.payload.issue.number + "](" + item.payload.issue.html_url + ")";
+              }
+
+              if (Object.hasOwn(item.payload, "pull_request")) {
+                const number = item.payload.pull_request.number;
+                return "[#" + number + "](https://github.com/" + item.repo.name + "/pull/" + number + ")";
+              }
+
+              if (Object.hasOwn(item.payload, "release")) {
+                const release = item.payload.release.name || item.payload.release.tag_name;
+                return "[" + release + "](" + item.payload.release.html_url + ")";
+              }
+            };
+
+            const serializers = {
+              IssueCommentEvent: (item) =>
+                "🗣 Commented on " + toUrlFormat(item) + " in " + toUrlFormat(item.repo.name),
+              IssuesEvent: (item) => {
+                const emoji = {
+                  opened: "❗",
+                  reopened: "🔓",
+                  closed: "🔒",
+                }[item.payload.action] || "ℹ️";
+                return emoji + " " + capitalize(item.payload.action) + " issue " +
+                  toUrlFormat(item) + " in " + toUrlFormat(item.repo.name);
+              },
+              PullRequestEvent: (item) => {
+                const details = {
+                  opened: ["💪", "Opened"],
+                  closed: ["❌", "Closed"],
+                  merged: ["🎉", "Merged"],
+                }[item.payload.action] || ["ℹ️", capitalize(item.payload.action)];
+                return details[0] + " " + details[1] + " PR " + toUrlFormat(item) +
+                  " in " + toUrlFormat(item.repo.name);
+              },
+              ReleaseEvent: (item) =>
+                "🚀 " + capitalize(item.payload.action) + " release " + toUrlFormat(item),
+            };
+
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: owner,
+              per_page: 100,
+            });
+
+            const activity = events
+              .filter((event) => filterEvents.has(event.type))
+              .slice(0, maxLines)
+              .map((event) => serializers[event.type](event));
+
+            if (activity.length === 0) {
+              core.info("No supported public activity found; leaving README unchanged.");
+              return;
+            }
+
+            const { data: file } = await github.rest.repos.getContent({
+              owner,
+              repo,
+              path,
+              ref: context.sha,
+            });
+
+            if (Array.isArray(file) || file.type !== "file") {
+              core.setFailed(path + " was not returned as a file.");
+              return;
+            }
+
+            const readme = Buffer.from(file.content, file.encoding).toString("utf8");
+            const lines = readme.split("\n");
+            const startMarker = "<!--START_SECTION:activity-->";
+            const endMarker = "<!--END_SECTION:activity-->";
+            const start = lines.findIndex((line) => line.trim() === startMarker);
+            const end = lines.findIndex((line) => line.trim() === endMarker);
+
+            if (start === -1 || end === -1 || end <= start) {
+              core.setFailed("Could not find a valid activity section in " + path + ".");
+              return;
+            }
+
+            const replacement = activity.map((line, index) => (index + 1) + ". " + line);
+            const updated = [
+              ...lines.slice(0, start + 1),
+              ...replacement,
+              ...lines.slice(end),
+            ].join("\n");
+
+            if (updated === readme) {
+              core.info("No changes detected; leaving README unchanged.");
+              return;
+            }
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path,
+              branch: context.ref.replace("refs/heads/", ""),
+              message: ":zap: Update README with the recent activity",
+              content: Buffer.from(updated, "utf8").toString("base64"),
+              sha: file.sha,
+            });
+
+            core.info("Updated " + path + " with the recent activity.");
