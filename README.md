@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-2. 💪 Opened PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-3. 🎉 Merged PR [#4](https://github.com/comphy-lab/bview-local-client/pull/4) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-4. 💪 Opened PR [#4](https://github.com/comphy-lab/bview-local-client/pull/4) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
-5. 🎉 Merged PR [#19](https://github.com/comphy-lab/basilisk-C/pull/19) in [comphy-lab/basilisk-C](https://github.com/comphy-lab/basilisk-C)
+1. 🎉 Merged PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+2. 🗣 Commented on [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10#issuecomment-5308282399) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+3. ℹ️ Assigned PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+4. 💪 Opened PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+5. 🎉 Merged PR [#4](https://github.com/comphy-lab/bview-local-client/pull/4) in [comphy-lab/bview-local-client](https://github.com/comphy-lab/bview-local-client)
 <!--END_SECTION:activity-->
 
 ---
