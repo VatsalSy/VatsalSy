@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [bview-local-client](https://github.com/comphy-lab/bview-local-client)
+### [Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
 
-Self-contained, offline-capable local server for the Basilisk View client • JavaScript ⭐ 1
+This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
 
 <!--END_SECTION:latest-repo-->
 
