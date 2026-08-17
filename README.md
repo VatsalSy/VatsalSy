@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+### [comphy-python101](https://github.com/comphy-lab/comphy-python101)
 
-This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
+Mechanism-first Python onboarding for scientific computing in CoMPhy Lab • Python
 
 <!--END_SECTION:latest-repo-->
 
