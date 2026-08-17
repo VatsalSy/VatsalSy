@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-python101](https://github.com/comphy-lab/comphy-python101)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-Mechanism-first Python onboarding for scientific computing in CoMPhy Lab • Python
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
 
 <!--END_SECTION:latest-repo-->
 
