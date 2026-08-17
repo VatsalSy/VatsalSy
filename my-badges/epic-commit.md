@@ -4,7 +4,6 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/zed-extensions/commit/97abf83fa0c3e3bfaa5d7ce2f497b37039a6817b">97abf83</a>
 - <a href="https://github.com/AnjaliML/DataScience-Python101/commit/7f9c5ece6acfc8d1bbd774a90d49b46af7881aca">7f9c5ec</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/9d62d030cc23747f5fde27222fcd1a5e52fe3df9">9d62d03</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/d7624b7d222fe887b362db61c7c967ae62bfc7fc">d7624b7</a>
