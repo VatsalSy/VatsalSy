@@ -105,9 +105,9 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#10](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/10) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 2. 🗣 Commented on [#10](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/10#issuecomment-5309125945) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 🎉 Merged PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-4. 🗣 Commented on [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10#issuecomment-5308282399) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
-5. ℹ️ Assigned PR [#10](https://github.com/comphy-lab/Elastic-Taylor-Culick/pull/10) in [comphy-lab/Elastic-Taylor-Culick](https://github.com/comphy-lab/Elastic-Taylor-Culick)
+3. 🎉 Merged PR [#10](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic/pull/10) in [comphy-lab/Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
+4. 🗣 Commented on [#10](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic/pull/10#issuecomment-5308282399) in [comphy-lab/Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
+5. ℹ️ Assigned PR [#10](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic/pull/10) in [comphy-lab/Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
 <!--END_SECTION:activity-->
 
 ---
