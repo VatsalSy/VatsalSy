@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
+### [Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
 
-Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) • C
+This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
 
 <!--END_SECTION:latest-repo-->
 
