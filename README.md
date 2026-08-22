@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
+### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
 
-This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
+version, updated every day • C ⭐ 20
 
 <!--END_SECTION:latest-repo-->
 
