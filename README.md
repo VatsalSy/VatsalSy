@@ -103,11 +103,8 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/comphy-lab/VatsalSy/pull/37) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. 🎉 Merged PR [#117](https://github.com/VatsalSy/commits-readme-stats/pull/117) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. 💪 Opened PR [#37](https://github.com/comphy-lab/VatsalSy/pull/37) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. 💪 Opened PR [#117](https://github.com/VatsalSy/commits-readme-stats/pull/117) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🎉 Merged PR [#10](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/10) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+1. 🗣 Commented on [#1](https://github.com/VatsalSy/rayleigh-coding/pull/1#issuecomment-5410635205) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+2. 💪 Opened PR [#1](https://github.com/VatsalSy/rayleigh-coding/pull/1) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 <!--END_SECTION:activity-->
 
 ---
