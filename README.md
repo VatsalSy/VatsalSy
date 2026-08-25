@@ -103,8 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/VatsalSy/rayleigh-coding/pull/1#issuecomment-5410635205) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-2. 💪 Opened PR [#1](https://github.com/VatsalSy/rayleigh-coding/pull/1) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+1. 🎉 Merged PR [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+2. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412351744) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+3. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412239176) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+4. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412191555) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+5. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412122838) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 <!--END_SECTION:activity-->
 
 ---
