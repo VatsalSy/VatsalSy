@@ -108,7 +108,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/b15519ed3495f8f2348808cd25731ec26ac746b7\">b15519e</a>: chore: batch bump dependabot updates (#139)\n\n* chore: batch dependabot dependency bumps\n\n* fix: resolve dependency manifest conflicts\n\nRebuild the root manifest and lockfile from current main, retaining the validated lint-tool updates from the batch PR.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/rayleigh-coding/commit/36b6cec31279683a4b60e986d8268823d928d653\">36b6cec</a>: chore: verify MCP write access",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 932 times)\n2. update (used 726 times)\n3. new (used 338 times)\n4. changes (used 311 times)\n5. commit (used 276 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1139 times)\n2. update (used 727 times)\n3. new (used 338 times)\n4. changes (used 311 times)\n5. commit (used 277 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

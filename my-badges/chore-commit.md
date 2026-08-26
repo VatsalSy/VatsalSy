@@ -4,13 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/VatsalSy/qcc-lsp/commit/b15519ed3495f8f2348808cd25731ec26ac746b7">b15519e</a>: chore: batch bump dependabot updates (#139)
-
-* chore: batch dependabot dependency bumps
-
-* fix: resolve dependency manifest conflicts
-
-Rebuild the root manifest and lockfile from current main, retaining the validated lint-tool updates from the batch PR.
+- <a href="https://github.com/VatsalSy/rayleigh-coding/commit/36b6cec31279683a4b60e986d8268823d928d653">36b6cec</a>: chore: verify MCP write access
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
