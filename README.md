@@ -74,7 +74,7 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 ### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 
-Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. • Python ⭐ 1
+Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. • Python
 
 <!--END_SECTION:latest-repo-->
 
