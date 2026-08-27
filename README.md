@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+### [Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
 
-Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. • Python
+This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
 
 <!--END_SECTION:latest-repo-->
 
