@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-2. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412351744) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-3. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412239176) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-4. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412191555) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-5. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412122838) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+1. ℹ️ Assigned PR [#6](https://github.com/comphy-lab/Jumping-Drops/pull/6) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+2. 💪 Opened PR [#6](https://github.com/comphy-lab/Jumping-Drops/pull/6) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+3. 🎉 Merged PR [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+4. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412351744) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+5. 🗣 Commented on [#3](https://github.com/VatsalSy/rayleigh-coding/pull/3#issuecomment-5412239176) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 <!--END_SECTION:activity-->
 
 ---
