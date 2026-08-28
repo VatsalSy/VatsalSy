@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/comphy-lab/Bursting-Bubble/pull/9) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-2. ℹ️ Assigned PR [#9](https://github.com/comphy-lab/Bursting-Bubble/pull/9) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-3. 💪 Opened PR [#9](https://github.com/comphy-lab/Bursting-Bubble/pull/9) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-4. 🎉 Merged PR [#6](https://github.com/comphy-lab/Jumping-Drops/pull/6) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
-5. 🗣 Commented on [#6](https://github.com/comphy-lab/Jumping-Drops/pull/6#issuecomment-5437684451) in [comphy-lab/Jumping-Drops](https://github.com/comphy-lab/Jumping-Drops)
+1. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458082430) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458017876) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 💪 Opened PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+4. 🗣 Commented on [#11](https://github.com/comphy-lab/Bursting-Bubble/pull/11#issuecomment-5454331651) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+5. 🎉 Merged PR [#11](https://github.com/comphy-lab/Bursting-Bubble/pull/11) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 <!--END_SECTION:activity-->
 
 ---
