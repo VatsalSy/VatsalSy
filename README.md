@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458082430) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458017876) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 💪 Opened PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-4. 🗣 Commented on [#11](https://github.com/comphy-lab/Bursting-Bubble/pull/11#issuecomment-5454331651) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-5. 🎉 Merged PR [#11](https://github.com/comphy-lab/Bursting-Bubble/pull/11) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+1. 🎉 Merged PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+2. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458380551) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458082430) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+4. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458017876) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+5. 💪 Opened PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 <!--END_SECTION:activity-->
 
 ---
