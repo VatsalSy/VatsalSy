@@ -74,7 +74,7 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 ### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 
-Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Shell
+Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Python
 
 <!--END_SECTION:latest-repo-->
 
