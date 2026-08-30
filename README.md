@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
+### [MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
 
-version, updated every day • C ⭐ 20
+An extensible framework for multiphase flows with complex rheology, built on Basilisk C • C ⭐ 5
 
 <!--END_SECTION:latest-repo-->
 
