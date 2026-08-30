@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2026-08-30](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-08-30)
-2. 🎉 Merged PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 🗣 Commented on [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12#issuecomment-5463212627) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-4. 💪 Opened PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-5. 🎉 Merged PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+1. 🎉 Merged PR [#23](https://github.com/comphy-lab/Viscoelastic3D/pull/23) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+2. 🎉 Merged PR [#7](https://github.com/comphy-lab/MultiRheoFlow/pull/7) in [comphy-lab/MultiRheoFlow](https://github.com/comphy-lab/MultiRheoFlow)
+3. 🗣 Commented on [#23](https://github.com/comphy-lab/Viscoelastic3D/pull/23#issuecomment-5469526488) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+4. ℹ️ Assigned PR [#23](https://github.com/comphy-lab/Viscoelastic3D/pull/23) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
+5. 💪 Opened PR [#23](https://github.com/comphy-lab/Viscoelastic3D/pull/23) in [comphy-lab/Viscoelastic3D](https://github.com/comphy-lab/Viscoelastic3D)
 <!--END_SECTION:activity-->
 
 ---
