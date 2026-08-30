@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-2. 🗣 Commented on [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12#issuecomment-5463212627) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-3. 💪 Opened PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-4. 🎉 Merged PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
-5. 🗣 Commented on [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11#issuecomment-5458380551) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+1. 🚀 Published release [v2026-08-30](https://github.com/comphy-lab/basilisk-C/releases/tag/v2026-08-30)
+2. 🎉 Merged PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+3. 🗣 Commented on [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12#issuecomment-5463212627) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+4. 💪 Opened PR [#12](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/12) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+5. 🎉 Merged PR [#11](https://github.com/comphy-lab/Asymmetries-in-coalescence/pull/11) in [comphy-lab/Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
 <!--END_SECTION:activity-->
 
 ---
