@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/VatsalSy/commits-readme-stats/pull/118#issuecomment-5475706771) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-2. 🎉 Merged PR [#120](https://github.com/VatsalSy/commits-readme-stats/pull/120) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-3. ❌ Closed PR [#119](https://github.com/VatsalSy/commits-readme-stats/pull/119) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-4. ❌ Closed PR [#118](https://github.com/VatsalSy/commits-readme-stats/pull/118) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
-5. 🗣 Commented on [#119](https://github.com/VatsalSy/commits-readme-stats/pull/119#issuecomment-5475706934) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+1. 💪 Opened PR [#7434](https://github.com/zed-industries/extensions/pull/7434) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+2. 🎉 Merged PR [#4](https://github.com/comphy-lab/hyphal-flow/pull/4) in [comphy-lab/hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
+3. 🚀 Published release [v1.2.0](https://github.com/comphy-lab/comphy-zed-themes/releases/tag/v1.2.0)
+4. 🚀 Published release [v1.2.0](https://github.com/comphy-lab/comphy-nvim-theme/releases/tag/v1.2.0)
+5. 🚀 Published release [v4.2.0](https://github.com/comphy-lab/comphy-vscode-theme/releases/tag/v4.2.0)
 <!--END_SECTION:activity-->
 
 ---
