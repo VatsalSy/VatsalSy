@@ -5,9 +5,15 @@
 Commits:
 
 - <a href="https://github.com/AnjaliML/DataScience-Python101/commit/7f9c5ece6acfc8d1bbd774a90d49b46af7881aca">7f9c5ec</a>
+- <a href="https://github.com/comphy-lab/comphy-nvim-theme/commit/5199d58e56628b5c48279ece3c6b2a101d6f5bcb">5199d58</a>
+- <a href="https://github.com/comphy-lab/comphy-nvim-theme/commit/49bbc03aa7dccddb99c3c4c552cae3f5e0a3a6ff">49bbc03</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/9d62d030cc23747f5fde27222fcd1a5e52fe3df9">9d62d03</a>
 - <a href="https://github.com/VatsalSy/qcc-lsp/commit/d7624b7d222fe887b362db61c7c967ae62bfc7fc">d7624b7</a>
+- <a href="https://github.com/comphy-lab/comphy-obsidian-theme/commit/d88118ecdb1d695b61fc8b8c8326bd69dacc4d6f">d88118e</a>
+- <a href="https://github.com/comphy-lab/comphy-obsidian-theme/commit/b34ac528b501a7110e7c679651707ee2f306c1fc">b34ac52</a>
 - <a href="https://github.com/comphy-lab/comphy-obsidian-theme/commit/cdf1140f56990a2cccad7279f0b25b755ce6816a">cdf1140</a>
+- <a href="https://github.com/comphy-lab/comphy-vscode-theme/commit/8ee338d960f8a256bc7c1df01e295af5d4702da4">8ee338d</a>
+- <a href="https://github.com/comphy-lab/comphy-vscode-theme/commit/decaaab0748cb906939b8bfbdb7d1090dc0c7b97">decaaab</a>
 - <a href="https://github.com/comphy-lab/comphy-vscode-theme/commit/d41f0e464d42037b690afc44a266bd778f9afcaa">d41f0e4</a>
 - <a href="https://github.com/VatsalSy/zed-qcc/commit/958a3cdfb23dcaae744e69483a15f24eff11de4b">958a3cd</a>
 - <a href="https://github.com/VatsalSy/gruvbox_custom_crisp_themes.nvim/commit/226db2dc06a81805f0507f1651a0f786442a970a">226db2d</a>
@@ -27,6 +33,8 @@ Commits:
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/b4d4ecd6101577b5f731e1bd67d5bdb207d25ab5">b4d4ecd</a>
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/07f68d94db18a287cf65ed3cb930660173e560cf">07f68d9</a>
 - <a href="https://github.com/VatsalSy/omni-buffer/commit/fe6f48c5ab28f7085d687a635a1d5f694eb7a52b">fe6f48c</a>
+- <a href="https://github.com/comphy-lab/comphy-zed-themes/commit/19659e246df02eedc77cd4c31a46cd29c0fda930">19659e2</a>
+- <a href="https://github.com/comphy-lab/comphy-zed-themes/commit/82bd39d2673fa874e27e436243d3b48949e0bf29">82bd39d</a>
 - <a href="https://github.com/comphy-lab/comphy-zed-themes/commit/f936400e39d2feffcc04e756da13a8c4c65a5fbf">f936400</a>
 - <a href="https://github.com/comphy-lab/comphy-zed-themes/commit/0686edfd518dede5d5a2a6c495e0074bc1fc2f1d">0686edf</a>
 - <a href="https://github.com/VatsalSy/battery-batt-control/commit/531ab0c125ab22d19ed1e37d24d720e92a18b3a0">531ab0c</a>
