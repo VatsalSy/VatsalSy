@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-zed-themes](https://github.com/comphy-lab/comphy-zed-themes)
+### [hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
 
-No description available • Shell ⭐ 2
+My first computational fungal dynamics project • C
 
 <!--END_SECTION:latest-repo-->
 
