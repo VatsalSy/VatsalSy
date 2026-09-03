@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Asymmetries-in-coalescence](https://github.com/comphy-lab/Asymmetries-in-coalescence)
+### [hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
 
-Asymmetries in coalescence: size asymmetry. Still axially symmetric.  • Python
+My first computational fungal dynamics project • C
 
 <!--END_SECTION:latest-repo-->
 
