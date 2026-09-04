@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1150 times)\n2. update (used 727 times)\n3. new (used 338 times)\n4. changes (used 311 times)\n5. fix (used 279 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1152 times)\n2. update (used 727 times)\n3. new (used 338 times)\n4. changes (used 311 times)\n5. fix (used 279 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -255,7 +255,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/aba899e22a495dd1371a4ea7624ec37027673729\">aba899e</a>\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/e61267343c0fae7ac493781ce85b57719c80b1c5\">e612673</a>\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/19659e246df02eedc77cd4c31a46cd29c0fda930\">19659e2</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/b15519ed3495f8f2348808cd25731ec26ac746b7\">b15519e</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/a99acdb1d5e9698d71424096de7c2129d70acca6\">a99acdb</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/84c73326f72424e7e46189a0c556e884c258ec15\">84c7332</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/VatsalSy/Vatsal_CV/commit/a414e17a56ed27bd02c9aa01398da2e1d16cb8e5\">a414e17</a>\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/aba899e22a495dd1371a4ea7624ec37027673729\">aba899e</a>\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/e61267343c0fae7ac493781ce85b57719c80b1c5\">e612673</a>\n- <a href=\"https://github.com/comphy-lab/comphy-zed-themes/commit/19659e246df02eedc77cd4c31a46cd29c0fda930\">19659e2</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/b15519ed3495f8f2348808cd25731ec26ac746b7\">b15519e</a>\n- <a href=\"https://github.com/VatsalSy/qcc-lsp/commit/a99acdb1d5e9698d71424096de7c2129d70acca6\">a99acdb</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
