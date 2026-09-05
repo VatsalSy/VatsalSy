@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 
-This is the LaTeX source code of my CV • TeX ⭐ 11
+No description available • Python ⭐ 2
 
 <!--END_SECTION:latest-repo-->
 
