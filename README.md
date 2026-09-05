@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/VatsalSy/Vatsal_CV/pull/13) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-2. 💪 Opened PR [#13](https://github.com/VatsalSy/Vatsal_CV/pull/13) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
-3. 🎉 Merged PR [#7434](https://github.com/zed-industries/extensions/pull/7434) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-4. 💪 Opened PR [#7434](https://github.com/zed-industries/extensions/pull/7434) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-5. 🎉 Merged PR [#4](https://github.com/comphy-lab/hyphal-flow/pull/4) in [comphy-lab/hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
+1. ℹ️ Assigned PR [#2](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/2) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/2) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+3. 🎉 Merged PR [#13](https://github.com/VatsalSy/Vatsal_CV/pull/13) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+4. 💪 Opened PR [#13](https://github.com/VatsalSy/Vatsal_CV/pull/13) in [VatsalSy/Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+5. 🎉 Merged PR [#7434](https://github.com/zed-industries/extensions/pull/7434) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 <!--END_SECTION:activity-->
 
 ---
