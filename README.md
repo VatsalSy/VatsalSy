@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+### [hpc-basilisk-scaling](https://github.com/comphy-lab/hpc-basilisk-scaling)
 
-No description available • Python ⭐ 2
+Stock Basilisk MPI kernel scaling on MareNostrum5 GPP (EuroHPC Benchmark Access EHPC-BEN-2026B08-034) • Python
 
 <!--END_SECTION:latest-repo-->
 
