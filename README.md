@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [hpc-basilisk-scaling](https://github.com/comphy-lab/hpc-basilisk-scaling)
+### [bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
 
-Stock Basilisk MPI kernel scaling on MareNostrum5 GPP (EuroHPC Benchmark Access EHPC-BEN-2026B08-034) • Python
+Basilisk solver for drops and bubbles in capillary tubes (Bretherton film law). • C
 
 <!--END_SECTION:latest-repo-->
 
