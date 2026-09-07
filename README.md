@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+### [sl25](https://github.com/comphy-lab/sl25)
 
-No description available • Python ⭐ 2
+This is a website to render the results of SL theory, https://arxiv.org/abs/2408.12714 • JavaScript
 
 <!--END_SECTION:latest-repo-->
 
