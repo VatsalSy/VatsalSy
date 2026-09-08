@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [port-qr-codes](https://github.com/comphy-lab/port-qr-codes)
+### [bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
 
-No description available • Python
+Basilisk solver for drops and bubbles in capillary tubes (Bretherton film law). • C
 
 <!--END_SECTION:latest-repo-->
 
