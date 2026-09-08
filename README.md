@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#108](https://github.com/comphy-lab/comphy-lab.github.io/issues/108) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-2. 🗣 Commented on [#108](https://github.com/comphy-lab/comphy-lab.github.io/issues/108#issuecomment-5570217672) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-3. 🎉 Merged PR [#110](https://github.com/comphy-lab/comphy-lab.github.io/pull/110) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🗣 Commented on [#110](https://github.com/comphy-lab/comphy-lab.github.io/pull/110#issuecomment-5569376625) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. ℹ️ Assigned PR [#110](https://github.com/comphy-lab/comphy-lab.github.io/pull/110) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. ℹ️ Assigned PR [#3](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/3) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+2. 💪 Opened PR [#3](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/3) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+3. 🔒 Closed issue [#108](https://github.com/comphy-lab/comphy-lab.github.io/issues/108) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 🗣 Commented on [#108](https://github.com/comphy-lab/comphy-lab.github.io/issues/108#issuecomment-5570217672) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#110](https://github.com/comphy-lab/comphy-lab.github.io/pull/110) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ---
