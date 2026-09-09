@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+### [ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
 
-Basilisk solver for drops and bubbles in capillary tubes (Bretherton film law). • C
+Spontaneous symmetry breaking of self-propelled drops • C
 
 <!--END_SECTION:latest-repo-->
 
