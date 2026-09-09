@@ -18,6 +18,7 @@ Pull requests:
 - <a href="https://github.com/VatsalSy/qcc-lsp/pull/113">#113</a>: Batch dependabot bumps for ESLint and LSP
 - <a href="https://github.com/comphy-lab/comphy-lab.github.io/pull/101">#101</a>: Add in-house contact card
 - <a href="https://github.com/comphy-lab/VatsalSy/pull/33">#33</a>: Correct personal site path in documentation
+- <a href="https://github.com/comphy-lab/bretherton-drops-bubbles/pull/3">#3</a>: Add MPI execution and a Newtonian bubble report
 - <a href="https://github.com/VatsalSy/CloudPull/pull/12">#12</a>: fix: improve CI stability and add sync package tests
 
 
