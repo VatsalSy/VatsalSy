@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/comphy-lab/ActiveDrops/pull/1) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
-2. 💪 Opened PR [#1](https://github.com/comphy-lab/ActiveDrops/pull/1) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
-3. 💪 Opened PR [#2](https://github.com/comphy-lab/qr-codes/pull/2) in [comphy-lab/qr-codes](https://github.com/comphy-lab/qr-codes)
-4. 🎉 Merged PR [#3](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/3) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
-5. 🗣 Commented on [#3](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/3#issuecomment-5586780013) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+1. ℹ️ Assigned PR [#2](https://github.com/comphy-lab/active-drops-with-memory/pull/2) in [comphy-lab/active-drops-with-memory](https://github.com/comphy-lab/active-drops-with-memory)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/active-drops-with-memory/pull/2) in [comphy-lab/active-drops-with-memory](https://github.com/comphy-lab/active-drops-with-memory)
+3. ℹ️ Assigned PR [#1](https://github.com/comphy-lab/ActiveDrops/pull/1) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
+4. 💪 Opened PR [#1](https://github.com/comphy-lab/ActiveDrops/pull/1) in [comphy-lab/ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
+5. 💪 Opened PR [#2](https://github.com/comphy-lab/qr-codes/pull/2) in [comphy-lab/qr-codes](https://github.com/comphy-lab/qr-codes)
 <!--END_SECTION:activity-->
 
 ---
