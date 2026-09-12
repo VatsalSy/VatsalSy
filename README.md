@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [ActiveDrops](https://github.com/comphy-lab/ActiveDrops)
+### [hpc-basilisk-scaling](https://github.com/comphy-lab/hpc-basilisk-scaling)
 
-Spontaneous symmetry breaking of self-propelled drops • C
+Stock Basilisk MPI kernel scaling on MareNostrum5 GPP (EuroHPC Benchmark Access EHPC-BEN-2026B08-034) • Python
 
 <!--END_SECTION:latest-repo-->
 
