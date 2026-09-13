@@ -72,9 +72,9 @@ We use complex (non-Newtonian) fluids as model systems to explore how microstruc
 
 <!--START_SECTION:latest-repo-->
 
-### [hpc-basilisk-scaling](https://github.com/comphy-lab/hpc-basilisk-scaling)
+### [Taylor-Culick-ViscoElastic](https://github.com/comphy-lab/Taylor-Culick-ViscoElastic)
 
-Stock Basilisk MPI kernel scaling on MareNostrum5 GPP (EuroHPC Benchmark Access EHPC-BEN-2026B08-034) • Python
+This is a repository that contains the modified log-conform codes. We use it to parameterize the equations using G and \lambda instead of \eta_p and \lambda. An example with elastic Taylor-Culick retractions is also shown • C
 
 <!--END_SECTION:latest-repo-->
 
