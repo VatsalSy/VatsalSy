@@ -103,11 +103,11 @@ We are committed to **open science** and welcome interdisciplinary collaboration
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/VatsalSy/rayleigh-coding/releases/tag/v0.4.0)
-2. 🗣 Commented on [#12](https://github.com/comphy-lab/Bursting-Bubble/pull/12#issuecomment-5645649506) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-3. 💪 Opened PR [#12](https://github.com/comphy-lab/Bursting-Bubble/pull/12) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
-4. ℹ️ Assigned PR [#2](https://github.com/comphy-lab/active-drops-with-memory/pull/2) in [comphy-lab/active-drops-with-memory](https://github.com/comphy-lab/active-drops-with-memory)
-5. 💪 Opened PR [#2](https://github.com/comphy-lab/active-drops-with-memory/pull/2) in [comphy-lab/active-drops-with-memory](https://github.com/comphy-lab/active-drops-with-memory)
+1. 🎉 Merged PR [#44](https://github.com/comphy-lab/VatsalSy/pull/44) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+2. 🎉 Merged PR [#111](https://github.com/comphy-lab/comphy-lab.github.io/pull/111) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 💪 Opened PR [#44](https://github.com/comphy-lab/VatsalSy/pull/44) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+4. 💪 Opened PR [#111](https://github.com/comphy-lab/comphy-lab.github.io/pull/111) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#12](https://github.com/comphy-lab/Bursting-Bubble/pull/12) in [comphy-lab/Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 <!--END_SECTION:activity-->
 
 ---
