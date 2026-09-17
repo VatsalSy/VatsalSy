@@ -5,6 +5,9 @@ const GITHUB_USERNAME = 'VatsalSy';
 const README_PATH = './README.md';
 const EXCLUDE_REPOS = ['VatsalSy', 'VatsalSy.github.io']; // Profile repo and github.io
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+// Fallback / separators live here — never hand-edit the README latest-repo block.
+const MISSING_DESCRIPTION = 'No description available';
+const META_SEPARATOR = ' · ';
 
 // Rate limiting configuration
 const RATE_LIMIT_DELAY = 1000; // 1 second initial delay
@@ -152,7 +155,7 @@ async function getLatestRepository() {
     return {
       name: repoData.name,
       fullName: repoData.full_name,
-      description: repoData.description || 'No description available',
+      description: repoData.description || MISSING_DESCRIPTION,
       url: repoData.html_url,
       language: repoData.language,
       stars: repoData.stargazers_count,
@@ -183,11 +186,17 @@ function updateReadme(repo) {
       return false;
     }
     
+    const meta = [
+      repo.description,
+      repo.language || null,
+      repo.stars > 0 ? `⭐ ${repo.stars}` : null,
+    ].filter(Boolean).join(META_SEPARATOR);
+
     const newContent = `${startMarker}
 
 ### [${repo.name}](${repo.url})
 
-${repo.description}${repo.language ? ` • ${repo.language}` : ''}${repo.stars > 0 ? ` ⭐ ${repo.stars}` : ''}
+${meta}
 
 ${endMarker}`;
     
