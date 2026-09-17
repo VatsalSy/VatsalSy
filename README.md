@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/VatsalSy/VatsalSy/pull/17) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-2. 💪 Opened PR [#17](https://github.com/VatsalSy/VatsalSy/pull/17) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-3. 🎉 Merged PR [#44](https://github.com/comphy-lab/VatsalSy/pull/44) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-4. 🎉 Merged PR [#111](https://github.com/comphy-lab/comphy-lab.github.io/pull/111) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-5. 💪 Opened PR [#44](https://github.com/comphy-lab/VatsalSy/pull/44) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+1. 🎉 Merged PR [#18](https://github.com/VatsalSy/VatsalSy/pull/18) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+2. 🎉 Merged PR [#3](https://github.com/comphy-lab/.github/pull/3) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
+3. 💪 Opened PR [#18](https://github.com/VatsalSy/VatsalSy/pull/18) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+4. 💪 Opened PR [#3](https://github.com/comphy-lab/.github/pull/3) in [comphy-lab/.github](https://github.com/comphy-lab/.github)
+5. 🎉 Merged PR [#17](https://github.com/VatsalSy/VatsalSy/pull/17) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
 <!--END_SECTION:activity-->
 
 ## Metrics
