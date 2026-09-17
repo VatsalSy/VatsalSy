@@ -102,7 +102,6 @@ const workflowTests = {
   'test_workflow_secrets': () => {
     console.log('Testing workflow secrets usage...');
     const secretsRequired = {
-      'ReadmeWaka.yml': ['WAKATIME_API_KEY'],
       'github-stats.yml': ['GH_COMMIT_TOKEN'] // Custom token for commits
     };
     
@@ -134,8 +133,6 @@ const readmeTests = {
       '<!--END_SECTION:activity-->',
       '<!--START_SECTION:github-stats-->',
       '<!--END_SECTION:github-stats-->',
-      '<!--START_SECTION:wakatime-->',
-      '<!--END_SECTION:wakatime-->',
       '<!--START_SECTION:latest-repo-->',
       '<!--END_SECTION:latest-repo-->',
       '<!-- my-badges start -->',
