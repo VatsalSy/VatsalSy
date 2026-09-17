@@ -5,13 +5,11 @@ This file provides guidance to Codex (Codex.ai/code) when working with code in t
 ## Repository Overview
 
 This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist and researcher. The repository contains:
-- A comprehensive README.md showcasing research interests, statistics, and activity
+- A dense academic profile `README.md` (identity, research, featured work, metrics)
 - GitHub Actions workflows for automated profile updates
-- Badge generation and tracking
+- Historical badge artifacts under `my-badges/` (no longer rendered in the README)
 
 ## GitHub Actions Workflows
-
-The repository uses several automated workflows that run on schedule:
 
 ### 1. GitHub Stats Update (`.github/workflows/github-stats.yml`)
 - **Schedule**: Daily at 03:17 UTC
@@ -19,13 +17,12 @@ The repository uses several automated workflows that run on schedule:
 - **Manual trigger**: Available via workflow_dispatch
 
 ### 2. My Badges (`.github/workflows/my-badges.yml`)
-- **Schedule**: Daily at midnight
-- **Purpose**: Updates achievement badges displayed in the profile
-- **Command**: `npx update-my-badges`
+- **Status**: Retired (manual stub only; no schedule)
+- **Note**: Do not re-enable scheduled badge injection without restoring the README section
 
 ### 3. Recent Activity (`.github/workflows/update-readme.yml`)
 - **Schedule**: Every 4 hours (10 minutes offset)
-- **Purpose**: Updates the "Recent Activity" section with latest GitHub actions
+- **Purpose**: Updates the "Recent activity" section with latest GitHub actions
 
 ### 4. Featured Repository (`.github/workflows/update-featured-repo.yml`)
 - **Schedule**: Every 6 hours
@@ -33,9 +30,8 @@ The repository uses several automated workflows that run on schedule:
 
 ## Architecture
 
-The repository follows a simple structure:
 - **README.md**: Main profile page with dynamic sections updated by GitHub Actions
-- **my-badges/**: Directory containing badge achievement tracking
+- **my-badges/**: Historical badge files (not shown on the profile)
 - **assets/**: Image and resource storage
 - **.github/workflows/**: Automated update workflows
 
@@ -43,10 +39,9 @@ Dynamic sections in README.md are marked with special comment tags:
 - `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->`
 - `<!--START_SECTION:github-stats-->` / `<!--END_SECTION:github-stats-->`
 - `<!--START_SECTION:latest-repo-->` / `<!--END_SECTION:latest-repo-->`
-- `<!-- my-badges start -->` / `<!-- my-badges end -->`
 
 ## Development Notes
 
 - All workflows require appropriate GitHub tokens/secrets configured
 - Profile updates are automated - manual edits to dynamic sections will be overwritten
-- The repository serves as a living profile that updates with real-time activity data
+- WakaTime and my-badges UI surfaces are intentionally gone; do not revive them without an explicit request

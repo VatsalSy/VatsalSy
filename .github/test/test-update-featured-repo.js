@@ -159,6 +159,26 @@ const tests = {
            'Script should use Authorization header');
     
     console.log('✓ GitHub token handling is correct');
+  },
+
+  'test_description_fallback_in_generator': () => {
+    console.log('Testing description fallback lives in the generator...');
+    const scriptContent = fs.readFileSync(SCRIPT_PATH, 'utf8');
+
+    assert(
+      /MISSING_DESCRIPTION\s*=\s*['"]No description available['"]/.test(scriptContent),
+      'Generator should define MISSING_DESCRIPTION fallback'
+    );
+    assert(
+      /META_SEPARATOR\s*=\s*['"] · ['"]/.test(scriptContent),
+      'Generator should define META_SEPARATOR for description · language · stars'
+    );
+    assert(
+      scriptContent.includes('repoData.description || MISSING_DESCRIPTION'),
+      'Generator should apply MISSING_DESCRIPTION when GitHub returns no description'
+    );
+
+    console.log('✓ Description fallback is owned by the generator');
   }
 };
 

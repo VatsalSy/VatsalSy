@@ -58,18 +58,24 @@ const workflowTests = {
     
     Object.entries(expectedSchedules).forEach(([file, expectedCron]) => {
       const filePath = path.join(WORKFLOWS_DIR, file);
-      if (fs.existsSync(filePath)) {
-        const content = fs.readFileSync(filePath, 'utf8');
-        const workflow = yaml.load(content);
-        
-        if (workflow.on?.schedule) {
-          const cron = workflow.on.schedule?.[0]?.cron;
-          assert(cron === expectedCron, 
-                 `${file} should have cron "${expectedCron}" but has "${cron}"`);
-          console.log(`  ✓ ${file} schedule is correct`);
-        }
-      }
+      assert(fs.existsSync(filePath), `${file} should exist`);
+      const content = fs.readFileSync(filePath, 'utf8');
+      const workflow = yaml.load(content);
+      assert(workflow.on?.schedule, `${file} should have a schedule`);
+      const cron = workflow.on.schedule?.[0]?.cron;
+      assert(cron === expectedCron,
+             `${file} should have cron "${expectedCron}" but has "${cron}"`);
+      console.log(`  ✓ ${file} schedule is correct`);
     });
+
+    // Retired badge workflow must not re-inject clutter on a schedule
+    const badgesPath = path.join(WORKFLOWS_DIR, 'my-badges.yml');
+    if (fs.existsSync(badgesPath)) {
+      const badges = yaml.load(fs.readFileSync(badgesPath, 'utf8'));
+      assert(!badges.on?.schedule,
+             'my-badges.yml is retired and must not define a schedule');
+      console.log('  ✓ my-badges.yml has no schedule (retired)');
+    }
   },
 
   'test_workflow_permissions': () => {
@@ -127,23 +133,39 @@ const readmeTests = {
     const readmePath = path.join(__dirname, '../../README.md');
     const readme = fs.readFileSync(readmePath, 'utf8');
     
-    // Check for required sections
+    // Check for required dynamic sections (kept by active workflows)
     const requiredSections = [
       '<!--START_SECTION:activity-->',
       '<!--END_SECTION:activity-->',
       '<!--START_SECTION:github-stats-->',
       '<!--END_SECTION:github-stats-->',
       '<!--START_SECTION:latest-repo-->',
-      '<!--END_SECTION:latest-repo-->',
-      '<!-- my-badges start -->',
-      '<!-- my-badges end -->'
+      '<!--END_SECTION:latest-repo-->'
     ];
     
     requiredSections.forEach(section => {
       assert(readme.includes(section), `README should contain ${section}`);
     });
+
+    // Removed clutter must stay gone
+    const forbidden = [
+      '<!-- my-badges start -->',
+      'readme-jokes.vercel.app',
+      'komarev.com/ghpvc',
+      'cust-github-readme-activity-graph.vercel.app',
+      'WakaTime',
+      'wakatime'
+    ];
+    forbidden.forEach(needle => {
+      assert(!readme.includes(needle), `README should not contain ${needle}`);
+    });
+
+    assert(
+      readme.includes('activity-graph.vercel.app/graph'),
+      'README should use the public activity-graph endpoint'
+    );
     
-    console.log('✓ README has all required sections');
+    console.log('✓ README has required sections and no retired clutter');
   }
 };
 
