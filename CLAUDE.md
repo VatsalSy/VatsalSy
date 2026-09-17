@@ -14,7 +14,7 @@ This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist
 The repository uses several automated workflows that run on schedule:
 
 ### 1. GitHub Stats Update (`.github/workflows/github-stats.yml`)
-- **Schedule**: Daily at 03:00 UTC
+- **Schedule**: Daily at 03:17 UTC
 - **Purpose**: Updates bounded default-branch commit statistics in README
 - **Manual trigger**: Available via workflow_dispatch
 
@@ -23,14 +23,13 @@ The repository uses several automated workflows that run on schedule:
 - **Purpose**: Updates achievement badges displayed in the profile
 - **Command**: `npx update-my-badges`
 
-### 3. Waka Readme Stats (`.github/workflows/ReadmeWaka.yml`)
-- **Schedule**: Every 4 hours
-- **Purpose**: Updates WakaTime coding statistics including time spent, languages used, and project activity
-- **Dependencies**: Requires WAKATIME_API_KEY secret
-
-### 4. Recent Activity (`.github/workflows/update-readme.yml`)
+### 3. Recent Activity (`.github/workflows/update-readme.yml`)
 - **Schedule**: Every 4 hours (10 minutes offset)
 - **Purpose**: Updates the "Recent Activity" section with latest GitHub actions
+
+### 4. Featured Repository (`.github/workflows/update-featured-repo.yml`)
+- **Schedule**: Every 6 hours
+- **Purpose**: Updates the featured repository section and pushes README changes
 
 ## Architecture
 
@@ -43,7 +42,7 @@ The repository follows a simple structure:
 Dynamic sections in README.md are marked with special comment tags:
 - `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->`
 - `<!--START_SECTION:github-stats-->` / `<!--END_SECTION:github-stats-->`
-- `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->`
+- `<!--START_SECTION:latest-repo-->` / `<!--END_SECTION:latest-repo-->`
 - `<!-- my-badges start -->` / `<!-- my-badges end -->`
 
 ## Development Notes

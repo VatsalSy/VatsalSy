@@ -176,43 +176,6 @@ Sunday                   2450 commits        ████░░░░░░░�
 
 </details>
 
-<details open>
-<summary>💻 Coding Activity</summary>
-<br>
-
-<!--START_SECTION:wakatime-->
-**This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages
-Markdown                 19 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
-Python                   9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-C                        5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-LaTeX                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-TypeScript               2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-
-🔥 Editors
-Codex Vscode             23 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Claude Code              11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Slack                    10 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Neovim                   7 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Ghostty                  6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-
-🐱‍💻 Projects
-eurohpc-regular-access-2013 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-personal-admin           11 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-handshake-planck         6 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-cowork-os                5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-jarvis-skills            3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-
-💻 Operating System
-Mac                      68 hrs 31 mins      █████████████████████████   100.00 % 
-
-```
-<!--END_SECTION:wakatime-->
-
-</details>
-
 ---
 
 ### 📈 Contribution Graph

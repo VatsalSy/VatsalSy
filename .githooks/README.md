@@ -73,7 +73,6 @@ No action required! Your workflows will continue to work normally because:
 - Git hooks path is not configured in the runners
 
 Your automated commits from actions like:
-- `anmol098/waka-readme-stats`
 - `VatsalSy/commits-readme-stats`
 - `jamesgeorge007/github-activity-readme`
 - Custom scripts in workflows
