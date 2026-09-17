@@ -2,7 +2,6 @@
   "expectedSchedules": {
     "update-featured-repo.yml": "30 */6 * * *",
     "github-stats.yml": "17 3 * * *",
-    "my-badges.yml": "0 0 * * *",
     "update-readme.yml": "10 */4 * * *"
   }
 }

@@ -24,7 +24,8 @@ jobs:
         with:
           GH_COMMIT_TOKEN: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
           SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
+          # Day-of-week ASCII charts removed from README (OSS Insight covers timing).
+          SHOW_DAYS_OF_WEEK: false
           # Commit settings
           COMMIT_MESSAGE: 'docs(stats): update github stats'
           COMMIT_BY_ME: false
