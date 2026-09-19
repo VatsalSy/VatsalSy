@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [basilisk-C](https://github.com/comphy-lab/basilisk-C)
+### [.github](https://github.com/comphy-lab/.github)
 
-version, updated every day · C · ⭐ 20
+No description available
 
 <!--END_SECTION:latest-repo-->
 
