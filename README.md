@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [.github](https://github.com/comphy-lab/.github)
+### [bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
 
-No description available
+Basilisk solver for drops and bubbles in capillary tubes (Bretherton film law). · C
 
 <!--END_SECTION:latest-repo-->
 
