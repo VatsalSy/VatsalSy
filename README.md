@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/comphy-lab/comphy-design-system/pull/1) in [comphy-lab/comphy-design-system](https://github.com/comphy-lab/comphy-design-system)
-2. 🎉 Merged PR [#4](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/4) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
-3. ℹ️ Assigned PR [#4](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/4) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
-4. 💪 Opened PR [#4](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/4) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
-5. 🎉 Merged PR [#4](https://github.com/comphy-lab/bretherton-drops-bubbles/pull/4) in [comphy-lab/bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+1. 🗣 Commented on [#115](https://github.com/comphy-lab/comphy-lab.github.io/pull/115#issuecomment-5753089417) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. ℹ️ Reopened PR [#115](https://github.com/comphy-lab/comphy-lab.github.io/pull/115) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. ❌ Closed PR [#115](https://github.com/comphy-lab/comphy-lab.github.io/pull/115) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. ℹ️ Reopened PR [#115](https://github.com/comphy-lab/comphy-lab.github.io/pull/115) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. ❌ Closed PR [#115](https://github.com/comphy-lab/comphy-lab.github.io/pull/115) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ## Metrics
