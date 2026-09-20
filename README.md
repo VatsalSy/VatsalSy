@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+### [comphy-course-design-system](https://github.com/comphy-lab/comphy-course-design-system)
 
-No description available · Markdown · ⭐ 2
+CoMPhy Lab course design system: landing/lesson templates, course CSS, self-hosted fonts · HTML
 
 <!--END_SECTION:latest-repo-->
 
