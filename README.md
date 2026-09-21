@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-search](https://github.com/comphy-lab/comphy-search)
+### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 
-CoMPhy Search · Python
+Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
 
 <!--END_SECTION:latest-repo-->
 
