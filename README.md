@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/comphy-lab/pyoomph/pull/22) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
-2. 🎉 Merged PR [#5](https://github.com/VatsalSy/rayleigh-coding/pull/5) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-3. 🗣 Commented on [#5](https://github.com/VatsalSy/rayleigh-coding/pull/5#issuecomment-5765685281) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-4. 🎉 Merged PR [#4](https://github.com/VatsalSy/rayleigh-coding/pull/4) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-5. 💪 Opened PR [#5](https://github.com/VatsalSy/rayleigh-coding/pull/5) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+1. 🎉 Merged PR [#22](https://github.com/comphy-lab/pyoomph/pull/22) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
+2. 💪 Opened PR [#22](https://github.com/comphy-lab/pyoomph/pull/22) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
+3. 🎉 Merged PR [#5](https://github.com/VatsalSy/rayleigh-coding/pull/5) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+4. 🗣 Commented on [#5](https://github.com/VatsalSy/rayleigh-coding/pull/5#issuecomment-5765685281) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+5. 🎉 Merged PR [#4](https://github.com/VatsalSy/rayleigh-coding/pull/4) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 <!--END_SECTION:activity-->
 
 ## Metrics
