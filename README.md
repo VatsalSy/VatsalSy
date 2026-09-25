@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [bretherton-drops-bubbles](https://github.com/comphy-lab/bretherton-drops-bubbles)
+### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 
-Basilisk solver for drops and bubbles in capillary tubes (Bretherton film law). · C
+Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
 
 <!--END_SECTION:latest-repo-->
 
