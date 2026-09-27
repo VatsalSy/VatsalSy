@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
 
-Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
+Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) · C
 
 <!--END_SECTION:latest-repo-->
 
