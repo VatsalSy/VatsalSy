@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [sl25](https://github.com/comphy-lab/sl25)
+### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 
-This is a website to render the results of SL theory, https://arxiv.org/abs/2408.12714 · CSS
+Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
 
 <!--END_SECTION:latest-repo-->
 
