@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [VE-DropImpact-ContactLine](https://github.com/comphy-lab/VE-DropImpact-ContactLine)
+### [sl25](https://github.com/comphy-lab/sl25)
 
-Axisymmetric viscoelastic/elastic drop impact on a substrate with a time-switched contact line (Basilisk C) · C
+This is a website to render the results of SL theory, https://arxiv.org/abs/2408.12714 · CSS
 
 <!--END_SECTION:latest-repo-->
 
