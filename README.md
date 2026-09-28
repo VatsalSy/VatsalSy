@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/VatsalSy/rayleigh-coding/pull/6) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-2. 🗣 Commented on [#6](https://github.com/VatsalSy/rayleigh-coding/pull/6#issuecomment-5835440060) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-3. 💪 Opened PR [#6](https://github.com/VatsalSy/rayleigh-coding/pull/6) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-4. 🎉 Merged PR [#22](https://github.com/comphy-lab/pyoomph/pull/22) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
-5. 💪 Opened PR [#22](https://github.com/comphy-lab/pyoomph/pull/22) in [comphy-lab/pyoomph](https://github.com/comphy-lab/pyoomph)
+1. ❌ Closed PR [#125](https://github.com/VatsalSy/commits-readme-stats/pull/125) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+2. ❌ Closed PR [#124](https://github.com/VatsalSy/commits-readme-stats/pull/124) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+3. 🗣 Commented on [#125](https://github.com/VatsalSy/commits-readme-stats/pull/125#issuecomment-5866012401) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+4. 🗣 Commented on [#124](https://github.com/VatsalSy/commits-readme-stats/pull/124#issuecomment-5866012030) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
+5. 🎉 Merged PR [#126](https://github.com/VatsalSy/commits-readme-stats/pull/126) in [VatsalSy/commits-readme-stats](https://github.com/VatsalSy/commits-readme-stats)
 <!--END_SECTION:activity-->
 
 ## Metrics
