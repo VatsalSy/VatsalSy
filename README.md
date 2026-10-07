@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/comphy-lab/VatsalSy/pull/45#issuecomment-5992217174) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-2. ❌ Closed PR [#45](https://github.com/comphy-lab/VatsalSy/pull/45) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-3. 🎉 Merged PR [#120](https://github.com/comphy-lab/comphy-lab.github.io/pull/120) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 🎉 Merged PR [#46](https://github.com/comphy-lab/VatsalSy/pull/46) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
-5. 💪 Opened PR [#120](https://github.com/comphy-lab/comphy-lab.github.io/pull/120) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#3](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/3#issuecomment-6040182529) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
+2. 🗣 Commented on [#45](https://github.com/comphy-lab/VatsalSy/pull/45#issuecomment-5992217174) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+3. ❌ Closed PR [#45](https://github.com/comphy-lab/VatsalSy/pull/45) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
+4. 🎉 Merged PR [#120](https://github.com/comphy-lab/comphy-lab.github.io/pull/120) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 🎉 Merged PR [#46](https://github.com/comphy-lab/VatsalSy/pull/46) in [comphy-lab/VatsalSy](https://github.com/comphy-lab/VatsalSy)
 <!--END_SECTION:activity-->
 
 ## Metrics
