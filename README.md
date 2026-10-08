@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/5) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
-2. 🗣 Commented on [#5](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/5#issuecomment-6046498058) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
-3. 💪 Opened PR [#5](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/5) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
-4. 🎉 Merged PR [#4](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/4) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
-5. 💪 Opened PR [#4](https://github.com/comphy-lab/coalescence-non-Newtonian/pull/4) in [comphy-lab/coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
+1. ❌ Closed PR [#126](https://github.com/comphy-lab/comphy-lab.github.io/pull/126) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+2. 💪 Opened PR [#2](https://github.com/comphy-lab/comphy-design-system/pull/2) in [comphy-lab/comphy-design-system](https://github.com/comphy-lab/comphy-design-system)
+3. 💪 Opened PR [#128](https://github.com/comphy-lab/comphy-lab.github.io/pull/128) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#127](https://github.com/comphy-lab/comphy-lab.github.io/pull/127) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+5. 💪 Opened PR [#126](https://github.com/comphy-lab/comphy-lab.github.io/pull/126) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ## Metrics
