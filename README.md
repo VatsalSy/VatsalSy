@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
+### [comphy-design-system](https://github.com/comphy-lab/comphy-design-system)
 
-This is the LaTeX source code of my CV · TeX · ⭐ 11
+CoMPhy Lab design system: tokens, living style guide, and website v2 · HTML
 
 <!--END_SECTION:latest-repo-->
 
