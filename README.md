@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [comphy-design-system](https://github.com/comphy-lab/comphy-design-system)
+### [comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 
-CoMPhy Lab design system: tokens, living style guide, and website v2 · HTML
+No description available · CSS
 
 <!--END_SECTION:latest-repo-->
 
