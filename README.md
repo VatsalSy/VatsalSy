@@ -60,11 +60,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/comphy-lab/talks/issues/6#issuecomment-6105399534) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
-2. 🗣 Commented on [#5](https://github.com/comphy-lab/talks/issues/5#issuecomment-6105399324) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
-3. 🗣 Commented on [#4](https://github.com/comphy-lab/talks/issues/4#issuecomment-6105399027) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
-4. 🗣 Commented on [#3](https://github.com/comphy-lab/talks/issues/3#issuecomment-6105398774) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
-5. 🗣 Commented on [#2](https://github.com/comphy-lab/talks/issues/2#issuecomment-6105398513) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
+1. 💪 Opened PR [#6](https://github.com/comphy-lab/CoMPhy-Lab-Blogs/pull/6) in [comphy-lab/CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+2. 💪 Opened PR [#140](https://github.com/comphy-lab/comphy-lab.github.io/pull/140) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+3. 💪 Opened PR [#4](https://github.com/comphy-lab/qr-codes/pull/4) in [comphy-lab/qr-codes](https://github.com/comphy-lab/qr-codes)
+4. 💪 Opened PR [#5](https://github.com/comphy-lab/sl25/pull/5) in [comphy-lab/sl25](https://github.com/comphy-lab/sl25)
+5. 💪 Opened PR [#7](https://github.com/comphy-lab/talks/pull/7) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
 <!--END_SECTION:activity-->
 
 ## Metrics
