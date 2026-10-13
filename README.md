@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+### [talks](https://github.com/comphy-lab/talks)
 
-No description available · Markdown · ⭐ 2
+Web versions of CoMPhy Lab project talks, served at comphy-lab.org/talks/ · Python
 
 <!--END_SECTION:latest-repo-->
 
