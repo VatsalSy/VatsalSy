@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [talks](https://github.com/comphy-lab/talks)
+### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
 
-Web versions of CoMPhy Lab project talks, served at comphy-lab.org/talks/ · Python
+No description available · Python · ⭐ 2
 
 <!--END_SECTION:latest-repo-->
 
