@@ -36,9 +36,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [Bursting-Bubble](https://github.com/comphy-lab/Bursting-Bubble)
+### [Vatsal_CV](https://github.com/VatsalSy/Vatsal_CV)
 
-No description available · Python · ⭐ 2
+This is the LaTeX source code of my CV · TeX · ⭐ 11
 
 <!--END_SECTION:latest-repo-->
 
