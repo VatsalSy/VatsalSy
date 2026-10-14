@@ -2,7 +2,7 @@ name: Update Featured Repository
 
 on:
   schedule:
-    - cron: "30 */6 * * *"  # Every 6 hours at 30 minutes past
+    - cron: "29 3 1,15 * *"  # On the 1st and 15th at 03:29 UTC
   push:
     branches: 
       - main
