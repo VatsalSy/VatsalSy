@@ -62,11 +62,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/comphy-lab/talks/pull/8) in [comphy-lab/talks](https://github.com/comphy-lab/talks)
-2. 🎉 Merged PR [#3](https://github.com/comphy-lab/soapy/pull/3) in [comphy-lab/soapy](https://github.com/comphy-lab/soapy)
-3. 🎉 Merged PR [#5](https://github.com/comphy-lab/hyphal-flow/pull/5) in [comphy-lab/hyphal-flow](https://github.com/comphy-lab/hyphal-flow)
-4. 🎉 Merged PR [#1](https://github.com/comphy-lab/formal-conjectures/pull/1) in [comphy-lab/formal-conjectures](https://github.com/comphy-lab/formal-conjectures)
-5. 🎉 Merged PR [#7](https://github.com/comphy-lab/fiber/pull/7) in [comphy-lab/fiber](https://github.com/comphy-lab/fiber)
+1. 🎉 Merged PR [#20](https://github.com/VatsalSy/VatsalSy/pull/20) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+2. 🎉 Merged PR [#10](https://github.com/VatsalSy/rayleigh-coding/pull/10) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+3. 💪 Opened PR [#159](https://github.com/comphy-lab/comphy-lab.github.io/pull/159) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+4. 💪 Opened PR [#20](https://github.com/VatsalSy/VatsalSy/pull/20) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
+5. 🎉 Merged PR [#158](https://github.com/comphy-lab/comphy-lab.github.io/pull/158) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
 <!--END_SECTION:activity-->
 
 ## Metrics
