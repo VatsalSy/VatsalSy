@@ -23,8 +23,10 @@ jobs:
         uses: VatsalSy/commits-readme-stats@46fcfb462c8bb0615685721fd395656e1b4928b9
         with:
           GH_COMMIT_TOKEN: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
+          # Keep time-of-day ASCII here; the OSS Insight timing widget was removed
+          # from README as redundant. Do not set both SHOW_* flags false — that
+          # skips the crawl and drops the unique-commit line.
           SHOW_COMMIT: true
-          # Day-of-week ASCII charts removed from README (OSS Insight covers timing).
           SHOW_DAYS_OF_WEEK: false
           # Commit settings
           COMMIT_MESSAGE: 'docs(stats): update github stats'
