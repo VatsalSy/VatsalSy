@@ -206,18 +206,27 @@ async function getLatestFromRepoLists() {
 }
 
 async function getLatestRepository() {
+  // Primary: most recently pushed public non-fork with a real description.
+  // Verified: prior logic picked the newest PushEvent regardless of description,
+  // which surfaced comphy-lab/CoMPhy-Lab-Blogs as "No description available".
+  let fromEvents = null;
   try {
-    // Primary: most recently pushed public non-fork with a real description.
-    // Verified: prior logic picked the newest PushEvent regardless of description,
-    // which surfaced comphy-lab/CoMPhy-Lab-Blogs as "No description available".
-    const fromEvents = await getLatestFromPushEvents();
-    if (fromEvents) {
-      return fromEvents;
+    fromEvents = await getLatestFromPushEvents();
+  } catch (error) {
+    console.error('Push-events lookup failed; trying repository lists:', error.message);
+    if (error.body) {
+      console.error('Response body:', error.body);
     }
+  }
 
+  if (fromEvents) {
+    return fromEvents;
+  }
+
+  try {
     return await getLatestFromRepoLists();
   } catch (error) {
-    console.error('Error fetching repository:', error.message);
+    console.error('Error fetching repository lists:', error.message);
     if (error.body) {
       console.error('Response body:', error.body);
     }
