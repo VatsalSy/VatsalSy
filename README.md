@@ -38,9 +38,9 @@ Latest: Sanjay, V., “[Singularities in Soft Matter Systems](https://doi.org/10
 
 <!--START_SECTION:latest-repo-->
 
-### [Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
+### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
 
-Viscoelastic Worthington jets & droplets produced by bursting bubbles · C · ⭐ 4
+Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
 
 <!--END_SECTION:latest-repo-->
 
