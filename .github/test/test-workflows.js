@@ -153,6 +153,7 @@ const readmeTests = {
       'readme-jokes.vercel.app',
       'komarev.com/ghpvc',
       'cust-github-readme-activity-graph.vercel.app',
+      'next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution',
       'WakaTime',
       'wakatime'
     ];

@@ -4,9 +4,9 @@ const https = require('node:https');
 const GITHUB_USERNAME = 'VatsalSy';
 const README_PATH = './README.md';
 const EXCLUDE_REPOS = ['VatsalSy', 'VatsalSy.github.io']; // Profile repo and github.io
+const FALLBACK_ORG = 'comphy-lab';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-// Fallback / separators live here — never hand-edit the README latest-repo block.
-const MISSING_DESCRIPTION = 'No description available';
+// Meta line separator — never hand-edit the README latest-repo block.
 const META_SEPARATOR = ' · ';
 
 // Rate limiting configuration
@@ -15,6 +15,39 @@ const MAX_RETRIES = 3;
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function hasUsableDescription(description) {
+  return typeof description === 'string' && description.trim().length > 0;
+}
+
+function isExcludedRepo(repoFullName) {
+  const repoNameOnly = repoFullName.split('/')[1];
+  return EXCLUDE_REPOS.includes(repoNameOnly);
+}
+
+function toFeaturedRepo(repoData) {
+  return {
+    name: repoData.name,
+    fullName: repoData.full_name,
+    description: repoData.description.trim(),
+    url: repoData.html_url,
+    language: repoData.language,
+    stars: repoData.stargazers_count,
+    owner: repoData.owner.login,
+    isFork: repoData.fork,
+    pushedAt: repoData.pushed_at
+  };
+}
+
+function isFeatureWorthy(repoData) {
+  if (!repoData || repoData.fork || repoData.private) {
+    return false;
+  }
+  if (isExcludedRepo(repoData.full_name)) {
+    return false;
+  }
+  return hasUsableDescription(repoData.description);
 }
 
 async function fetchWithRetry(url, retries = MAX_RETRIES) {
@@ -73,97 +106,127 @@ function fetchData(url, headers = {}) {
   });
 }
 
-async function isValidRepository(repoFullName) {
+async function fetchRepoIfFeatureWorthy(repoFullName) {
   try {
+    console.log(`Checking repository: ${repoFullName}`);
     const repoData = await fetchWithRetry(`https://api.github.com/repos/${repoFullName}`);
-    
-    // Check if it's a fork
-    if (repoData.fork) {
-      console.log(`Skipping ${repoFullName}: Repository is a fork`);
-      return false;
+
+    if (!isFeatureWorthy(repoData)) {
+      const reason = repoData.fork
+        ? 'fork'
+        : repoData.private
+          ? 'private'
+          : isExcludedRepo(repoData.full_name)
+            ? 'excluded'
+            : 'empty description';
+      console.log(`Skipping ${repoFullName}: ${reason}`);
+      return null;
     }
-    
-    // Check if the user has push access (owner or collaborator)
-    const [owner, repoName] = repoFullName.split('/');
-    
-    // Include repos owned by the user
-    if (owner === GITHUB_USERNAME) {
-      return true;
-    }
-    
-    // Include organization repos where user has push access
-    // The events API only shows repos where the user has push access
-    return true;
+
+    return toFeaturedRepo(repoData);
   } catch (error) {
     console.error(`Error checking repository ${repoFullName}:`, error.message);
-    return false;
+    return null;
   }
 }
 
-async function getLatestRepository() {
-  try {
-    console.log('Fetching recent events...');
-    const events = await fetchWithRetry(`https://api.github.com/users/${GITHUB_USERNAME}/events/public?per_page=100`);
-    
-    if (!Array.isArray(events)) {
-      throw new Error('Invalid response from GitHub API');
+async function getLatestFromPushEvents() {
+  console.log('Fetching recent push events...');
+  const events = await fetchWithRetry(
+    `https://api.github.com/users/${GITHUB_USERNAME}/events/public?per_page=100`
+  );
+
+  if (!Array.isArray(events)) {
+    throw new Error('Invalid response from GitHub API');
+  }
+
+  // Events are newest-first; keep first-seen order as push recency.
+  const seen = new Set();
+
+  for (const event of events) {
+    if (event.type !== 'PushEvent' || !event.repo) {
+      continue;
     }
-    
-    // Find unique repositories from push events
-    const repoSet = new Set();
-    const repoMap = new Map();
-    
-    for (const event of events) {
-      if (event.type === 'PushEvent' && event.repo) {
-        const repoName = event.repo.name;
-        const repoNameOnly = repoName.split('/')[1];
-        
-        // Skip excluded repos
-        if (!EXCLUDE_REPOS.includes(repoNameOnly) && !repoSet.has(repoName)) {
-          // Validate repository (check if it's not a fork)
-          console.log(`Checking repository: ${repoName}`);
-          const isValid = await isValidRepository(repoName);
-          
-          if (isValid) {
-            repoSet.add(repoName);
-            repoMap.set(repoName, event.created_at);
-          }
+
+    const repoName = event.repo.name;
+    if (seen.has(repoName) || isExcludedRepo(repoName)) {
+      continue;
+    }
+    seen.add(repoName);
+
+    const featured = await fetchRepoIfFeatureWorthy(repoName);
+    if (featured) {
+      console.log(`Selected from recent pushes: ${featured.fullName}`);
+      return featured;
+    }
+  }
+
+  console.log('No feature-worthy repository found in recent push events');
+  return null;
+}
+
+async function getLatestFromRepoLists() {
+  console.log('Falling back to recently pushed public repositories...');
+  const listUrls = [
+    `https://api.github.com/users/${GITHUB_USERNAME}/repos?sort=pushed&direction=desc&per_page=30&type=owner`,
+    `https://api.github.com/orgs/${FALLBACK_ORG}/repos?sort=pushed&direction=desc&per_page=30&type=public`
+  ];
+
+  const byFullName = new Map();
+
+  for (const url of listUrls) {
+    try {
+      const repos = await fetchWithRetry(url);
+      if (!Array.isArray(repos)) {
+        continue;
+      }
+      for (const repo of repos) {
+        if (!repo?.full_name || byFullName.has(repo.full_name)) {
+          continue;
         }
+        byFullName.set(repo.full_name, repo);
       }
+    } catch (error) {
+      console.error(`Error fetching repository list (${url}):`, error.message);
     }
-    
-    // Get the most recent repo
-    let latestRepo = null;
-    let latestDate = null;
-    
-    for (const [repo, date] of repoMap) {
-      if (!latestDate || new Date(date) > new Date(latestDate)) {
-        latestRepo = repo;
-        latestDate = date;
-      }
-    }
-    
-    if (!latestRepo) {
-      console.log('No recent repository found');
-      return null;
-    }
-    
-    // Fetch repository details
-    console.log(`Fetching details for: ${latestRepo}`);
-    const repoData = await fetchWithRetry(`https://api.github.com/repos/${latestRepo}`);
-    
-    return {
-      name: repoData.name,
-      fullName: repoData.full_name,
-      description: repoData.description || MISSING_DESCRIPTION,
-      url: repoData.html_url,
-      language: repoData.language,
-      stars: repoData.stargazers_count,
-      owner: repoData.owner.login,
-      isFork: repoData.fork
-    };
+  }
+
+  const ranked = [...byFullName.values()]
+    .filter(isFeatureWorthy)
+    .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+
+  if (ranked.length === 0) {
+    console.log('No feature-worthy repository found in repository lists');
+    return null;
+  }
+
+  const featured = toFeaturedRepo(ranked[0]);
+  console.log(`Selected from repository lists: ${featured.fullName}`);
+  return featured;
+}
+
+async function getLatestRepository() {
+  // Primary: most recently pushed public non-fork with a real description.
+  // Verified: prior logic picked the newest PushEvent regardless of description,
+  // which surfaced comphy-lab/CoMPhy-Lab-Blogs as "No description available".
+  let fromEvents = null;
+  try {
+    fromEvents = await getLatestFromPushEvents();
   } catch (error) {
-    console.error('Error fetching repository:', error.message);
+    console.error('Push-events lookup failed; trying repository lists:', error.message);
+    if (error.body) {
+      console.error('Response body:', error.body);
+    }
+  }
+
+  if (fromEvents) {
+    return fromEvents;
+  }
+
+  try {
+    return await getLatestFromRepoLists();
+  } catch (error) {
+    console.error('Error fetching repository lists:', error.message);
     if (error.body) {
       console.error('Response body:', error.body);
     }
@@ -223,11 +286,21 @@ async function main() {
     console.log(`Found repository: ${repo.name} (${repo.fullName})`);
     updateReadme(repo);
   } else {
-    console.log('No suitable repository found');
+    console.log('No suitable repository found; leaving README featured block unchanged');
   }
 }
 
-main().catch(error => {
-  console.error('Fatal error:', error);
-  process.exit(1);
-});
+module.exports = {
+  hasUsableDescription,
+  isExcludedRepo,
+  isFeatureWorthy,
+  META_SEPARATOR,
+  EXCLUDE_REPOS
+};
+
+if (require.main === module) {
+  main().catch(error => {
+    console.error('Fatal error:', error);
+    process.exit(1);
+  });
+}

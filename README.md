@@ -28,6 +28,8 @@ I lead the [Computational Multiphase Physics (CoMPhy) Lab](https://comphy-lab.or
 
 Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative experiments, linking microstructural stress to continuum dynamics and applications in industry and nature. See [research](https://comphy-lab.org/research).
 
+Latest: Sanjay, V., “[Singularities in Soft Matter Systems](https://doi.org/10.1080/00107514.2026.2721118),” *Contemporary Physics* (2026).
+
 ## Featured work
 
 <table>
@@ -36,9 +38,9 @@ Work combines high-fidelity simulation (Basilisk DNS), theory, and collaborative
 
 <!--START_SECTION:latest-repo-->
 
-### [CoMPhy-Lab-Blogs](https://github.com/comphy-lab/CoMPhy-Lab-Blogs)
+### [Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles](https://github.com/comphy-lab/Viscoelastic-Worthington-jets-and-droplets-produced-by-bursting-bubbles)
 
-No description available · Markdown · ⭐ 2
+Viscoelastic Worthington jets & droplets produced by bursting bubbles · C · ⭐ 4
 
 <!--END_SECTION:latest-repo-->
 
@@ -104,18 +106,6 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 🌃 Evening                6447 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
 🌙 Night                  2423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2991 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  3121 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                2790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Thursday                 2777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   2394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 3329 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   2963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-```
-
 
 <!--END_SECTION:github-stats-->
 
@@ -127,12 +117,3 @@ Sunday                   2963 commits        ████░░░░░░░�
     <img alt="GitHub contribution activity (42 days)" src="https://activity-graph.vercel.app/graph?username=VatsalSy&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true&hide_border=true&hide_title=true&days=42" width="100%">
   </picture>
 </a>
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=17101345&period=all_times">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=17101345&period=all_times&image_size=auto&color_scheme=dark" width="721">
-      <img alt="Contribution time distribution of @VatsalSy" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=17101345&period=all_times&image_size=auto&color_scheme=light" width="721">
-    </picture>
-  </a>
-</div>

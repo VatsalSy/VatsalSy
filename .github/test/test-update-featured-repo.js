@@ -7,46 +7,17 @@
 const assert = require('node:assert');
 const fs = require('node:fs');
 const path = require('node:path');
-const { execSync } = require('node:child_process');
 
 // Test configuration
 const TEST_README_PATH = path.join(__dirname, 'test-readme.md');
 const SCRIPT_PATH = path.join(__dirname, '../scripts/update-featured-repo.js');
-
-// Mock data
-const mockEvents = [
-  {
-    type: 'PushEvent',
-    repo: { name: 'VatsalSy/test-repo' },
-    created_at: '2024-01-15T10:00:00Z'
-  },
-  {
-    type: 'PushEvent',
-    repo: { name: 'VatsalSy/VatsalSy' }, // Should be excluded
-    created_at: '2024-01-15T11:00:00Z'
-  },
-  {
-    type: 'PushEvent',
-    repo: { name: 'VatsalSy/another-repo' },
-    created_at: '2024-01-15T09:00:00Z'
-  }
-];
-
-const mockRepoData = {
-  name: 'test-repo',
-  full_name: 'VatsalSy/test-repo',
-  description: 'A test repository for testing',
-  html_url: 'https://github.com/VatsalSy/test-repo',
-  language: 'JavaScript',
-  stargazers_count: 10,
-  owner: { login: 'VatsalSy' },
-  fork: false
-};
-
-const mockForkRepoData = {
-  ...mockRepoData,
-  fork: true
-};
+const {
+  hasUsableDescription,
+  isExcludedRepo,
+  isFeatureWorthy,
+  META_SEPARATOR,
+  EXCLUDE_REPOS
+} = require(SCRIPT_PATH);
 
 // Test utilities
 function createTestReadme() {
@@ -108,13 +79,11 @@ const tests = {
 
   'test_exclude_repos': () => {
     console.log('Testing repository exclusion logic...');
-    const scriptContent = fs.readFileSync(SCRIPT_PATH, 'utf8');
     
-    // Check that VatsalSy is in EXCLUDE_REPOS
-    const excludeMatch = scriptContent.match(/EXCLUDE_REPOS\s*=\s*\[(.*?)\]/);
-    assert(excludeMatch, 'EXCLUDE_REPOS should be defined');
-    assert(excludeMatch[1].includes("'VatsalSy'") || excludeMatch[1].includes('"VatsalSy"'), 
-           'VatsalSy should be in EXCLUDE_REPOS');
+    assert(EXCLUDE_REPOS.includes('VatsalSy'), 'VatsalSy should be in EXCLUDE_REPOS');
+    assert(isExcludedRepo('VatsalSy/VatsalSy'), 'Profile repo should be excluded');
+    assert(isExcludedRepo('someone/VatsalSy.github.io'), 'github.io repo should be excluded');
+    assert(!isExcludedRepo('comphy-lab/talks'), 'Ordinary repos should not be excluded');
     
     console.log('✓ Repository exclusion configured correctly');
   },
@@ -161,24 +130,59 @@ const tests = {
     console.log('✓ GitHub token handling is correct');
   },
 
-  'test_description_fallback_in_generator': () => {
-    console.log('Testing description fallback lives in the generator...');
+  'test_skips_empty_descriptions': () => {
+    console.log('Testing empty-description skip rule...');
+
+    assert.strictEqual(hasUsableDescription(null), false);
+    assert.strictEqual(hasUsableDescription(''), false);
+    assert.strictEqual(hasUsableDescription('   '), false);
+    assert.strictEqual(hasUsableDescription('Viscoelastic jets'), true);
+
+    assert.strictEqual(
+      isFeatureWorthy({
+        full_name: 'comphy-lab/CoMPhy-Lab-Blogs',
+        description: null,
+        fork: false,
+        private: false
+      }),
+      false,
+      'Repos with empty descriptions must not be featured'
+    );
+
+    assert.strictEqual(
+      isFeatureWorthy({
+        full_name: 'comphy-lab/talks',
+        description: 'Web versions of CoMPhy Lab project talks',
+        fork: false,
+        private: false
+      }),
+      true,
+      'Public non-fork repos with descriptions should be feature-worthy'
+    );
+
+    assert.strictEqual(
+      isFeatureWorthy({
+        full_name: 'comphy-lab/talks',
+        description: 'Web versions of CoMPhy Lab project talks',
+        fork: true,
+        private: false
+      }),
+      false,
+      'Forks must not be featured'
+    );
+
     const scriptContent = fs.readFileSync(SCRIPT_PATH, 'utf8');
+    assert(
+      !scriptContent.includes('MISSING_DESCRIPTION'),
+      'Generator should not render a "No description available" fallback'
+    );
+    assert(
+      scriptContent.includes('getLatestFromRepoLists'),
+      'Generator should fall back to recently pushed repo lists when events lack descriptions'
+    );
+    assert.strictEqual(META_SEPARATOR, ' · ');
 
-    assert(
-      /MISSING_DESCRIPTION\s*=\s*['"]No description available['"]/.test(scriptContent),
-      'Generator should define MISSING_DESCRIPTION fallback'
-    );
-    assert(
-      /META_SEPARATOR\s*=\s*['"] · ['"]/.test(scriptContent),
-      'Generator should define META_SEPARATOR for description · language · stars'
-    );
-    assert(
-      scriptContent.includes('repoData.description || MISSING_DESCRIPTION'),
-      'Generator should apply MISSING_DESCRIPTION when GitHub returns no description'
-    );
-
-    console.log('✓ Description fallback is owned by the generator');
+    console.log('✓ Empty descriptions are skipped; described public repos remain eligible');
   }
 };
 
