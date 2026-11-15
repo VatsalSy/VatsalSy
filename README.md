@@ -62,11 +62,11 @@ Open to research collaborations, PhD/postdoc inquiries, and discussion of fluid 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/VatsalSy/VatsalSy/pull/20) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-2. 🎉 Merged PR [#10](https://github.com/VatsalSy/rayleigh-coding/pull/10) in [VatsalSy/rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
-3. 💪 Opened PR [#159](https://github.com/comphy-lab/comphy-lab.github.io/pull/159) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
-4. 💪 Opened PR [#20](https://github.com/VatsalSy/VatsalSy/pull/20) in [VatsalSy/VatsalSy](https://github.com/VatsalSy/VatsalSy)
-5. 🎉 Merged PR [#158](https://github.com/comphy-lab/comphy-lab.github.io/pull/158) in [comphy-lab/comphy-lab.github.io](https://github.com/comphy-lab/comphy-lab.github.io)
+1. 🗣 Commented on [#201](https://github.com/VatsalSy/qcc-lsp/pull/201#issuecomment-6768000862) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+2. 🗣 Commented on [#200](https://github.com/VatsalSy/qcc-lsp/pull/200#issuecomment-6767973295) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+3. 🗣 Commented on [#197](https://github.com/VatsalSy/qcc-lsp/pull/197#issuecomment-6767972926) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+4. 🗣 Commented on [#182](https://github.com/VatsalSy/qcc-lsp/pull/182#issuecomment-6767997660) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
+5. 🗣 Commented on [#193](https://github.com/VatsalSy/qcc-lsp/pull/193#issuecomment-6767967467) in [VatsalSy/qcc-lsp](https://github.com/VatsalSy/qcc-lsp)
 <!--END_SECTION:activity-->
 
 ## Metrics
