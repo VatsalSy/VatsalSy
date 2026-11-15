@@ -38,9 +38,9 @@ Latest: Sanjay, V., “[Singularities in Soft Matter Systems](https://doi.org/10
 
 <!--START_SECTION:latest-repo-->
 
-### [rayleigh-coding](https://github.com/VatsalSy/rayleigh-coding)
+### [coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
 
-Public Cursor coding skills plugin (vatsal-mode + coding workflows) for Cloud Agents and local Cursor. · Python
+DNS of viscoelastic drop coalescence as a proxy for biomolecular condensate fusion · Python
 
 <!--END_SECTION:latest-repo-->
 
