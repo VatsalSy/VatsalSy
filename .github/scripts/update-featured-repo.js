@@ -234,6 +234,28 @@ async function getLatestRepository() {
   }
 }
 
+// Numeric entities render as literal punctuation rather than Markdown syntax.
+function plainInline(value) {
+  if (typeof value !== 'string') return '';
+  return value.replace(/\s+/gu, ' ').trim()
+    .replace(/[\p{P}\p{S}\p{Cf}\p{Cc}]/gu, ch => `&#${ch.codePointAt(0)};`);
+}
+
+function renderFeaturedRepo(repo) {
+  if (typeof repo.owner !== 'string' || !/^[A-Za-z0-9-]+$/.test(repo.owner) ||
+      typeof repo.name !== 'string' || !/^[A-Za-z0-9_.-]+$/.test(repo.name) ||
+      repo.name === '.' || repo.name === '..') {
+    return null;
+  }
+  const url = `https://github.com/${repo.owner}/${repo.name}`;
+  const meta = [
+    plainInline(repo.description),
+    plainInline(repo.language),
+    Number.isSafeInteger(repo.stars) && repo.stars > 0 ? `⭐ ${repo.stars}` : null,
+  ].filter(Boolean).join(META_SEPARATOR);
+  return `### [${plainInline(repo.name)}](${url})\n\n${meta}`;
+}
+
 function updateReadme(repo) {
   try {
     const readme = fs.readFileSync(README_PATH, 'utf8');
@@ -244,25 +266,16 @@ function updateReadme(repo) {
     const startIndex = readme.indexOf(startMarker);
     const endIndex = readme.indexOf(endMarker);
     
-    if (startIndex === -1 || endIndex === -1) {
-      console.error('Section markers not found in README');
+    if (startIndex === -1 || endIndex < startIndex ||
+        startIndex !== readme.lastIndexOf(startMarker) || endIndex !== readme.lastIndexOf(endMarker)) {
+      console.error('Expected exactly one ordered pair of featured section markers');
       return false;
     }
-    
-    const meta = [
-      repo.description,
-      repo.language || null,
-      repo.stars > 0 ? `⭐ ${repo.stars}` : null,
-    ].filter(Boolean).join(META_SEPARATOR);
 
-    const newContent = `${startMarker}
+    const featured = renderFeaturedRepo(repo);
+    if (!featured) return false;
+    const newContent = `${startMarker}\n\n${featured}\n\n${endMarker}`;
 
-### [${repo.name}](${repo.url})
-
-${meta}
-
-${endMarker}`;
-    
     const updatedReadme = readme.substring(0, startIndex) + 
                          newContent + 
                          readme.substring(endIndex + endMarker.length);
@@ -291,6 +304,7 @@ async function main() {
 }
 
 module.exports = {
+  renderFeaturedRepo,
   hasUsableDescription,
   isExcludedRepo,
   isFeatureWorthy,
