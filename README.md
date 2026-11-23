@@ -38,9 +38,9 @@ Latest: Sanjay, V., “[Singularities in Soft Matter Systems](https://doi.org/10
 
 <!--START_SECTION:latest-repo-->
 
-### [coalescence-non-Newtonian](https://github.com/comphy-lab/coalescence-non-Newtonian)
+### [bview&#45;local&#45;client](https://github.com/comphy-lab/bview-local-client)
 
-DNS of viscoelastic drop coalescence as a proxy for biomolecular condensate fusion · Python
+Self&#45;contained&#44; offline&#45;capable local server for the Basilisk View client · JavaScript · ⭐ 1
 
 <!--END_SECTION:latest-repo-->
 
