@@ -1,5 +1,6 @@
 {
   "expectedSchedules": {
+    "github-stats.yml": "41 3 1,15 * *",
     "update-featured-repo.yml": "29 3 1,15 * *",
     "update-readme.yml": "17 3 1,15 * *"
   }

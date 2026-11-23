@@ -12,8 +12,11 @@ This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist
 ## GitHub Actions Workflows
 
 ### 1. GitHub Stats Update (`.github/workflows/github-stats.yml`)
-- **Status**: Paused. Leave the last generated README block in place.
-- **Resume only after**: A reviewed, pinned stats action uses public-only repository metadata and does not persist credentials. Do not provide a private-repository PAT to the public profile workflow.
+- **Schedule**: On the 1st and 15th at 03:41 UTC
+- **Purpose**: Updates the commit statistics block, counting private repositories in the totals only
+- **Action**: `VatsalSy/commits-readme-stats`, pinned to a reviewed commit SHA. Re-review before moving the pin.
+- **Tokens**: `STATS_READ_TOKEN` is an expiring fine-grained token with Contents: Read-only and Metadata: Read-only, used only to read commit history. The workflow's own `github.token` pushes the README. Never give this workflow a classic `repo` token or any token with write access, and never fall back to another secret.
+- **Privacy**: Only totals and time-of-day buckets are published. Repository names must not appear in logs or the README.
 
 ### 2. My Badges (`.github/workflows/my-badges.yml`)
 - **Status**: Retired (manual stub only; no schedule)

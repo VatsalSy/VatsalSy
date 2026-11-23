@@ -1,0 +1,47 @@
+name: GitHub Stats Update
+on:
+  schedule:
+    - cron: '41 3 1,15 * *'  # Complete default-branch crawl on the 1st and 15th at 03:41 UTC
+  workflow_dispatch:      # Allows manual trigger
+
+concurrency:
+  group: github-stats-update
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Generate Stats
+        # Reviewed revision: public-only by default, scoped Git credentials,
+        # no repository names in logs. Re-review before moving this pin.
+        uses: VatsalSy/commits-readme-stats@e5198739f95261d6b7aecb82a6a37f72e9eefc4b
+        with:
+          # Read-only fine-grained token (Contents: Read-only, Metadata: Read-only).
+          # It reads commit history only and can never push. No fallback: the run
+          # fails if the secret is missing rather than publishing a partial count.
+          GH_COMMIT_TOKEN: ${{ secrets.STATS_READ_TOKEN }}
+          # The workflow token alone publishes the README.
+          GH_PUSH_TOKEN: ${{ github.token }}
+          # Private repositories count towards totals only; names are never
+          # logged or written to the README.
+          INCLUDE_PRIVATE: true
+          # Keep time-of-day ASCII here; the OSS Insight timing widget was removed
+          # from README as redundant. Do not set both SHOW_* flags false — that
+          # skips the crawl and drops the unique-commit line.
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: false
+          # Commit settings
+          COMMIT_MESSAGE: 'docs(stats): update github stats'
+          COMMIT_BY_ME: false
+          COMMIT_USERNAME: 'github-actions[bot]'
+          COMMIT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
