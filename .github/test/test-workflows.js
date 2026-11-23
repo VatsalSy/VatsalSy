@@ -89,7 +89,7 @@ const workflowTests = {
       const workflow = yaml.load(content);
       
       // Check if workflows that modify files have write permissions
-      if (file.includes('update') || file.includes('stats') || file.includes('badges')) {
+      if (file.includes('update') || file.includes('badges')) {
         const jobs = Object.values(workflow.jobs || {});
         jobs.forEach(job => {
           if (job.steps?.some(step => 
@@ -100,26 +100,6 @@ const workflowTests = {
                    `${file} should have contents: write permission`);
             console.log(`  ✓ ${file} has correct permissions`);
           }
-        });
-      }
-    });
-  },
-
-  'test_workflow_secrets': () => {
-    console.log('Testing workflow secrets usage...');
-    const secretsRequired = {
-      'github-stats.yml': ['GH_COMMIT_TOKEN'] // Custom token for commits
-    };
-    
-    Object.entries(secretsRequired).forEach(([file, requiredSecrets]) => {
-      const filePath = path.join(WORKFLOWS_DIR, file);
-      if (fs.existsSync(filePath)) {
-        const content = fs.readFileSync(filePath, 'utf8');
-        
-        requiredSecrets.forEach(secret => {
-          assert(content.includes(secret) || content.includes(`secrets.${secret}`),
-                 `${file} should reference ${secret}`);
-          console.log(`  ✓ ${file} references ${secret}`);
         });
       }
     });
@@ -137,8 +117,6 @@ const readmeTests = {
     const requiredSections = [
       '<!--START_SECTION:activity-->',
       '<!--END_SECTION:activity-->',
-      '<!--START_SECTION:github-stats-->',
-      '<!--END_SECTION:github-stats-->',
       '<!--START_SECTION:latest-repo-->',
       '<!--END_SECTION:latest-repo-->'
     ];
@@ -154,6 +132,8 @@ const readmeTests = {
       'komarev.com/ghpvc',
       'cust-github-readme-activity-graph.vercel.app',
       'next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution',
+      '<!--START_SECTION:github-stats-->',
+      'Unique authored commits',
       'WakaTime',
       'wakatime'
     ];

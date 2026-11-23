@@ -11,9 +11,9 @@ This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist
 
 ## GitHub Actions Workflows
 
-### 1. GitHub Stats Update (`.github/workflows/github-stats.yml`)
-- **Status**: Paused. Leave the last generated README block in place.
-- **Resume only after**: A reviewed, pinned stats action uses public-only repository metadata and does not persist credentials. Do not provide a private-repository PAT to the public profile workflow.
+### 1. GitHub Stats Update (retired)
+- **Status**: Removed. The commit-count block is gone from the README and there is no stats workflow.
+- **Note**: Do not restore it. Counting private repositories needs a token that can read them, and that does not belong in a public profile workflow.
 
 ### 2. My Badges (`.github/workflows/my-badges.yml`)
 - **Status**: Retired (manual stub only; no schedule)
@@ -36,7 +36,6 @@ This is a GitHub profile README repository for Vatsal Sanjay, a fluid dynamicist
 
 Dynamic sections in README.md are marked with special comment tags:
 - `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->`
-- `<!--START_SECTION:github-stats-->` / `<!--END_SECTION:github-stats-->`
 - `<!--START_SECTION:latest-repo-->` / `<!--END_SECTION:latest-repo-->`
 
 ## Development Notes
