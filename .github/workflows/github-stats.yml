@@ -25,6 +25,16 @@ jobs:
         # Reviewed revision: public-only by default, scoped Git credentials,
         # no repository names in logs. Re-review before moving this pin.
         uses: VatsalSy/commits-readme-stats@e5198739f95261d6b7aecb82a6a37f72e9eefc4b
+        env:
+          # At this pin the action reads these settings from INPUT_* variables,
+          # which its own input mapping does not set, so the matching `with`
+          # values below are ignored. Remove once the action maps them itself.
+          INPUT_SHOW_COMMIT: 'true'
+          INPUT_SHOW_DAYS_OF_WEEK: 'false'
+          INPUT_COMMIT_MESSAGE: 'docs(stats): update github stats'
+          INPUT_COMMIT_BY_ME: 'false'
+          INPUT_COMMIT_USERNAME: 'github-actions[bot]'
+          INPUT_COMMIT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
         with:
           # Read-only fine-grained token (Contents: Read-only, Metadata: Read-only).
           # It reads commit history only and can never push. No fallback: the run
