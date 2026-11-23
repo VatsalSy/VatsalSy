@@ -108,7 +108,7 @@ const workflowTests = {
   'test_workflow_secrets': () => {
     console.log('Testing workflow secrets usage...');
     const secretsRequired = {
-      'github-stats.yml': ['GH_COMMIT_TOKEN'] // Custom token for commits
+      'github-stats.yml': ['STATS_READ_TOKEN'] // Read-only token for commit history
     };
     
     Object.entries(secretsRequired).forEach(([file, requiredSecrets]) => {
@@ -117,10 +117,13 @@ const workflowTests = {
         const content = fs.readFileSync(filePath, 'utf8');
         
         requiredSecrets.forEach(secret => {
-          assert(content.includes(secret) || content.includes(`secrets.${secret}`),
+          assert(content.includes(`secrets.${secret}`),
                  `${file} should reference ${secret}`);
           console.log(`  ✓ ${file} references ${secret}`);
         });
+        // The retired broad token must never come back as a secret or a fallback.
+        assert(!content.includes('secrets.GH_COMMIT_TOKEN'),
+               `${file} should not read the retired GH_COMMIT_TOKEN secret`);
       }
     });
   }
